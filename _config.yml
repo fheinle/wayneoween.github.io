@@ -1,0 +1,113 @@
+# Site
+introtitle:         'Dnd,aux>'
+title:              'D&D AUX'
+bio:                'Eine schlaue Beschreibung'
+description:        'Eine schlaue Beschreibung 2'
+locale:             de_DE
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://dndaux.de' # the base hostname & protocol for your site
+timezone: 'Europe/Berlin'
+encoding: 'utf-8'
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    author:
+- scope:
+    path: ''
+    type: characters
+  values:
+    layout: page
+    permalink: "/characters/:title"
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/:title/"
+    layout: post
+    author:
+
+# Jekyll
+permalink:          /blog/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            false
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# personal
+email:              msc+dndaux@cle.ar.it
+slack:              "Wir laden dich sehr gerne ein, melde dich einfach!"
+
+# Default GitHub Plugins (cannot be disabled)
+plugins:
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+# Custom plugins
+#  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jemoji
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+
+jekyll-mentions:
+    base_url: https://github.com
+
+jekyll_timeago:
+  depth: 2 # Level of detail
+  today: 'Heute'
+  yesterday: 'Gestern'
+  tomorrow: 'Morgen'
+  and: 'und'
+  suffix: ''
+  prefix: 'vor'
+  suffix_future: ''
+  prefix_future: 'in'
+  years: 'Jahren'
+  year: 'Jahr'
+  months: 'Monate'
+  month: 'Monat'
+  weeks: 'Wochen'
+  week: 'Woche'
+  days: 'Tagen'
+  day: 'Tag'
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+
+
+liquid:
+  error_mode: warn # lax = ignore all, warn = output, strict = warn + stop
+
+collections:
+  glossary:
+    output: false
+  quests:
+    output: false
+  characters:
+    output: true
+    layout: 'page'
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"

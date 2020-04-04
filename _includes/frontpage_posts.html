@@ -1,0 +1,12 @@
+{% for post in site.tags.Frontpage offset: 1 limit: site.paginate %}
+<article>
+  <header>
+    {% include de_date.html %}
+    <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+  </header>
+  <a href="{{ post.url | absolute_url }}" class="image fit"><img data-src="{{ post.image | absolute_url }}" alt="" class="lazyload"/></a>
+  <ul class="actions">
+    <li><a href="{{ post.url | absolute_url }}" class="button">Hier lesen</a></li>
+  </ul>
+</article>
+{% endfor %}

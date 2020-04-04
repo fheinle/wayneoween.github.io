@@ -1,0 +1,7 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Neues</a></li>
+  <li class="{% if page.url contains '/characters/' %} active {% endif %}"><a href="{{ "/characters/" | absolute_url }}">Charaktere</a></li>
+  <li class="{% if page.url contains '/questlog/' %} active {% endif %}"><a href="{{ "/questlog/" | absolute_url }}">Questlog</a></li>
+  <li class="{% if page.url contains '/karte/' %} active {% endif %}"><a href="{{ "/karte/" | absolute_url }}">Karte</a></li>
+  <li class="{% if page.url contains '/glossary/' %} active {% endif %}"><a href="{{ "/glossary/" | absolute_url }}">Glossar</a></li>
+</ul>

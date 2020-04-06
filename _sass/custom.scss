@@ -1,0 +1,63 @@
+.glossary-item {
+  h3, h4 {
+    display: inline;
+  }
+  h4 {
+    color: grey;
+  }
+}
+
+#index {
+  > ul {
+    column-count: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2;
+    -webkit-column-gap: 5em;
+    -moz-column-gap: 5em;
+    column-gap: 5em;
+    -webkit-column-rule-width: 4px;
+    -moz-column-rule-width: 4px;
+    column-rule-width: 4px;
+    -webkit-column-rule-color: #e4aaa3;
+    -moz-column-rule-color: #e4aaa3;
+    column-rule-color: #e4aaa3;
+    -webkit-column-rule-style: dotted;
+    -moz-column-rule-style: dotted;
+    column-rule-style: dotted;
+    > li {
+      display: block;
+    }
+    > li::first-letter {
+      font-weight: bold;
+    }
+  }
+}
+
+.center-image
+{
+  margin: 0 auto;
+  display: block;
+}
+
+.center-glossary-image
+{
+  width:35%;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  margin: 0 auto;
+  display: block;
+}
+
+.page-heading-barbarian {
+  color: white;
+  h1 {
+    font-family: 'Barbarian';
+    font-weight: 100;
+    font-size: 150px;
+    margin-top: 0;
+  }
+  @media only screen and (min-width: 768px) {
+    padding: 125px 0;
+  }
+}

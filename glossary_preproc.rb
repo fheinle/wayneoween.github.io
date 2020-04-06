@@ -40,8 +40,6 @@ all_glossary_items = Dir.glob('_glossary/*.md').map do |item_fname|
   GlossaryItem.new(item_fname)
 end
 
-puts '[DEBUG] DONE reading glossary items' if DEBUG
-
 markdown_fname = ARGV.first
 markdown_file = FrontMatterParser::Parser.parse_file(markdown_fname)
 

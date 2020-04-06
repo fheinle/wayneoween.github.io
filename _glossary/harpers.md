@@ -4,7 +4,7 @@ type: Fraktion
 ---
 
 <img
-  src='/images/factions/harpers.png'
+  src='/img/factions/harpers.png'
   style='width:15%;
          float:right;
          margin-left: 1rem;
@@ -23,4 +23,6 @@ Die Ideologie der Harpers ist edel, und ihre Mitglieder sind stolz auf ihre Inte
 
 #### Ziele
 
-Informationen in ganz Faerûn zu sammeln, die politische Dynamik in jeder Region oder jedem Bereich zu erkennen und Fairness und Gleichheit mit verdeckten Mitteln zu fördern. Öffentliches Handeln nur als allerletztes Mittel. Die Pläne von Tyrannen, von Regierungen oder Gruppen, die zu mächtig werden, sind zu vereitelen. Den den Schwachen, den Armen und den Unterdrückten muss stets geholfen werden.
+- Informationen in ganz Faerûn zu sammeln.
+- Die politische Dynamik in jeder Region oder jedem Bereich zu erkennen und Fairness und Gleichheit mit verdeckten Mitteln zu fördern.
+- Öffentliches Handeln nur als allerletztes Mittel.

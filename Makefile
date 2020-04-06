@@ -8,10 +8,9 @@ export TIMESTAMP
 
 define PRAEAMBLE
 ---
-title: "FIXME"
-image: "/images/sXeXX.jpg"
-excerpt: "XXX"
-tags: [ "Baldur's Gate: Descent into Avernus", "BGDiA", "Frontpage"]
+layout: post
+title: ""
+background: ""
 ---
 
 endef
@@ -19,10 +18,9 @@ endef
 export PRAEAMBLE
 
 new:
-	@read -p 'episode: ' EPISODE; \
-	echo "$$PRAEAMBLE" > _posts/${DATESTAMP}-$$EPISODE.md; \
-	echo "" >> _posts/${DATESTAMP}-$$EPISODE.md; \
-	vim _posts/${DATESTAMP}-$$EPISODE.md
+	echo "$$PRAEAMBLE" > _posts/${DATESTAMP}-TITLE.md; \
+	echo "" >> _posts/${DATESTAMP}-TITLE.md; \
+	vim _posts/${DATESTAMP}-TITLE.md
 
 build:
 	bundle exec jekyll b

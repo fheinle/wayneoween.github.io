@@ -1,0 +1,13 @@
+// Import Core Clean Blog SCSS
+@import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+/* Barbarian */
+@font-face {
+  font-family: 'Barbarian';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/webfonts/Barbarian.ttf'); /* IE9 Compat Modes */
+  src: local('Barbarian'),
+       url('/webfonts/Barbarian.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/webfonts/Barbarian.woff') format('woff'), /* Modern Browsers */
+}

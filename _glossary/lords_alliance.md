@@ -4,21 +4,15 @@ type: Fraktion
 ---
 
 <img
-  src='/images/factions/lords.png'
+  src='/img/factions/lords.png'
   style='width:15%;
          float:right;
          margin-left: 1rem;
          margin-bottom: 1rem;'/>
 
-Die Angst vor der Wildnis und ihren vielen Schrecken führte zur Gründung der
-Lords' Alliance, einem losen Bündnis von Städten und Siedlungen, die auf
-gegenseitig vorteilhaften Handelsabkommen beruhen, und der Bereitschaft,
-Bedrohungen der Zivilisation aufzuspüren und zu zerstören.
+Die Angst vor der Wildnis und ihren vielen Schrecken führte zur Gründung der Lords' Alliance, einem losen Bündnis von Städten und Siedlungen, die auf gegenseitig vorteilhaften Handelsabkommen beruhen, und der Bereitschaft, Bedrohungen der Zivilisation aufzuspüren und zu zerstören.
 
-Mitglieder der Lords' Alliance sind die Städte Waterdeep, Neverwinter,
-Mirabar, Yartar und Silverymoon sowie die Städte Amphail, Daggerford und
-Longsaddle und der Zwergfried von Mithral Hall. Baldur's Gate, eine Stadt
-hunderte von Kilometern südlich, ist ebenfalls Mitglied.
+Mitglieder der Lords' Alliance sind die Städte Waterdeep, Neverwinter, Mirabar, Yartar und Silverymoon sowie die Städte Amphail, Daggerford und Longsaddle und der Zwergfried von Mithral Hall. Baldur's Gate, eine Stadt hunderte von Kilometern südlich, ist ebenfalls Mitglied.
 
 #### Überzeugungen
 
@@ -28,8 +22,6 @@ hunderte von Kilometern südlich, ist ebenfalls Mitglied.
 
 #### Ziele
 
-Die Sicherheit und den Wohlstand der Städte und anderer Siedlungen von Faerûn
-durch die Bildung einer starken Koalition gegen die Kräfte, die alle
-bedrohen, zu gewährleisten, solche Bedrohungen mit allen erforderlichen
-Mitteln zu beseitigen, wann und wo immer sie auftreten, und für das Volk
-einzutreten.
+- Die Sicherheit und den Wohlstand der Städte und anderer Siedlungen von Faerûn gewährleisten.
+- Die Bildung einer starken Koalition gegen die Kräfte, die alle bedrohen.
+- Bedrohungen mit allen erforderlichen Mitteln zu beseitigen, wann und wo immer sie auftreten.

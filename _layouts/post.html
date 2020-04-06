@@ -1,78 +1,51 @@
-<!DOCTYPE HTML>
-<!--
-  Massively by HTML5 UP
-  html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-  <head>
-    {% include head.html %}
-    <meta content="{{ site.title | escape }}" property="og:site_name">
-    {% if page.title %}
-    <meta content="{{ page.title }}" property="og:title">
-    {% else %}
-    <meta content="{{ site.title }}" property="og:title">
-    {% endif %}
-    {% if page.title %}
-    <meta content="article" property="og:type">
-    {% else %}
-    <meta content="website" property="og:type">
-    {% endif %}
-    {% if page.excerpt %}
-    <meta content="{{ page.excerpt }}" property="og:description">
-    {% endif %}
-    {% if page.url %}
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-    {% endif %}
-    {% if page.date %}
-    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-    {% endif %}
-    {% if page.image %}
-    <meta content="{{ site.url }}{{ page.image }}" property="og:image">
-    {% else %}
-    <meta content="{{ site.url }}/assets/img/logo-high-resolution.png" property="og:image">
-    {% endif %}
-  </head>
-  <body class="is-loading">
+---
+layout: default
+---
 
-    <!-- Wrapper -->
-      <div id="wrapper" class="fade-in">
-
-        <!-- Header -->
-        <header id="header">
-          <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-        </header>
-
-        <!-- Nav -->
-          <nav id="nav">
-
-            {% include nav.html %}
-
-          </nav>
-
-        <!-- Main -->
-        <div id="main">
-          <section class="post">
-            <header class="major">
-              {% include de_date_page.html %}
-              <h1>{{page.title}}</h1>
-            </header>
-            {% if page.image %}
-                <div class="image main"><img src="{{page.image}}" alt=""></div>
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
-            <p>{{content}}</p>
-          </section>
+            <span class="meta">Erlebt am {% include de_date_page.html %} &middot; {% include read_time.html content=page.content %}
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
 
-          <hr class="footer-divider" >
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
 
-        <!-- Footer -->
-        {% include foot.html %}
+        {{ content }}
+
+        <hr>
+
+        <div class="clearfix">
+
+          {% if page.previous.url %}
+          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
+              Post</span></a>
+          {% endif %}
+          {% if page.next.url %}
+          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
+              Post</span> &rarr;</a>
+          {% endif %}
+
+        </div>
 
       </div>
-
-      <!-- Scripts -->
-      {% include scripts-main.html %}
-
-  </body>
-</html>
+    </div>
+  </div>

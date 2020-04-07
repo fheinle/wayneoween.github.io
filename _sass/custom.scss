@@ -49,6 +49,15 @@
   display: block;
 }
 
+header.masthead {
+  margin-top: 56px;
+}
+@media only screen and (min-width: 992px) {
+  header.masthead {
+    margin-top:0px;
+  }
+}
+
 .page-heading-barbarian {
   color: white;
   text-align: center;
@@ -56,8 +65,18 @@
     font-family: 'Barbarian';
     color: rgb(241, 235, 214);
     font-weight: 100;
-    font-size: 150px;
-    margin-top: 0;
+    font-size: 2em;
+    text-align: center;
+  }
+  @media only screen and (min-width: 992px) {
+      h1 {
+        font-size: 130px;
+      }
+  }
+  @media only screen and (min-width: 360px) and (max-width: 991px) {
+      h1 {
+          font-size: 80px;
+      }
   }
   @media only screen and (min-width: 768px) {
     padding: 125px 0;

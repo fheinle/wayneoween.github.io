@@ -51,13 +51,18 @@
 
 .page-heading-barbarian {
   color: white;
+  text-align: center;
   h1 {
     font-family: 'Barbarian';
+    color: rgb(241, 235, 214);
     font-weight: 100;
     font-size: 150px;
     margin-top: 0;
   }
   @media only screen and (min-width: 768px) {
     padding: 125px 0;
+  }
+  span {
+    font-size: 25px;
   }
 }

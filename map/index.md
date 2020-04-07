@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aktueller Standpunkt
-current_location: "Maelstrom"
+title: Aufenthaltsort
+current_location: "Waterdeep"
 background: '/img/map.jpg'
 ---
 

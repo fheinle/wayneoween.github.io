@@ -4,7 +4,7 @@ email:       msc+dnd@cle.ar.it
 description: Was in Baldur's Gate passiert, bleibt... in Baldur's Gate?
 baseurl:     "" # the subpath of your site, e.g. /blog
 url:         "https://dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
-author:      m_sc
+author:      heinlef / ichaelus / kratob / wayneoween
 
 # Social Profiles
 twitter_username: Wayneoween

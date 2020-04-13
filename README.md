@@ -67,6 +67,49 @@ schief gegangen ist, kann man den fertig geschriebenen Artikel schon mal in den
 Index schieben und danach den Unterschied zeigen lassen, bevor man auch diesen
 zum Index hinzufügt und den Commit macht.
 
+## Spezialsektionen
+
+### Charaktere
+
+Um einen Eintrag für einen Charakter anzulegen wird gebraucht:
+
+* Token-Bild, `128x128` Pixel unter `img/portraits/$charname.png`
+* Großes Hintergrundbild, z.B. `2610x1316` - Seitenverhältnis muss stimmen - unter `img/portraits/$charname_bg.jpg`. Hier kann der Dateiname, insbesondere die Endung, auch abweichen, weil der URI ausdrücklich in der Markdown-Datei gesetzt wird
+* Charakterbeschreibung in `_characters/$charname.md`
+
+Für das große Hintergrundbild gibt es kein Patentrezept, weil sich die Bilder
+dafür zu sehr voneinander unterscheiden. Ein Lösungsvorschlag ist, *irgendein*
+großes Bild des Charakters auf die *Höhe* des Bildes zu skalieren und die
+leeren Flächen mit weichgezeichnetem Hintergrund auszufüllen. Dazu kann man das
+*ganze* Originalbild nochmal als eigene Ebene im Hintergrund einfügen,
+proportional so skalieren, dass auch die Brete ausgefüllt wird, dann mit der
+ersten Ebene vereinen, die dann einzige Ebene nochmal duplizieren, zuoberst auf
+den Stapel legen, stark weichzeichnen und dann eine Ebenenmaske anlegen. Mit
+Hilfe der Ebenenmaske kann man dann einen etwas weichen Übergang des scharfen
+Chars in der Mitte und des weichen Hintergrunds drum herum herstellen.
+
+Charaktere werden in ihren `_characters/$charname.md` beschrieben. Dort können
+auch einige Metadaten gesetzt werden, im *YAML Front matter*:
+
+```yaml
+---
+title: Grafton
+race: Zwerg
+player: Florian
+player_link: https://twitter.com/heinlef
+layout: character
+background: /img/portraits/grafton_bg.jpg
+---
+```
+
+Notwendige Attribute sind `title` und `layout`, alles weitere ist optional.
+
+**Hinweis**:: `jekyll` ermittelt bei Änderungen innerhalb einer `collection` wie
+den Characteren nicht automatische alle notwendigen Neu-Generierungen. Wenn sich
+die `/characters/`-Seite nach einer Änderung an einem `/_characters/$charname.md`
+nicht aktualisiert, muss `_site/characters/index.html` gelöscht werden, um das
+erneute Generieren der Seite zu erzwingen.
+
 ## Development
 
 * Install rbenv + ruby 2.6.6

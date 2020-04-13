@@ -106,3 +106,39 @@ header.masthead {
         font-weight: bold;
     }
 }
+
+ul.post-list {
+    padding: 0;
+}
+.character {
+    padding-top: 2rem;
+    &:first-child {
+        padding-top: 0;
+    }
+    header {
+        h2 {
+            display: inline
+        }
+        img {
+            height: 96px;
+            width: 96px;
+            vertical-align: top;
+        }
+        .player, .race {
+            font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        }
+        .race {
+            font-size: 2rem;
+        }
+        .player a {
+            color: $primary;
+        }
+    }
+    .char-details {
+        padding-left: 1em;
+        display: inline-block;
+    }
+    .description {
+        padding-top: 1em;
+    }
+}

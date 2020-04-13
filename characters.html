@@ -1,0 +1,34 @@
+---
+title: Charaktere
+layout: page
+includefile: characters
+background: /img/characters.jpg
+---
+
+{% assign characters = site.characters | sort: 'date' %}
+<ul class="post-list">
+{% for post in characters %}
+  <div class="character clearfix">
+    <header>
+      <img src="/img/portraits/{{ post.title | downcase }}.png" />
+      <div class="char-details">
+        <a href="{{ post.url }}">
+          <h2>{{ post.title }}</h2>
+          {% if post.race %}<span class="race">&middot; {{ post.race }}</span>{% endif %}
+        </a>
+        {% if post.player %}<br />
+          <span class="player">Gespielt von
+            {% if post.player_link %}<a href="{{ post.player_link }}">{% endif %}
+            {{ post.player }}
+            {% if post.player_link %}</a>{% endif %}
+          </span>
+        {% endif %}
+      </div>
+    </header>
+    <div class="description">
+      {{ post.excerpt }} 
+    </div>
+    <a class="btn btn-primary float-right" href="{{ post.url }}">Mehr</a>
+  </div>
+{% endfor %}
+</ul>

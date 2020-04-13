@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Charaktere
+title: Quests und andere Vorhaben
 background: '/img/quests.jpg'
 ---
 

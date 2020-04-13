@@ -2,6 +2,7 @@
 title: Grafton
 race: Zwerg
 layout: character
+background: /img/portraits/grafton_bg.jpg
 ---
 
 ### Mitglied der Flaming Fist, Kleriker  des Tyr/Torm

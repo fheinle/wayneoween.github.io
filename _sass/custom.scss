@@ -108,6 +108,10 @@ header.masthead {
 }
 
 .character {
+    padding-top: 2rem;
+    &:first-child {
+        padding-top: 0;
+    }
     header {
         img {
             height: 96px;
@@ -124,5 +128,8 @@ header.masthead {
     }
     .description {
         padding-top: 1em;
+    }
+    .backstory {
+        text-align: right;
     }
 }

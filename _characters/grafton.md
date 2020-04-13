@@ -56,4 +56,3 @@ Seit einigen Jahren arbeitet Grafton jetzt mehr oder weniger zufrieden bei der
 Flaming Fist und ist sich noch nicht zu sicher, ob er denn auch für immer dort
 bleiben möchte. Fürs erste allerdings ist es noch die beste Option, also gibt
 er sich damit zufrieden.
-

@@ -30,8 +30,10 @@ layout: default
           <header>
             <img src="/img/portraits/{{ page.title | downcase }}.png" />
             <div class="char-details">
-              <h2><a href="{{ post.url }}">{{ page.title }}</a></h2>
-              {% if page.race %}<span class="race">&middot; {{ page.race }}</span>{% endif %}
+              <a href="{{ post.url }}">
+                <h2>{{ page.title }}</h2>
+                {% if page.race %}<span class="race">&middot; {{ page.race }}</span>{% endif %}
+              </a>
               {% if page.player %}<br />
                 <span class="player">Gespielt von
                   {% if page.player_link %}<a href="{{ page.player_link }}">{% endif %}

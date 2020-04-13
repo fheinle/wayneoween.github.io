@@ -130,6 +130,9 @@ ul.post-list {
         .race {
             font-size: 2rem;
         }
+        .player a {
+            color: $primary;
+        }
     }
     .char-details {
         padding-left: 1em;
@@ -137,8 +140,5 @@ ul.post-list {
     }
     .description {
         padding-top: 1em;
-    }
-    .backstory {
-        text-align: right;
     }
 }

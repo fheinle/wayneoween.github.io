@@ -17,7 +17,7 @@ layout: default
             {% if page.subtitle %}
             <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
-            <span class="meta">Wir schreiben den {% if page.dr_date %}{{ page.dr_date }} &middot; {% endif%}{% include de_date_page.html %} &middot; {% include read_time.html content=page.content %}
+            <span class="meta">{% if page.dr_date %}Wir schreiben den {{ page.dr_date }} &middot; {% endif%} {% include read_time.html content=page.content %} &middot; {% include de_date_page.html %}
             </span>
           </div>
         </div>

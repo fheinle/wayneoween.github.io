@@ -22,45 +22,43 @@ background_pos: '50% 30%'
     <summary >
       <h3>{{ item.title }}</h3>
 
-    {%   if item.icon %}
-    <h4 id="type-{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.icon }}.html %}</h4>
-
-    {{     item.content }}
-    {%   elsif item.type %}
-    <h4 id="type-{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.type | downcase }}.html %}</h4>
+      {%  if item.icon %}
+      <h4 id="type-{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.icon }}.html %}</h4>
+      {%  elsif item.type %}
+      <h4 id="type-{{ item.title | downcase | url_encode }}">{{ item.type }} {% include icons/{{ item.type | downcase }}.html %}</h4>
+      {%  endif %}
     </summary>
-
-    {{     item.content }}
-    {%   else %}
-    {{     item.content }}
-    {%   endif %}
+    {{ item.content }}
   </details>
 </div>
 {% endfor %}
 
 <script type="text/javascript" language="javascript">
-  mobile_browsers = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile|mobile|CriOS/i
+  const mobileBrowsers = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|Mobile|mobile|CriOS/i;
 
   function openGlossaryItem() {
-    current_item = document.getElementById(location.hash.substr(1));
-    if (current_item != null) {
-      current_item.setAttribute('open', 'open');
+    let currentItem = document.getElementById(location.hash.substr(1));
+    if (currentItem) {
+      currentItem.setAttribute('open', 'open');
     }
   }
-  if (mobile_browsers.test(navigator.userAgent) != true) {
-    for (glossary_item of document.getElementsByTagName('details')) {
-      glossary_item.setAttribute('open', 'open')
+  if (mobileBrowsers.test(navigator.userAgent) !== true) {
+    for (let glossaryItem of document.getElementsByTagName('details')) {
+      glossaryItem.setAttribute('open', 'open');
     }
   } else {
-    index_block = document.getElementById('index');
-    index_block.style.display = 'none';
+    let indexBlock = document.getElementById('index');
+    if(indexBlock){
+      // The index is only visible if there are more than a few glossary entries
+      indexBlock.style.display = 'none';
+    }
   }
   if (location.hash != "") {
-    openGlossaryItem()
-    location.href = location.hash
+    openGlossaryItem();
+    location.href = location.hash;
   }
   window.onhashchange = openGlossaryItem;
-  for (internal_link of document.querySelectorAll('.glossary-item a')) {
-    internal_link.onclick = function() { openGlossaryItem(); }
+  for (let internalLink of document.querySelectorAll('.glossary-item a')) {
+    internalLink.onclick = openGlossaryItem;
   }
 </script>

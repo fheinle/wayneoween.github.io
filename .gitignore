@@ -3,3 +3,4 @@ _site
 *.scssc
 .DS_Store
 .jekyll-metadata
+.vscode/*

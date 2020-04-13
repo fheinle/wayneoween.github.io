@@ -66,3 +66,15 @@ Es empfiehlt sich, dabei die oben beschriebene Reihenfolge einzuhalten. Das Scri
 schief gegangen ist, kann man den fertig geschriebenen Artikel schon mal in den
 Index schieben und danach den Unterschied zeigen lassen, bevor man auch diesen
 zum Index hinzufügt und den Commit macht.
+
+## Development
+
+* Install rbenv + ruby 2.6.6
+* Run `bundle`
+* Open a terminal and run
+  * `make serve` or `bundle exec jekyll server --watch --livereload`
+* Open the local version in your Browser: http://127.0.0.1:4000/
+* Whenever you make a content change, it will automatically be built, served locally and reload your
+  tab.
+* Please note that you must restart the server when making changes to "_config.yml" (i.e. when
+  adding a new icon).

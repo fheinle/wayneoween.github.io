@@ -1,0 +1,23 @@
+---
+title: Charaktere
+layout: page
+includefile: characters
+---
+
+{% assign characters = site.characters | sort: 'date' %}
+<ul class="post-list">
+{% for post in characters %}
+  <div class="character">
+    <header>
+      <img src="/img/portraits/grafton.png" />
+      <div class="char-details">
+        <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+        {% if post.race %}<span class="race">{{ post.race }}</span>{% endif %}
+      </div>
+    </header>
+    <div class="description">
+      {{ post.excerpt }} 
+    </div>
+  </div>
+{% endfor %}
+</ul>

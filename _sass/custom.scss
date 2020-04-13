@@ -106,3 +106,23 @@ header.masthead {
         font-weight: bold;
     }
 }
+
+.character {
+    header {
+        img {
+            height: 96px;
+            width: 96px;
+            vertical-align: top;
+        }
+        .race {
+            font-size: 1.5rem;
+        }
+    }
+    .char-details {
+        padding-left: 1em;
+        display: inline-block;
+    }
+    .description {
+        padding-top: 1em;
+    }
+}

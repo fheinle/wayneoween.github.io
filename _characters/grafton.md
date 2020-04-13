@@ -1,6 +1,8 @@
 ---
 title: Grafton
 race: Zwerg
+player: Florian
+player_link: https://twitter.com/heinlef
 layout: character
 background: /img/portraits/grafton_bg.jpg
 ---

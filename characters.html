@@ -10,10 +10,17 @@ background: /img/characters.jpg
 {% for post in characters %}
   <div class="character clearfix">
     <header>
-      <img src="/img/portraits/grafton.png" />
+      <img src="/img/portraits/{{ post.title | downcase }}.png" />
       <div class="char-details">
         <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-        {% if post.race %}<span class="race">{{ post.race }}</span>{% endif %}
+        {% if post.race %}<span class="race">&middot; {{ post.race }}</span>{% endif %}
+        {% if post.player %}<br />
+          <span class="player">Gespielt von
+            {% if post.player_link %}<a href="{{ post.player_link }}">{% endif %}
+            {{ post.player }}
+            {% if post.player_link %}</a>{% endif %}
+          </span>
+        {% endif %}
       </div>
     </header>
     <div class="description">

@@ -118,7 +118,7 @@ Flüstern und Röcheln zu vernehmen. Toni weiß mehr über solche Dinge. Er spü
 die Nekromantie in diesem Stück. Die Prägung ist ein **F**, doch zuvor war sie
 etwas anderes. Eine Münze mit wechselndem Wappen - das hat uns noch gefehlt.
 
-![](/img/posts/coin.png)
+![Soul Coin](/img/posts/coin.png)
 
 ## Weiter nach Daggerford - 8. Kytorn
 

@@ -62,7 +62,7 @@ verdeckt mit einem Tuch. Er will zu Toni. Ein Mann habe ihm diesen Käfig für i
 gegeben. Wir schauen in die Menge der Leute, doch der Mann ist längst verschwunden.
 Der Junge läuft zurück zu seiner Mutter. Sie scheint so verwirrt wie wir. Uns
 bleibt ein Brief, mit rotem Siegel. Ein **M** prangt auf dem Siegel. **M** scheint
-eine Vorliebe für das geheimnisvolle zu haben. Der Brief ist nicht weniger
+eine Vorliebe für das Geheimnisvolle zu haben. Der Brief ist nicht weniger
 mysteriös und gibt nur noch mehr Rätsel auf, statt unsere Fragen an seinen Umschlag
 zu beantworten.
 

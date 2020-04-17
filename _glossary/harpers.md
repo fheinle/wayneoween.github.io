@@ -10,10 +10,10 @@ type: Fraktion
          margin-left: 1rem;
          margin-bottom: 1rem;'/>
 
-Die Harpers sind eine alte Organisation, die mehrmals auferstanden, zerschlagen und wiederauferstanden ist.
+Die {% include glossary_link.html title="Harpers" %} sind eine alte Organisation, die mehrmals auferstanden, zerschlagen und wiederauferstanden ist.
 Ihre Langlebigkeit und Belastbarkeit ist vor allem seiner dezentralen, demokratischen, geheimnisvollen Natur und der Beinahe-Autonomie vieler seiner Mitglieder zu verdanken.
 
-Die Ideologie der Harpers ist edel, und ihre Mitglieder sind stolz auf ihre Integrität und Unbestechlichkeit. Harpers suchen nicht nach Macht oder Ruhm, sondern nur nach Gerechtigkeit und Gleichbehandlung für alle.
+Die Ideologie der {% include glossary_link.html title="Harpers" %} ist edel, und ihre Mitglieder sind stolz auf ihre Integrität und Unbestechlichkeit. {% include glossary_link.html title="Harpers" %} suchen nicht nach Macht oder Ruhm, sondern nur nach Gerechtigkeit und Gleichbehandlung für alle.
 
 #### Überzeugungen
 

@@ -11,7 +11,7 @@ type: Fraktion
          margin-bottom: 1rem;'/>
 
 Viele Paladine und Kleriker von Tyr, Helm, Torm und Hoar haben sich der Organisation angeschlossen und sehen es als eine Möglichkeit, gemeinsame Sache gegen die Übel in der Welt zu machen.
-Der Order of the Gauntlet ist bereit, gegen das Böse zu kämpfen, sobald gesetzte Grenzen überschritten werden, und nicht einen Moment vorher.
+Der {% include glossary_link.html title="Order of the Gauntlet" %} ist bereit, gegen das Böse zu kämpfen, sobald gesetzte Grenzen überschritten werden, und nicht einen Moment vorher.
 
 Freundschaft und Kameradschaft sind den Mitgliedern des Ordens wichtig, und sie teilen ein Vertrauen und eine Bindung, die normalerweise Geschwistern vorbehalten sind.
 

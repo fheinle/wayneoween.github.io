@@ -5,6 +5,7 @@ player: Michael
 # player_link: /
 layout: character
 background: /img/portraits/ketis_bg.jpg
+background_pos: '50% 40%'
 ---
 
 ### Ein Aussteiger aus Brampton

@@ -5,6 +5,7 @@ player: Florian
 player_link: https://twitter.com/heinlef
 layout: character
 background: /img/portraits/grafton_bg.jpg
+background_pos: '50% 25%'
 ---
 
 ### Mitglied der Flaming Fist, Kleriker  des Tyr/Torm

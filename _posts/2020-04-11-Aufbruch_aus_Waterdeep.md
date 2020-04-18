@@ -186,7 +186,7 @@ gemacht.
 
 ![](/img/posts/misty-forest.jpeg)
 
-Wir steigen auf einen Hügel und uns erwartet ein Wald wie ein Wand, dicht und
+Wir steigen auf einen Hügel und uns erwartet ein Wald wie eine Wand, dicht und
 neblig. Dort hinein wollen wir noch nicht. Wir schlagen an seinem Rand ein
 Lager auf. Im Wald knistert es. Veil trägt nicht zur Tapferkeit in der Truppe
 bei mit ihren Geschichten, die sonst alte Weiber ihren ungehorsamen Kindern

@@ -4,7 +4,7 @@ title: Boareskyr Bridge
 author: Grafton Clarke
 excerpt: Begegnung mit Göttern und anderem Übernatürlichem
 background: "/img/posts/boareskyr.jpg"
-dr_date: 21.. Kytorn 1494
+dr_date: 21. Kytorn 1494
 ---
 
 Wir müssen schon bestimmt fünfhundert Meilen unterwegs sein. Schon aus der

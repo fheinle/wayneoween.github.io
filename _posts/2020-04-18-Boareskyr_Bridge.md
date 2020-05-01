@@ -34,7 +34,7 @@ an den Tempel zu entrichten sind. Tyr geht es um die Gerechtigkeit.
 Als die Erscheinung im Wasser zu mir zu sprechen beginnt, habe ich keine
 Zweifel. Zu mir spricht Tyr, der Verstümmelte. Man sagt, Tyr und Torm
 sehen jedes Unrecht voraus, spüren es schon lange Zeit zuvor und noch lange
-Zeit danach. Das Ebenbild spricht düstere Warnungen aus. Baldur's Gate droht
+Zeit danach. Das Ebenbild spricht düstere Warnungen aus. {% include glossary_link.html title="Baldur's Gate" %} droht
 das Schicksal Elturels, wenn es nicht abgewendet wird. Ich soll meinen Mentor
 im Tempel aufsuchen. Er mahnt mich, ich soll mein Versprechen halten. Er halte
 seines.
@@ -42,7 +42,7 @@ seines.
 <div class="infobox quest">
   <h3>Graftons Mentor in Elturel aufsuchen</h3>
   <p>Eine Erscheinung Tyrs hat Grafton aufgefordert, seinen Mentor im Tempel
-  Torms in Elturel aufzusuchen. Baldur's Gate droht schlimmes Unglück, das es zu
+  Torms in Elturel aufzusuchen. {% include glossary_link.html title="Baldur's Gate" %} droht schlimmes Unglück, das es zu
   verhindern gilt.</p>
 </div>
 

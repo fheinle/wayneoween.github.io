@@ -4,11 +4,11 @@ title: Aufbruch aus Waterdeep
 author: Grafton Clarke
 excerpt: Von Wegzoll, Eifer und Feuer
 background: "/img/posts/waterdeep.jpg"
-background_pos: "50% 75%"
+background_pos: 50% 75%
 dr_date: 7. Kytorn 1494
 ---
 
-Der Hinweg nach Waterdeep war nicht für jeden von uns was. Die zahlreichen
+Der Hinweg nach {% include glossary_link.html title="Waterdeep" %} war nicht für jeden von uns was. Die zahlreichen
 Kleider, in die sich Veil jeden Tag schälte, konnte nicht darüber hinweg
 täuschen, dass die Farbe in ihrem Gesicht sich immer weiter der natürlichen
 Farbe von Ketis annährte. Ketis trägt immer das gleiche. Er hatte natürlich
@@ -17,7 +17,7 @@ kann es aber keiner von uns mehr erwarten, wieder festen Boden unter den Füßen
 zu haben. Dazu noch ein weiches Bett, eine ordentliche Mahlzeit. Bescheidene
 Ansprüche - auf See schwer zu bekommen.
 
-Waterdeep sieht nicht aus wie Baldur's Gate. Hier muss man nicht nach jedem
+Waterdeep sieht nicht aus wie {% include glossary_link.html title="Baldur's Gate" %}. Hier muss man nicht nach jedem
 Schritt über die Schulter sehen, ob einen nicht die Crews, die Flaming Fist oder
 schlimmere hinter dem Rücken hat. Hier gibt es Geld, die Stadt riecht danach. Das
 Verbrechen scheint hier weit weg zu sein. Es muss einfach sein, ein Engel zu sein,
@@ -26,7 +26,7 @@ wenn man im Paradies lebt.
 ## Das Buch
 
 Wir finden das Pfandleihhaus schnell, die Beschreibung macht es uns leicht.
-Auch in Waterdeep gibt es nur wenige Häuser, die aussehen wie dieses. Ein
+Auch in {% include glossary_link.html title="Waterdeep" %} gibt es nur wenige Häuser, die aussehen wie dieses. Ein
 großes Haus, ausladend, eigenartig. Die Wände aus Stahl sind beeindruckend,
 meisterlich gefertigt. Doch was wirklich beeindruckend ist sind die Fenster,
 wenn man sie erkennt. Selbst die scheinen aus Stahl zu sein. Hier muss ein
@@ -70,7 +70,7 @@ zu beantworten.
 
 Noch verwunderlicher ist nur der kleine Drachen, der im Käfig sitzt. Ein Drachen,
 klein wie ein Hund oder eine Katze. Kleiner als ein Pfau, immerhin, also
-werden wir zumindest damit noch durch das Stadttor von Baldur's Gate kommen.
+werden wir zumindest damit noch durch das Stadttor von {% include glossary_link.html title="Baldur's Gate" %} kommen.
 Toni scheint den Drachen behalten zu wollen. Warum nicht - es wäre nicht das
 auffälligste an ihm. Der Panzer und die Bücher am Gürtel sind schon auffällig
 genug - wie ein Bibliothekar, der sein Heim mit sich trägt.
@@ -79,22 +79,22 @@ genug - wie ein Bibliothekar, der sein Heim mit sich trägt.
 ## Die Rückreise
 
 Ich habe nicht viele Tage frei von der Flaming Fist. Ich habe es aber auch
-nicht eilig, zurück nach Baldur's Gate zu kommen. Zu lange fern zu bleiben ist
+nicht eilig, zurück nach {% include glossary_link.html title="Baldur's Gate" %} zu kommen. Zu lange fern zu bleiben ist
 nicht besser als dort arbeiten zu müssen, bedenkt man die Konsequenzen für
 Fahnenflüchtige.  Noch einigen Proviant wollen wir kaufen und wir brechen auf.
 Der Weg wird uns einige Zeit kosten. Wir bekommen keinen Platz auf einem der
-Schiffe zurück nach Baldur's Gate, also müssen wir die Reise zu Fuß antreten.
+Schiffe zurück nach {% include glossary_link.html title="Baldur's Gate" %}, also müssen wir die Reise zu Fuß antreten.
 Der Weg wird auch gefährlich. Daggerford, Dragonspear, die Trollclaws. Banditen
 könnten noch die kleinsten unserer Sorgen sein. Hier gibt es noch
 unberechenbarere Gestalten - Trolle, Orcs, Goblins. Erst bei der
 Boareskyr-Bridge wird der Tradeway wieder etwas angenehmer. Bis dahin bleibt es
 gefährlich.
 
-Schon wenige Meilen außerhalb von Waterdeep stoßen wir auf den ersten Ärger.
+Schon wenige Meilen außerhalb von {% include glossary_link.html title="Waterdeep" %} stoßen wir auf den ersten Ärger.
 Der Weg ist versperrt. Eine Schranke versperrt die Straße, mehr schlecht als
 Recht auf den Weg gestellt. Bestimmt keine ordentliche Kontrolle. Zwei
 Gestalten kommen aus dem Dickicht. Sie tragen die Uniformen der Stadtwache aus
-Waterdeep. Irgendwas stimmt nicht, ich kann es förmlich riechen. Ihre
+{% include glossary_link.html title="Waterdeep" %}. Irgendwas stimmt nicht, ich kann es förmlich riechen. Ihre
 Wappenröcke sitzen schief, schmutzig, passen nicht. Wie verkleidete Kinder
 kommen sie daher. Die Haare sind nicht geschnitten, die Bärte nicht getrimmt.
 Nie im Leben sind diese Banditen Teil der Wache. Kein Soldat würde sich die Blöße
@@ -136,7 +136,7 @@ Noch ein paar Tage später kommen wir in Daggerford an. Ein verschlafenes Kaff,
 kaum den Platz auf der Landkarte wert. Wir lassen uns in der Taverne nieder.
 Es ist mitten am Tag und die Dorfbewohner sind schon in der Kneipe. Wir wollen
 es ihnen nicht verdenken. Nicht viel anderes scheint los zu sein in dieser Einöde
-von einem Ort. Ich sehne mir fast das aufregende Leben in Baldur's Gate zurück.
+von einem Ort. Ich sehne mir fast das aufregende Leben in {% include glossary_link.html title="Baldur's Gate" %} zurück.
 Es bleibt nicht lange bei der Langeweile. Wäre auch zu schön gewesen.
 
 Die Leute sind freundlich, aber bleiben bei sich. Wir bestellen das Tagesgericht,

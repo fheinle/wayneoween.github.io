@@ -3,7 +3,8 @@ layout: post
 title: Das Unheil nimmt seinen Lauf
 author: Grafton Clarke
 excerpt: Elturel brennt
-background: /img/posts/elturel-burns.jpg
+background: "/img/posts/elturel_burns.jpg"
+background_pos: 50% 10%
 dr_date: 1. Flamerule 1494
 ---
 
@@ -74,7 +75,6 @@ verschiedene Drachenstatuen. Von diesen Erkenntnissen müssen meine - unsere -
 Vorgesetzten erfahren. Unsere Mission war erfolgreich, wenn auch der Erfolg mehr
 zu unserer Beunruhigung beiträgt.
 
-![Elturel brennt](/img/posts/elturel-burns2.jpg)
 ## Elturel brennt
 
 Wir sind auf dem Weg zurück nach Elturel. Das beschwingte und erleichterte

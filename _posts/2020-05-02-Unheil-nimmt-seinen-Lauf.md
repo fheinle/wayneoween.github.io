@@ -63,7 +63,7 @@ Das klingt nach einem gerechten Tausch.
 <div class="infobox quest">
     <h3>Komplott des Drachenkults aufdecken</h3>
     <p>Der Drachenkult plant einen Überfall in Baldur's Gate. Verantworlich ist
-    Rezmir Wyrmspreader. Weitere Hinweise sind in der Taverne Elfsong in
+    Rezmir vom Rang eines Wyrmsprecher. Weitere Hinweise sind in der Taverne Elfsong in
     Baldur's Gate zu finden. Dort ist ein Brief an die Drachenkultisten
     hinterlegt, den es abzufangen gilt. Eine gewisse Oshalla trägt ihn bei sich
     und wird ihn auf Nachfrage herausgeben.</p>
@@ -102,6 +102,8 @@ Geschehnisse in Elturel wach gehalten, doch gen Morgen bekommen wir keine Zeit,
 uns zu lange damit zu beschäftigen. Lange haben wir keinen Verkehr auf dem Fluss
 gesehen. Sonst so voller Boote, Handelsverkehr und Reisender, ist es hier ruhig.
 Zu ruhig.
+
+![Fährmann](/img/posts/faehrmann.png)
 
 Zwei Boote erscheinen, doch sie tragen keine freundlichen Gesichter oder
 Unterstützer in dieser Not. Mehr Unheil ist an Bord. Zwei Fährmänner, mit
@@ -142,11 +144,11 @@ Wir kommen in Baldur's Gate an. Wir teilen uns auf. Zwei von uns bringen das
 Buch zurück zu Tonis Meister, unseren eigentlichen Auftrag erledigen. Wir
 anderen machen uns auf den Weg zum Hauptquartier der Flaming Fist, Bericht
 erstatten und neue Befehle abzuholen. Was wir dort finden ist wesentlich weniger
-hilfreich. Veriwrrung überall, niemand scheint mehr zu wissen. Das Schicksal
+hilfreich. Verwirrung überall, niemand scheint mehr zu wissen. Das Schicksal
 Elturels ist hier noch nicht bekannt, nur Gerüchte haben bisher die Stadt
-erreicht. Das Kommando scheint Captain Sotch zu haben, der die Tore verschließen
+erreicht. Das Kommando scheint _Captain Zodge_ zu haben, der die Tore verschließen
 lässt. Wir erstatten Bericht über was in Elturel vorgefallen ist und was wir
-über die Kultisten herausgefunden haben. Sotch scheint nicht Herr der Lage zu
+über die Kultisten herausgefunden haben. Zodge scheint nicht Herr der Lage zu
 sein. Seine Lösung ist, die Tore der Stadt zu verschließen und die Schuld den
 Hellriders in die Schuhe zu schieben. In schwierigen Zeiten werden immer
 Sündenböcke gesucht. Das ist hier nicht anders. Reya, die mit uns gereist ist,
@@ -161,7 +163,7 @@ Drei und ihre Gefolgschaft. Unsere nächsten Befehle lauten, eine gewisse
 Fist zwar, doch trotzdem keine ungefährliche Person. Auch für uns nicht.
 Glücklicherweise schuldet sie der Fist noch einen Gefallen, den wir jetzt
 abrufen sollen. Sie weiß mehr über die Kultisten. Zumindest erhofft sich das
-Sotch. Wir sollen diesen Verbrechen Einhalt gebieten. Da bin ich ganz auf seiner
+Zodge. Wir sollen diesen Verbrechen Einhalt gebieten. Da bin ich ganz auf seiner
 Seite. Gelingt es uns, für eine Woche ohne diese Morde zu sorgen, erhalten wir
 unseren Sold. Meine Freunde sind mit inbegriffen. Wir stehen nun alle im Dienst
 der Flaming Fist, ob wir wollen oder nicht. Nicht alle in unserer Gruppe wollen.

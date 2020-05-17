@@ -48,7 +48,7 @@ Der Staub legt sich, der Kampf ist vorbei. Auf den Lichtungen wurden
 Drachenkultisten geopfert, den Uniformen nach zu urteilen. Ihre Leichen werden
 für schändliche Rituale verwendet. Es gibt nur wenige Götter, denen diese Art
 von Gräueltaten wohlgefällig ist. _Die toten Drei_. Ich erinnere mich, einer von
-ihnen hat von Myrkul gesprochen. Der Gott der Toten. Das sind keine guten Omen.
+ihnen hat von {% include glossary_link.html title="Myrkul" %} gesprochen. Der Gott der Toten. Das sind keine guten Omen.
 Doch es gibt auch Hoffnung zwischen all dem Tod und Leid. Torm erlaubt mir,
 eines der Opfer zu heilen. Wir sind noch rechtzeitig gekommen, das größte Unheil
 für sie zu verhindern. Ihre Peiniger konnten wir niederringen, doch nicht bevor
@@ -56,15 +56,15 @@ sie ihr sehr zugesetzt haben. Durch die Gnade Torms errettet, kommt sie wieder
 auf die Beine. Wir erfahren, dass wir uns in einem Lager von Drachenkultisten
 befinden. Das Lager ist überfallen worden, von den Anhängern der toten Drei. Sie
 haben zuvor Greenest abgebrannt, wie wir vermutet haben, und planen weiter einen
-Überfall in Baldur's Gate. Sie erzählt uns von den Plänen und den Kontakten in
-Baldur's Gate. Natürlich unter der Bedingung, dass wir sie dafür laufen lassen.
+Überfall in {% include glossary_link.html title="Baldur's Gate" %}. Sie erzählt uns von den Plänen und den Kontakten in
+{% include glossary_link.html title="Baldur's Gate" %}. Natürlich unter der Bedingung, dass wir sie dafür laufen lassen.
 Das klingt nach einem gerechten Tausch.
 
 <div class="infobox quest">
     <h3>Komplott des Drachenkults aufdecken</h3>
-    <p>Der Drachenkult plant einen Überfall in Baldur's Gate. Verantworlich ist
+    <p>Der Drachenkult plant einen Überfall in {% include glossary_link.html title="Baldur's Gate" %}. Verantworlich ist
     Rezmir vom Rang eines Wyrmsprecher. Weitere Hinweise sind in der Taverne Elfsong in
-    Baldur's Gate zu finden. Dort ist ein Brief an die Drachenkultisten
+    {% include glossary_link.html title="Baldur's Gate" %} zu finden. Dort ist ein Brief an die Drachenkultisten
     hinterlegt, den es abzufangen gilt. Eine gewisse Oshalla trägt ihn bei sich
     und wird ihn auf Nachfrage herausgeben.</p>
 </div>
@@ -92,7 +92,7 @@ mehr. Was bleibt ist ein Abgrund, dessen Boden nicht zu sehen ist. Es wird
 langsam Nacht - und dunkel. Dunkel war es hier schon lange nicht mehr. Das Licht
 des Companion, sonst so hell über der Stadt, ein Wächter des Guten gegen die
 Nacht, verschwunden. Alles Gute scheint diese Stadt verlassen zu haben. So auch
-wir. Wir brechen auf nach Baldur's Gate.
+wir. Wir brechen auf nach {% include glossary_link.html title="Baldur's Gate" %}.
 
 Wir nehmen ein Floß. Das scheint hier niemand mehr zu brauchen. Die Nacht
 vergeht, wir kommen etwas zur Ruhe. Der nächste Morgen graut. Von der
@@ -123,14 +123,14 @@ das gleißende Licht der Gerechtigkeit schlägt die Schatten in die Flucht. Mit
 Torms Hilfe und Rettung gelingt es uns, die Boten der Hölle dorthin zurück zu
 schicken, woher sie kamen. Und wir kommen mit unserem Leben davon.
 
-## Ankunft in Baldur's Gate - 5. Flamerule
+## Ankunft in {% include glossary_link.html title="Baldur's Gate" %} - 5. Flamerule
 
-Die Gefahr ist fürs Erste gebannt. Auf dem Weg nach Baldur's Gate machen wir
+Die Gefahr ist fürs Erste gebannt. Auf dem Weg nach {% include glossary_link.html title="Baldur's Gate" %} machen wir
 Halt bei der bescheidenen Hütte, die Ketis sein Zuhause nennt. Sonst ein
 willkommener Anlass zur Geselligkeit und von den Sorgen abzulassen, drehen sich
 meine Gedanken nur im Kreis. Gerhards Vision scheint Wirklichkeit geworden zu
 sein. Elturel hat schlimmes Unheil ereilt. Schlimm genug. Doch noch schlimmer
-ist meine eigene Vision. Die Warnung Tyrs, Baldur's Gate könne das gleiche
+ist meine eigene Vision. Die Warnung Tyrs, {% include glossary_link.html title="Baldur's Gate" %} könne das gleiche
 Schicksal ereilen wie Elturel. Was, wenn der Verwundete nicht die Niederlage der
 Hellriders meinte - was, es das verheerende Unheil war, das gestern Nacht die
 Stadt ereilte, das er vorhergesehen hat?
@@ -140,7 +140,7 @@ Pferde, Karren, Reisende. Mehr als sonst. Die Leute sprechen von Gerüchten, die
 Stadt würde geschlossen. Die Fist würde mobilisiert. Niemand weiß mehr, doch
 alle haben sie Angst. Wenn sie nur wüssten.
 
-Wir kommen in Baldur's Gate an. Wir teilen uns auf. Zwei von uns bringen das
+Wir kommen in {% include glossary_link.html title="Baldur's Gate" %} an. Wir teilen uns auf. Zwei von uns bringen das
 Buch zurück zu Tonis Meister, unseren eigentlichen Auftrag erledigen. Wir
 anderen machen uns auf den Weg zum Hauptquartier der Flaming Fist, Bericht
 erstatten und neue Befehle abzuholen. Was wir dort finden ist wesentlich weniger
@@ -156,7 +156,7 @@ lässt er die Wahl: Der Fist beitreten oder festgenommen werden. Reya, er
 und ich wissen, wie ernst dieses Angebot ist. Reya wird festgenommen. Es gibt
 nichts, was wir tun können.
 
-Auch in Baldur's Gate hat es seltsame Rituale und Angriffe auf Bürger gegeben,
+Auch in {% include glossary_link.html title="Baldur's Gate" %} hat es seltsame Rituale und Angriffe auf Bürger gegeben,
 die geschändet und tot aufgefunden wurden. Alles deutet auch hier auf die toten
 Drei und ihre Gefolgschaft. Unsere nächsten Befehle lauten, eine gewisse
 *Tarina* in der Elfsong-Taverne aufzusuchen. Eine Spionin. In den Diensten der
@@ -174,7 +174,7 @@ mit denen, die sie als fahnenflüchtig erachten.
 
 <div class="infobox quest">
     <h3>Ritualmorde aufdecken</h3>
-    <p>In Baldur's Gate häufen sich Ritualmorde. Wir haben den Befehl, die
+    <p>In {% include glossary_link.html title="Baldur's Gate" %} häufen sich Ritualmorde. Wir haben den Befehl, die
     Morde aufzudecken und ihnen Einhalt zu gebieten. Eine Woche lang soll es
     keine neuen Berichte über schändliche Gräueltaten geben.</p>
 </div>

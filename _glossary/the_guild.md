@@ -3,9 +3,9 @@ title: Die Gilde
 type: Fraktion
 ---
 
-Die schlicht als Gilde bekannte Organisation aus Baldur's Gate vereint
+Die schlicht als Gilde bekannte Organisation aus {% include glossary_link.html title="Baldur's Gate" %} vereint
 Taschendiebe, Kredithaie, Killer, Schläger, Betrüger, Grabräuber,
-Katzeneinbrecher und jede andere Art von Kriminellen in der Stadt. Die Gilde
+Katzeneinbrecher und jede andere Art von Kriminellen in der Stadt. {% include glossary_link.html title="Die Gilde" %}
 operiert unter den Nasen der Wache und der Flammenden Faust, indem sie ihre
 illegalen Aktivitäten geschickt im Hintergrund hält.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Kneipenschlägerei
 excerpt: Beschaffung von Beweismitteln
-background: /img/posts/elfsong_tavern.png
+background: "/img/posts/elfsong_tavern.png"
 dr_date: 6. Flamerule 1494
 ---
 

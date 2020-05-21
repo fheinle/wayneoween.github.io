@@ -4,7 +4,7 @@ title: Das Badehaus
 author: Grafton Clarke
 excerpt: Anwälte, Erholung und Lebensgefahr
 background: "/img/posts/bathhouse.jpg"
-dr_date: 7 Flamerule 1494
+dr_date: 7. Flamerule 1494
 ---
 
 Heute ist mein Geburtstag - schon wieder. Ich verrate meinen Geburtstag

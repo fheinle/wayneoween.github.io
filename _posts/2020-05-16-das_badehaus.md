@@ -49,7 +49,7 @@ meine liebsten! Und heute habe ich sie mir verdient.
 
 ![Schmalzkringel](/img/posts/donut.png)
 
-Seltsam ist dabei nur, dass die *Horbreeze Bakery* wieder geöffnet haben soll.
+Seltsam ist dabei nur, dass die *Harbreeze Bakery* wieder geöffnet haben soll.
 Das macht uns zumindest ein Aushang glauben, der allernorts an den Mauern
 hängt. Hoffentlich unter neuer Verwaltung. Die alte Verwaltung hat schließlich
 die Befragung durch meine Kompagnons nicht überstanden. Irgendwas geht da nicht

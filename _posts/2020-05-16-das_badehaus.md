@@ -24,7 +24,7 @@ für mich zerteilt werden. Vielleicht finde ich ja noch etwas zu Naschen.
 
 ## Flynder & Söhne - Rettung für Reya
 
-Toni und ich brechen auf, Rechtsbeistand suchen. Normalerweise ist so einer
+Fyron und ich brechen auf, Rechtsbeistand suchen. Normalerweise ist so einer
 eher auf der anderen Seite meiner Interessen. Unschuldige werden normalerweise
 ja auch nicht verhaftet. Hier liegt aber *wirklich* ein Irrtum vor, eine
 Ungerechtigkeit. Wir brauchen jemanden, der Reya aus dem Gefängnis holt. Ich

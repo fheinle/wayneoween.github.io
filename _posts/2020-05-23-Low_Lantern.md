@@ -10,7 +10,7 @@ dr_date: 7. Flamerule 1494
 
 Wir sind immer noch in diesem Kerker. Die Anhänger der toten Drei leisten hier
 ganze Arbeit - mit all dem Tod und dem Verderben. Kleine Kammern voller Zombies,
-Sarkophage voller Blut, Knochen und anderem Übelriechendem. Myrkul wäre stolz.
+Sarkophage voller Blut, Knochen und anderem Übelriechendem. {% include glossary_link.html title="Myrkul" %} wäre stolz.
 
 Wir finden eine Tiefling-Frau. Sie wäre als nächstes mit der Folter dran
 gewesen. Die Kultisten machen entweder Pause oder wurden von uns abgelenkt,
@@ -34,7 +34,7 @@ verbirgt einen größeren Raum. Hier kämpfen zwei. Ein Hüne von einem Mann, mi
 einer fast ebenso großen Keule, und ein weiterer der Kultisten mit einer
 goldenen Maske vor dem Gesicht. Wir greifen ein. Auf der *Gegenseite* der
 Kultisten. So viel haben wir an diesem Tag gelernt. Mit der Hilfe des
-riesenhaften erledigen wir auch den letzten der Kultisten. Er trug aber keine
+Riesenhaften erledigen wir auch den letzten der Kultisten. Er trug aber keine
 Maske. Statt eines Gesichts trägt er eine feine Schicht Gold auf seinem blanken
 Schädel. Mir reicht es mit diesen Kultisten und dem Tod.
 
@@ -42,26 +42,28 @@ Schädel. Mir reicht es mit diesen Kultisten und dem Tod.
 
 # Mortlock
 
-Der Riese ist Mortlock Vanthampur. Auch ein Patriar. Den Vanthampurs gehört das
-Badehaus, unter dem sich dieser Kerker des Todes so elegant zu verbergen
+Der Riese ist Mortlock Vanthampur. Auch ein Patriar. Den Vanthampurs gehört
+das Badehaus, unter dem sich dieser Kerker des Todes so elegant zu verbergen
 vermag. Er hat einiges zu erzählen! Er war schon immer das schwarze Schaf in
 der Familie, nun haben ihn seine Brüder verraten, wollen ihn wohl tot sehen.
 Deswegen ist er hier unten gelandet. Seine Mutter bezahlt die Fist fürs
 Wegsehen, während sie allerhand schändliche Geschäfte treibt. Auch mit den
 Kultisten, die hier Leute entführen und schänden. Darunter verdächtig viele
-Patriars, aber bisher nur ein Vanthampur. Die Geschichte geht aber noch weiter.
-Die Matriarchin will Uldar Ravengards Platz einnehmen unter den Großherzogen.
-Damit aber noch nicht genug, sie will auch noch Baldur's Gate in das gleiche
-Schicksal stoßen wie Elturel, in die neun Höllen hinab ziehen! Sie hat ein
-besonderes Artefakt, einen Schild. *Jemand wie Fyron* soll es ihr verkauft haben. Ein *Sasilas*. Das ist ziemlich viel Vorhaben für nur eine Frau.
-Andererseits ist sie die Matriarchin der Vanthampurs.
+Patriars, aber bisher nur ein Vanthampur. Die Geschichte geht aber noch
+weiter. Die Matriarchin will Uldar Ravengards Platz als Großherzog einnehmen.
+Damit aber noch nicht genug, sie will auch noch {% include glossary_link.html title="Baldur's Gate" %}
+in das gleiche Schicksal stoßen wie Elturel, in die neun Höllen hinab ziehen!
+Sie hat ein besonderes Artefakt, einen Schild.
+*Jemand wie Fyron* soll es ihr verkauft haben. Ein *Sasilas*. Das ist
+ziemlich viel Vorhaben für nur eine Frau. Andererseits ist sie die
+Matriarchin der Vanthampurs.
 
 Wir finden hier einige Beute. Offenbar haben wir auch den Schatz der
 Drachenkultisten gefunden. Kupfer, Silber, eine Krone… mehr als wir tragen
-können. Wir nehmen das teuerste davon mit und machen uns endlich zurück an die
-Oberfläche. Mortlock hilft uns tragen. Schließlich haben wir ihm geholfen
-kämpfen. Weit kommen wir damit aber nicht. Oben erwartet uns eine Abordnung der
-Drachenkultisten, mit mächtigen Magiern. Sie nötigen uns, die Schätze
+können. Wir nehmen das teuerste davon mit und machen uns endlich zurück an
+die Oberfläche. Mortlock hilft uns tragen. Schließlich haben wir ihm
+geholfen. Weit kommen wir damit aber nicht. Oben erwartet uns eine Abordnung
+der Drachenkultisten, mit mächtigen Magiern. Sie nötigen uns, die Schätze
 herauszugeben. Wir haben keine Wahl. Selbst ohne die Erschöpfung eines
 Nachmittags im Todeskerker wären sie uns schon allein zahlenmäßig überlegen.
 Sie verschwinden mit dem Schatz.
@@ -90,7 +92,7 @@ darin, wenn man es verlangt. Von meiner Mutter ein paar raffinierte Schlüssel.
 Und einen Rhabarberkuchen! So wie ich ihn mag. Nicht zu süß. Mutti ist die beste!
 
 Gefährlich ist es hier aber noch immer, die Nacht bricht auch herein. Adrian
-bringt meine Eltern zurück in die Werkstatt. Zurück nach hause kommen sie heute
+bringt meine Eltern zurück in die Werkstatt. Zurück nach Hause kommen sie heute
 nicht mehr. Adrian. Auf ihn kann man sich verlassen, eine treue Seele. Einer der
 wenigen, der noch nicht von der Fist korrumpiert wurde.
 
@@ -129,21 +131,21 @@ beeindruckend seine Standhaftigkeit auch ist, so wenig kann es uns helfen, wenn 
 
 ![Amrik Vanthampur](/img/posts/amrik.png)
 
-Einige Zeit und etwas Beifall des Schankraums später kommen auch wir nach unten.
-Die anderen sitzen an einem Tisch mit Reya. Hinten im Raum sitzt Amrik.
-Von der einen sind wir überrascht, wegen des anderen sind wir hier.
-Für mich ist nichts mehr frei. Schwierig. Mir macht es nichts aus, außen vor zu
-sein, doch *hier sein* zu müssen und *nicht* dazuzugehören - das schon. Ein
-Bisschen. Kaum der Rede wert. Eigentlich ist es egal. Ist halt nur langweilig.
-Ich sehe, wie Toni Amrik Vanthampur findet und mit ihm ins Gespräch kommt. Ich
-setze mich etwas abseits davon hin, aber was sie sprechen vermag ich nicht zu
-hören. Ich sehe nur, dass hier doch noch etwas anderes angeboten wird als das
-Brackwasser. Für Toni offenbar sogar mit einer besonderen Beimischung, die der
-Kenku-Schwankwirt heimlich hinein kippt. Ich finde keinen Moment, Toni zu
-warnen. Amrik ist am Reden, da kann ich ihn nicht unterbrechen. Als Toni aber
-ansetzt zu trinken, hat er auch schon ausgetrunken, bevor ich ihm eine Warnung
-signalisieren kann. Nichts passiert. Toni scheint heute wahrlich trinkfest. Er
-kommt zu uns zurück, scheint aber nicht weit gekommen zu sein. Ausfragen wäre
-ja auch zu einfach gewesen.
+Einige Zeit und etwas Beifall des Schankraums später kommen auch wir nach
+unten. Die anderen sitzen an einem Tisch mit Reya. Hinten im Raum sitzt
+Amrik. Von der einen sind wir überrascht, wegen des anderen sind wir hier.
+Für mich ist nichts mehr frei. Schwierig. Mir macht es nichts aus, außen vor
+zu sein, doch *hier sein* zu müssen und *nicht* dazuzugehören - das schon.
+Ein Bisschen. Kaum der Rede wert. Eigentlich ist es egal. Ist halt nur
+langweilig. Ich sehe, wie Toni den Weg zu Amrik Vanthampur findet und mit ihm
+ins Gespräch kommt. Ich setze mich etwas abseits davon hin, aber was sie
+sprechen vermag ich nicht zu hören. Ich sehe nur, dass hier doch noch etwas
+anderes angeboten wird als das Brackwasser. Für Toni offenbar sogar mit einer
+besonderen Beimischung, die der Kenku-Schwankwirt heimlich hinein kippt. Ich
+finde keinen Moment, Toni zu warnen. Amrik ist am Reden, da kann ich ihn
+nicht unterbrechen. Als Toni aber ansetzt zu trinken, hat er auch schon
+ausgetrunken, bevor ich ihm eine Warnung signalisieren kann. Nichts passiert.
+Toni scheint heute wahrlich trinkfest. Er kommt zu uns zurück, scheint aber
+nicht weit gekommen zu sein. Ausfragen wäre ja auch zu einfach gewesen.
 
 Wir verlassen das Schiff. Wir brauchen einen Plan. Verfolgen wir Amrik.

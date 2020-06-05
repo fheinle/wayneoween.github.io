@@ -22,7 +22,7 @@ Kult angeschlossen zu haben. Blasphemie! Ich glaube aber, er hat auch vorher
 noch an nichts rechtes geglaubt. Sein Pfad ist damit ohnehin vorgezeichnet. Er
 sagt, es sei natürlich nur zur Tarnung. Immerhin haben wir so wieder eine Spur.
 Um Mitternacht im Badehaus findet ein Treffen statt, zu dem er eingeladen ist.
-Veil kehrt ebenfalls zurück. Sie hat nicht Toni getroffen. Eine alte Tortel-Frau
+Veil kehrt ebenfalls zurück. Sie hat nicht Toni getroffen. Eine alte Tortle-Frau
 hat sie getroffen, die kennt vielleicht sogar Toni. Sachen gibt's! Die gibt's
 aber bestimmt auch noch später, wir haben hier einen Auftrag zu erledigen. Noch
 ein Tortle kommt. Diesmal der richtige Toni. Glaube ich. Wir legen uns wieder
@@ -50,7 +50,7 @@ In einem Moment stehen wir hier noch und mimen eine Stadtführung, im nächsten
 steht er wieder bei uns. Beeindruckend, wie er das macht. Wir gehen außer
 Hörweite neugieriger Ohren und Fyron berichtet uns von seinen Nachforschungen.
 Er hat ein paar Imps erledigt, die Gefangene gequält haben. Eine Angestellte
-der Stadt, die irgendetwas mit den Abwäßerkanälen zu tun hat. Ihr Vorschlag,
+der Stadt, die irgendetwas mit den Abwasserkanälen zu tun hat. Ihr Vorschlag,
 die etwas tiefer zu verlegen, stieß wohl auf wenig Anklang bei den Vanthampurs.
 Interessant. Die Vanthampurs haben ihr Vermögen auf den Abwässerkanälen und
 allem drum herum aufgebaut. Wenn sich einer damit auskennt, dann sie. Soweit

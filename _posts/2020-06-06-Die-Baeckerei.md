@@ -28,7 +28,7 @@ die Stadt zu verlassen. Toni und Fyron haben einen Weg aus der Stadt erkauft.
 Was sie das gekostet hat, will ich gar nicht wissen. Vermutlich hänge ich
 sowieso wieder mit drin. Mortlock aus der Stadt zu schaffen wird nicht leicht.
 Er ist nicht gerade unauffällig und seine Brüder sind mächtig. Sie haben
-Magie auf ihrer Seite und Gold Starke Verbündete. Glücklicherweise ist der
+Magie auf ihrer Seite und goldstarke Verbündete. Glücklicherweise ist der
 Einstieg in den geheimen Weg aus der Stadt nicht weit weg. Wir machen Mortlock
 unsichtbar. So viel Magie können wir auch.
 

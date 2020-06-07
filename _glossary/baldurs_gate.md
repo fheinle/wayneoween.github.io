@@ -30,7 +30,7 @@ ohne Licht. Einige Bewohner versuchen ernsthaft, die Stadt zu einem
 sichereren Ort zu machen, indem sie sich zusammenschließen, um ihre eigene
 Art von unvollkommener, aber wirksamer Gerechtigkeit zu schaffen.
 
-## Regierung
+#### Regierung
 
 Das Parlament der Ebenbürtigen, eine Gruppe, die sich hauptsächlich aus fast
 fünfzig Patriar-Mitgliedern zusammensetzt, gibt Empfehlungen zu Fragen des

@@ -3,7 +3,7 @@ title: Ulder Ravengard
 type: Person
 ---
 
-Ulder Ravengard ist ein furchtloser Soldat, der durch die Reihen der
+{% include glossary_link.html title="Ulder Ravengard" %} ist ein furchtloser Soldat, der durch die Reihen der
 Flammenfaust aufgestiegen ist, um ihr oberster Marschall zu werden. Ravengard
 nutzte seine militärische Position und seinen Einfluss, um sich einen Sitz im
 Rat der Vier zu sichern. Nach dem Tod von zwei Ratsmitgliedern inmitten einer

@@ -9,7 +9,7 @@ type: Fraktion
          margin-left: 1rem;
          margin-bottom: 1rem;'/>
 
-Die Hellrider wurden erschaffen als Zariel den Berg Celestia verließ und nach
+Die {% include glossary_link.html title="Hellrider" %} wurden erschaffen als Zariel den Berg Celestia verließ und nach
 Elturel kam, wo sie eine Armee von Kriegern versammelte und sie zum Kampf
 ausbildete. Sie versprach ihnen, dass sie sie, wenn sie bereit seien, eine
 schwere Schlacht bevorstehen würde.
@@ -34,14 +34,14 @@ Die Aufnahme und Ausbildung kann bereits mit zwölf Jahren beginnen. Menschen
 kommen aus anderen Ländern nach Elturel, nur um sich den Hellriders
 anzuschließen.
 
-Alle Hellrider haben ein Zehntel ihres Verdienstes in Elturels Schatzkammer
+Alle {% include glossary_link.html title="Hellrider" %} haben ein Zehntel ihres Verdienstes in Elturels Schatzkammer
 einzuzahlen.
 
-Ein Hellrider zu sein, war ein lebenslanger Job, egal wie kurz er auch sein
+Ein {% include glossary_link.html title="Hellrider" %} zu sein, war ein lebenslanger Job, egal wie kurz er auch sein
 mag. Diejenigen, die sich zum Rücktritt entschlossen hatten, erhielten eine
 letzte Mission mit sehr schwierigen Aufgaben, und selbst wenn sie Erfolg
 hatten und überlebten, wurden sie ihrer Ausrüstung entledigt, aus der Stadt
 verbannt und in den Augen von Helm, dem Gott der Wächter, als Ketzer
 bezeichnet, weil sie ihren Posten aufgegeben hatten.
 
-Seit 40 Jahren hat kein Hellrider seinen Posten freiwillig aufgegeben.
+Seit 40 Jahren hat kein {% include glossary_link.html title="Hellrider" %} seinen Posten freiwillig aufgegeben.

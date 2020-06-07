@@ -29,3 +29,15 @@ Trotz aller Schatten und dunklen Machenschaften ist das {% include glossary_link
 ohne Licht. Einige Bewohner versuchen ernsthaft, die Stadt zu einem
 sichereren Ort zu machen, indem sie sich zusammenschließen, um ihre eigene
 Art von unvollkommener, aber wirksamer Gerechtigkeit zu schaffen.
+
+## Regierung
+
+Das Parlament der Ebenbürtigen, eine Gruppe, die sich hauptsächlich aus fast
+fünfzig Patriar-Mitgliedern zusammensetzt, gibt Empfehlungen zu Fragen des
+Rechts und der Regierungsführung ab. Sobald das Parlament eine
+Mehrheitsentscheidung in einer Angelegenheit trifft, in der Regel nach
+heftigen Debatten, legt es seinen Standpunkt dem Rat der Vier vor.
+
+Drei Herzöge/Herzöginnen und ein/eine Großherzog/Großherzogin bilden diesen
+Rat. Er stimmt ebenfalls über diese Angelegenheiten ab, und bei
+Stimmengleichheit zählt die Stimme des Großherzogs als zwei.

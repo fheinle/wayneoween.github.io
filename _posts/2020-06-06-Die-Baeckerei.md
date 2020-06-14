@@ -4,7 +4,7 @@ title: Unter der Bäckerei
 author: Grafton Clarke
 excerpt: Ermittlungen in der Kanalisation
 background: "/img/posts/sewer.jpg"
-background_pos: 95% 95%
+background_pos: 35% 35%
 dr_date: 10. Flamerule 1494
 ---
 

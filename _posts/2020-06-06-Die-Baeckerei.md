@@ -124,7 +124,7 @@ und Fyron eingegangen sind. Um an *Informationen* über den Verbleib der Freunde
 zu gelangen, die Fyron sucht, verkaufen wir irgendwelchen Leuten die Statuen
 des Drachenkults, nebst ein paar Spruchrollen, an denen Toni gearbeitet hat.
 Ich will gar nicht so genau wissen, wer diese Leute sind. Ich halte mich lieber
-etwas im Hintergrund.  Fyron erfährt, was er wissen will, hoffe ich.
+etwas im Hintergrund. Fyron erfährt, was er wissen will, hoffe ich.
 
 <div class="infobox hint">
 <h3>Fyrons Freunde</h3>

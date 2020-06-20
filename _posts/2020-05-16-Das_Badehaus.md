@@ -115,8 +115,8 @@ vorbei. Wir werden nicht aufgehalten. Schon an der Treppe riecht es nach Abwasse
 
 ## Unter dem Badehaus
 
-Unten ist es weniger angenehm als oben. Kalt, dunkel, Bildnisse von Bane,
-Myrkul und Bhaal in die Türen geschnitzt, feucht, Reste von Menschenopfern,
+Unten ist es weniger angenehm als oben. Kalt, dunkel, Bildnisse von {% include glossary_link.html title="Bane" %},
+Myrkul und {% include glossary_link.html title="Bhaal" %} in die Türen geschnitzt, feucht, Reste von Menschenopfern,
 nasser Boden… kein Vergleich zu den Annehmlichkeiten des Badehauses oben
 drüber. Nur eine kurze Treppe trennt das Idyll von Mord und Tod. Wir finden
 Leichen, offenbar wurden sie geschändet und ausgeweidet. Wir hören Schreie. In

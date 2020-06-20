@@ -167,7 +167,7 @@ hätten sie etwas zu verbergen. Ich gebe meinen echten Namen an. Ich habe nichts
 zu befürchten, ich habe die *Fist* hinter mir.
 
 Die Tür im Keller führt in die Kanalisation. Das kommt uns ja wie gerufen. Die
-Bäckerei ist ganz in der Nähe der Villa Vanthampur. Das erklärt uns erst mal
+Bäckerei ist ganz in der Nähe der Villa {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}. Das erklärt uns erst mal
 nicht, was es mit der seltsamen Bäckerei mit ihrem Wiedergänger eines Bäckers
 auf sich hat, bringt uns aber in unserem anderen Anliegen weiter. Wir waten
 durch die Kanalisation. Nach einiger Zeit hören wir mehr als das Tropfen des

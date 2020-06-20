@@ -169,7 +169,7 @@ bis in die Flaming Fist hinein? Wir werden von Dienst suspendiert. Bis auf
 Weiteres. Nicht nur meine Untergebenen, auch ich. Aber gehen dürfen wir.
 Immerhin.
 
-Wir machen uns auf den Weg zum nicht mehr so geheimen Versteckt. Kurz zuvor
+Wir machen uns auf den Weg zum nicht mehr so geheimen Versteck. Kurz zuvor
 wartet diese seltsame schwarze Tabaxi-Frau wieder auf uns, die wir schon vor
 der Elfsong Tavern getroffen haben. Sie scheint für die Gilde zu arbeiten, hat
 kryptische Botschaften für uns. Wir brauchen ein neues Versteck, wie es
@@ -177,7 +177,7 @@ scheint.
 
 ## Gespräch mit dem Toten - 12. Flamerule
 
-Die Nacht vergeht nicht schnell. Ich liege noch lange Wach und debattiere für
+Die Nacht vergeht nicht schnell. Ich liege noch lange wach und debattiere für
 mich mit Torm, wir brauchen Antworten. Der Schlaf findet mich schließlich, doch
 meine Träume sind seltsam und verworren. Wir haben in den letzten Tagen mehr
 neue Fragen als Antworten gefunden. Zeit, selbst einige Fragen zu stellen!

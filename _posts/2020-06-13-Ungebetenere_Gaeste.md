@@ -84,11 +84,11 @@ und Roben der toten Kultisten. Wir werden eingelassen - auch in eine Art
 Kerker, in dem zwei Gefangene bewacht werden. Wir geben vor, sie als Opfer
 abzuholen. Wir führen sie ab. Außer Hörweite der Wächter geben wir ihnen
 Entwarnung. Wir stellen uns als ihre Rettung vor, sie stellen sich als
-*Falastar Fisk* und *Satiir Thione-Hhune* vor. Noch eine der Patriars. Wenn
+*Falaster Fisk* und *Satiir Thione-Hhune* vor. Noch eine der Patriars. Wenn
 *das* nicht langsam reicht, ein paar Verbündete gegen die Vanthampurs zu
 finden? Oder zumindest gemeinsame Feinde…
 
-Falastar weist uns auf eine Kiste hin. Seine Meisterin ist eine mächtige
+Falaster weist uns auf eine Kiste hin. Seine Meisterin ist eine mächtige
 Magierin, ihr Spezialgebiet sind die Teufel. Er meint, Thavius kam mit einer
 kleinen Schachtel nach {% include glossary_link.html title="Baldur's Gate" %}, die für viel des Unheils verantwortlich
 sei, dem wir in der letzten Zeit begegnet sind. Vielleicht ist sie der
@@ -125,19 +125,19 @@ gefesselt und wir machen uns endlich davon. Wir, die befreiten Gefangenen und
 der gefangene Thavius, noch immer gefesselt. Und nun auch die Schachtel. Und…
 der Kopf von Thurstwell. Was noch davon übrig ist. Zur späteren Befragung.
 
-Auf dem Weg hinaus sprechen wir mit den befreiten Gefangenen. Falastar rät uns,
-die Schachtel nicht selbst zu öffnen. Seine Meisterin *Silvira* könne uns
+Auf dem Weg hinaus sprechen wir mit den befreiten Gefangenen. Falaster rät uns,
+die Schachtel nicht selbst zu öffnen. Seine Meisterin *Sylvira* könne uns
 helfen. Sie würde uns auch für unsere Unterstützung entlohnen. Der Haken ist
-nur, dass wir sie dazu in {% include glossary_link.html title="Candlekeep" %} aufsuchen müssen
+nur, dass wir sie dazu in {% include glossary_link.html title="Candlekeep" %} aufsuchen müssen.
 
 <div class="infobox quest">
-  <h3>Silvira in {% include glossary_link.html title="Candlekeep" %} aufsuchen</h3>
-  <p>Wir wollen Falastar Fisks Meisterin <em>Silvira</em> in
+  <h3>Sylvira in {% include glossary_link.html title="Candlekeep" %} aufsuchen</h3>
+  <p>Wir wollen Falaster Fisks Meisterin <em>Sylvira</em> in
      {% include glossary_link.html title="Candlekeep" %} aufsuchen. Sie kann uns mit der Schachtel des Unheils
      helfen.
   </p>
   <p class="reward">Hilfe mit der Schachtel, vielleicht eine Belohnung für die
-                    Befreiung Falastars
+                    Befreiung Falasters
   </p>
 </div>
 

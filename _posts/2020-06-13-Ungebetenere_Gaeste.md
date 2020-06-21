@@ -94,7 +94,7 @@ kleinen Schachtel nach {% include glossary_link.html title="Baldur's Gate" %}, d
 sei, dem wir in der letzten Zeit begegnet sind. Vielleicht ist sie der
 Schlüssel zu allem. Thavius stellt sich unwissend, zu viel abzustreiten hat
 allerdings keinen Sinn. Nicht alle hier sind so zimperlich bei der Befragung
-wie ich. Die Kiste hat nun *Thurstwell {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}*, Mortlocks Bruder.
+wie ich. Die Kiste hat nun *Thurstwell Vanthampur*, Mortlocks Bruder.
 
 ![Slobberchops](/img/posts/slobberchops.png)
 
@@ -112,7 +112,7 @@ für Thavius. Magie-Dinge tun. Er verstehe schon. Er versteht nicht direkt, will
 aber mit uns hinab in den Keller gehen und selbst mit Thavius sprechen. Er
 nimmt einen Wächter mit.
 
-![Thurstwell {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}](/img/posts/thurstwell.png)
+![Thurstwell Vanthampur](/img/posts/thurstwell.png)
 
 Unten im Keller ist es allerdings vorbei mit der Scharade. Der gefangene Koch
 und der gefesselte Thavius lassen unser Spiel gleich auffliegen. Plötzlich
@@ -206,7 +206,7 @@ sprechen.
         allernorts um Hilfe gesucht und sie bei bei Zariel gefunden. Die Seelen
         der Stadt wurden getauscht gegen 50 Jahre Schutz.
     </dd>
-    <dt>Was weißt Du über den Elf, der das Schild der Familie {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}
+    <dt>Was weißt Du über den Elf, der das Schild der Familie Vanthampur
         verkauft hat?</dt>
     <dd>Der verrückte Elf hat das Schild gegen eine Reise in die Hölle
         eingetauscht. <em>Er hatte Heimweh</em>.</dd>
@@ -221,6 +221,6 @@ kostet ein Buch. Nicht irgend eines, sondern eines, was dort noch nicht
 vorrätig ist. In der größten Bibliothek der Schwertküste noch nicht vorrätig.
 Veil macht sich sogleich daran, ihr Lebenswerk niederzuschreiben. Ob das
 genügt? Vielleicht sollten wir uns doch auch die Vorab-Ausgabe eines Buchs
-besorgen, das Amrik {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %} in seinem Regal stehen hat: „Ein Lied von Eis
+besorgen, das Amrik Vanthampur in seinem Regal stehen hat: „Ein Lied von Eis
 und Feuer und Sturm und Wolke und Hügel“. Ich bin kein großer Leser. Doch das
 Buch - das würde ich auch selbst gern lesen.

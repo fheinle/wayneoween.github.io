@@ -47,10 +47,10 @@ Eifersucht. Etwas Beschwichtigung später scheint er doch endlich wieder seine
 Zauber sprechen zu können. Fyron geht also unsichtbar hinein, kommt unsichtbar
 auch kurz darauf wieder heraus, mit dem gesuchten Buch.
 
-## Beisetzung von Thurstwell {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}
+## Beisetzung von Thurstwell Vanthampur
 
 Das war ja einfach! Nachdem das so schnell ging, können wir doch noch zur
-Beisetzung von Thurstwell {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %} aufbrechen. Die soll "zum Einbruch der
+Beisetzung von Thurstwell Vanthampur aufbrechen. Die soll "zum Einbruch der
 Dunkelheit" beginnen. Nicht gerade üblich, so eine Uhrzeit. Andererseits sind
 es die exzentrischen Patriars, für die diese Veranstaltung aufgezogen wird. Wir
 werden sehen.
@@ -59,7 +59,7 @@ Auf dem Friedhof gibt es einige Überraschungen. Nicht nur findet tatsächlich
 eine Beisetzung bei Dunkelheit statt, die Gäste sind auch höchst illuster.
 Tonis Oma ist da und die riesige Schildkröte ist trotzdem nicht die
 Interessanteste unter der Trauergemeinde. Genausowenig fällt viel Interesse auf
-den Triton, der ebenfalls zu Gast zu sein scheint. Thalamra {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %} ist
+den Triton, der ebenfalls zu Gast zu sein scheint. {% include glossary_link.html title="Thalamra Vanthampur" %} ist
 zurück. Verständlich, schließlich wird ihr Sohn beerdigt. Dafür kann man schon
 mal aus der Hölle zurückkehren. Thavius Kreeg ist auch wieder hier, offenbar
 ist er der Zelebrant und steht der Beisetzung vor. Zwei Leute, die wir hier

@@ -38,18 +38,18 @@ Riesenhaften erledigen wir auch den letzten der Kultisten. Er trug aber keine
 Maske. Statt eines Gesichts trägt er eine feine Schicht Gold auf seinem blanken
 Schädel. Mir reicht es mit diesen Kultisten und dem Tod.
 
-![Mortlock {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}](/img/posts/mortlock.png)
+![Mortlock Vanthampur](/img/posts/mortlock.png)
 
 # Mortlock
 
-Der Riese ist Mortlock {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}. Auch ein Patriar. Den Vanthampurs gehört
+Der Riese ist Mortlock Vanthampur. Auch ein Patriar. Den Vanthampurs gehört
 das Badehaus, unter dem sich dieser Kerker des Todes so elegant zu verbergen
 vermag. Er hat einiges zu erzählen! Er war schon immer das schwarze Schaf in
 der Familie, nun haben ihn seine Brüder verraten, wollen ihn wohl tot sehen.
 Deswegen ist er hier unten gelandet. Seine Mutter bezahlt die Fist fürs
 Wegsehen, während sie allerhand schändliche Geschäfte treibt. Auch mit den
 Kultisten, die hier Leute entführen und schänden. Darunter verdächtig viele
-Patriars, aber bisher nur ein {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}. Die Geschichte geht aber noch
+Patriars, aber bisher nur ein Vanthampur. Die Geschichte geht aber noch
 weiter. Die Matriarchin will Uldar Ravengards Platz als Großherzog einnehmen.
 Damit aber noch nicht genug, sie will auch noch {% include glossary_link.html title="Baldur's Gate" %}
 in das gleiche Schicksal stoßen wie Elturel, in die neun Höllen hinab ziehen!
@@ -70,13 +70,14 @@ Sie verschwinden mit dem Schatz.
 
 Mortlock braucht unseren Schutz. Wir bieten ihm an, zunächst in unserem
 Unterschlupf Zuflucht zu suchen, bis wir ihn aus der Stadt schaffen können.
-Zuerst müssen wir aber loswerden, was auch immer uns verfolgt. Ein rätselhaftes
-Flattern. Nicht zu nahe, gerade so dass man es noch hören kann. Mortlock erzählt, dass sein Bruder Teufelchen beschäftigt, die für ihn spionieren. Wir
-machen uns dennoch auf, zumindest ein paar Meter zwischen uns und den Kerker
-des Todes bringen. Aus der Stadt hinaus können wir nicht. Die Tore sind
-verschlossen und auf beiden Seiten drängen sich die Bürger. Einige wollen
-hinein, einige wollen hinaus, es führt kein Weg in die Outer City. Die Fist
-drängt von beiden Seiten zurück.
+Zuerst müssen wir aber loswerden, was auch immer uns verfolgt. Ein
+rätselhaftes Flattern. Nicht zu nahe, gerade so dass man es noch hören kann.
+Mortlock erzählt, dass sein Bruder Teufelchen beschäftigt, die für ihn
+spionieren. Wir machen uns dennoch auf, zumindest ein paar Meter zwischen uns
+und den Kerker des Todes bringen. Aus der Stadt hinaus können wir nicht. Die
+Tore sind verschlossen und auf beiden Seiten drängen sich die Bürger. Einige
+wollen hinein, einige wollen hinaus, es führt kein Weg in die Outer City. Die
+Fist drängt von beiden Seiten zurück.
 
 ![Tankard of Plenty](/img/posts/tankard.png)
 
@@ -123,13 +124,16 @@ Interessant. Vielleicht wird das doch kein Prestige-Fall für unseren Anwalt
 Flynder. Zu schade. Der hohe Aufseher Kreeg soll gesehen worden sein. Entführt
 von den Vanthampurs. Interessant.
 
-Reya betritt die Taverne, zielstrebig. An den Gerüchten ihrer Flucht scheint also etwas dran zu sein. Toni beeindruckt weiter die Taverne mit seiner
+Reya betritt die Taverne, zielstrebig. An den Gerüchten ihrer Flucht scheint
+also etwas dran zu sein. Toni beeindruckt weiter die Taverne mit seiner
 Trinkfestigkeit, ich bleibe in das Gespräch mit dem Soldaten verwickelt. Die
 anderen gehen nach unten, folgen Reya und suchen Amrik. Mein Gesprächspartner
 weiß nichts von Kultisten. Ich verabschiede mich, widme mich noch Toni. So
-beeindruckend seine Standhaftigkeit auch ist, so wenig kann es uns helfen, wenn er unter der Theke einschläft oder zu viel Aufmerksamkeit auf sich zieht.
+beeindruckend seine Standhaftigkeit auch ist, so wenig kann es uns helfen,
+wenn er unter der Theke einschläft oder zu viel Aufmerksamkeit auf sich
+zieht.
 
-![Amrik {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}](/img/posts/amrik.png)
+![Amrik Vanthampur](/img/posts/amrik.png)
 
 Einige Zeit und etwas Beifall des Schankraums später kommen auch wir nach
 unten. Die anderen sitzen an einem Tisch mit Reya. Hinten im Raum sitzt
@@ -137,7 +141,7 @@ Amrik. Von der einen sind wir überrascht, wegen des anderen sind wir hier.
 Für mich ist nichts mehr frei. Schwierig. Mir macht es nichts aus, außen vor
 zu sein, doch *hier sein* zu müssen und *nicht* dazuzugehören - das schon.
 Ein Bisschen. Kaum der Rede wert. Eigentlich ist es egal. Ist halt nur
-langweilig. Ich sehe, wie Toni den Weg zu Amrik {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %} findet und mit ihm
+langweilig. Ich sehe, wie Toni den Weg zu Amrik Vanthampur findet und mit ihm
 ins Gespräch kommt. Ich setze mich etwas abseits davon hin, aber was sie
 sprechen vermag ich nicht zu hören. Ich sehe nur, dass hier doch noch etwas
 anderes angeboten wird als das Brackwasser. Für Toni offenbar sogar mit einer

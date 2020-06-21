@@ -36,7 +36,7 @@ unsichtbar, folgt ihm. Und wir folgen Fyron, der uns magisch lotsen kann. Wir
 bewegen uns in Richtung der Oberstadt. Das macht es einfacher, dort ist weniger
 Nebel. Fyron schleicht mit Amrik durch das Tor. Wir folgen kurz darauf, uns
 gewährt das Abzeichen der Fist den Eintritt in die Oberstadt. Wir folgen
-weiter. Die Spur führt uns zur Villa {% include glossary_link.html title="Vanthampur" name="Vanthampur Familie" %}. Amrik geht… nach hause. Um
+weiter. Die Spur führt uns zur Villa Vanthampur. Amrik geht... nach hause. Um
 damit zu rechnen hätte man schon ein kriminalistisches Riesenhirn sein müssen.
 Leider war so eines gerade nicht greifbar. Nun ist Amrik zuhause und wir stehen
 vor den Mauern des Anwesens. Drinnen gibt es sicher Patrouillen. Wir schicken

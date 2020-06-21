@@ -69,17 +69,6 @@ Trauerreden haben wenig tröstliches.
 
 Stattdessen bricht Feuer aus. Thavius Kreeg scheint damit etwas zu tun zu
 haben. Er spricht Dinge und lange Tentakel aus Flammen schlagen aus dem offenen
-Grab. Sie ziehen verschiedene Edelleute und City Watch-Wächter hinab,
-vermutlich in eine der Höllen. Thalamra speit Gift und Galle. Einige der Gäste
-versuchen zu fliehen. Sie kommen nicht weit. Sie werden von ihr aber mit einer
-Wand aus Feuer aufgehalten. Dann sehen wir von allem nur noch die Hälfte. Toni
-versucht, Thavius aufzuhalten und hüllt ihn geschickt in magische Dunkelheit.
-Das scheint Thavius nicht aufzuhalten. Wir stellen uns an, schnell diesem Treiben
-Einhalt zu gebieten. Ketis, Fyron und Veil erklimmen die Mauer, die uns von der
-Beisetzung trennt. Ich  Die Trauerreden haben wenig tröstliches.
-
-Stattdessen bricht Feuer aus. Thavius Kreeg scheint damit etwas zu tun zu
-haben. Er spricht Dinge und lange Tentakel aus Flammen schlagen aus dem offenen
 Grab und ziehen verschiedene Edelleute und City Watch-Wächter hinab, vermutlich
 in eine der Höllen. Thalamra speit Gift und Galle. Einige der Gäste versuchen
 zu fliehen, werden von ihr aber mit einer Wand aus Feuer aufgehalten. Dann

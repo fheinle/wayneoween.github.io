@@ -126,13 +126,13 @@ der gefangene Thavius, noch immer gefesselt. Und nun auch die Schachtel. Und…
 der Kopf von Thurstwell. Was noch davon übrig ist. Zur späteren Befragung.
 
 Auf dem Weg hinaus sprechen wir mit den befreiten Gefangenen. Falaster rät uns,
-die Schachtel nicht selbst zu öffnen. Seine Meisterin *Sylvira* könne uns
+die Schachtel nicht selbst zu öffnen. Seine Meisterin *{% include glossary_link.html title="Sylvira Savikas" %}* könne uns
 helfen. Sie würde uns auch für unsere Unterstützung entlohnen. Der Haken ist
 nur, dass wir sie dazu in {% include glossary_link.html title="Candlekeep" %} aufsuchen müssen.
 
 <div class="infobox quest">
-  <h3>Sylvira in {% include glossary_link.html title="Candlekeep" %} aufsuchen</h3>
-  <p>Wir wollen Falaster Fisks Meisterin <em>Sylvira</em> in
+  <h3>Sylvira Savikas in {% include glossary_link.html title="Candlekeep" %} aufsuchen</h3>
+  <p>Wir wollen Falaster Fisks Meisterin <em>{% include glossary_link.html title="Sylvira Savikas" %}</em> in
      {% include glossary_link.html title="Candlekeep" %} aufsuchen. Sie kann uns mit der Schachtel des Unheils
      helfen.
   </p>

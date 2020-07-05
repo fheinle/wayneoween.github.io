@@ -64,7 +64,7 @@ können, das ihnen droht. Oder sie schon erfasst hat. {% include glossary_link.h
 großer Gefahr, aber Elturel ist bereits in den Höllen. Oder einem anderen
 schrecklichen Ort. Beide Städte haben viel Unheil auf sich geladen, aber die
 Fahrt in die Höllen verdient keine von ihnen. Die Drahtzieher sind noch nicht
-ganz klar. Sicher ist, dass Thavius Kreeg einer von ihnen ist. Sicher ist
+ganz klar. Sicher ist, dass {% include glossary_link.html title="Thavius Kreeg" %} einer von ihnen ist. Sicher ist
 auch, dass {% include glossary_link.html title="Thalamra Vanthampur" %} eine von ihnen ist. Zumindest der hohe Aufseher
 Elturels ist nun... was eigentlich? Ein Teufel? Sicher ist, dass wir ihnen das
 Handwerk legen müssen. Und wenn wir dazu in die Höllen selbst hinab steigen
@@ -83,30 +83,30 @@ muss.
 ## Morgens in {% include glossary_link.html title="Candlekeep" %} -- 25. Flamerule
 
 Beim Frühstück treffen wir Falastar wieder. Er wartet schon auf uns.
-Silvira wünscht uns so bald wie möglich zu sehen. Er will uns hin
+{% include glossary_link.html title="Sylvira Savikas" %} wünscht uns so bald wie möglich zu sehen. Er will uns hin
 führen. Nach einigen Umwegen gelingt es ihm, uns zu einem dunklen,
 schwarzen Turm zu führen, der voll ist von infernalen Zeichen und Runen
 an den Wänden. Dort hat sie ihre Schreibstube. Die Einrichtung ist nicht
 mein Fall. Rituelle Zeichnungen und Kerzen überall, kleine Dämonen,
 geschmacklose Vorhänge... Dafür hat sie einiges zu erzählen, auch über
-Thavius Kreeg. Sie hat ihn schon eine ganze Weile im Blick, konnte aber
+{% include glossary_link.html title="Thavius Kreeg" %}. Sie hat ihn schon eine ganze Weile im Blick, konnte aber
 niemanden auf ihre Seite gewinnen. Er muss einen Pakt mit einem Teufel
 eingegangen sein. Doch Thavius gilt allerorten noch immer als der große
 Held von Elturel, der den Companion gebracht hat und die Stadt vor dem
-Untergang bewahrt hat. Dafür musste die ganze Stadt den *Creed Resolute
-*schwören.
+Untergang bewahrt hat. Dafür musste die ganze Stadt den *Creed Resolute*
+schwören.
 
-Silvira zeigt auch großes Interesse an Fyrons Schild. Dort scheint ein
+{% include glossary_link.html title="Sylvira Savikas" %} zeigt auch großes Interesse an Fyrons Schild. Dort scheint ein
 mächtiger Teufel eingesperrt zu sein -- *Gargauth*. Offenbar ist er es,
 mit dem Fyron spricht, wenn er sich mit seinem Schild unterhält. Wir
 sollen uns in Acht nehmen. Er wird sicher versuchen, uns zu manipulieren
 und schlussendlich zu korrumpieren. Der Vorschlag steht im Raum, das
 Schild hier zu lassen. In den Katakomben gibt es ausreichend Orte, wo
 man solche Dinge sicher verwahren kann. Aber das dachte auch schon die
-Familie Thune, die das Schild lange Jahre bewacht hat. Und jetzt hat es
+Familie Thione-Hhune, die das Schild lange Jahre bewacht hat. Und jetzt hat es
 Fyron. Und der gibt es nicht her.
 
-Wir bekommen noch eine Liste schlauer Bücher. Silvira rät uns, einige
+Wir bekommen noch eine Liste schlauer Bücher. {% include glossary_link.html title="Sylvira Savikas" %} rät uns, einige
 davon zu lesen, sollten wir nach Elturel aufbrechen wollen. Dann steht
 es also fest -- früher oder später müssen wir in die Höllen hinab
 steigen, um diesem Geschehen auf den Grund zu gehen.

@@ -61,13 +61,13 @@ Tonis Oma ist da und die riesige Schildkröte ist trotzdem nicht die
 Interessanteste unter der Trauergemeinde. Genausowenig fällt viel Interesse auf
 den Triton, der ebenfalls zu Gast zu sein scheint. {% include glossary_link.html title="Thalamra Vanthampur" %} ist
 zurück. Verständlich, schließlich wird ihr Sohn beerdigt. Dafür kann man schon
-mal aus der Hölle zurückkehren. Thavius Kreeg ist auch wieder hier, offenbar
+mal aus der Hölle zurückkehren. {% include glossary_link.html title="Thavius Kreeg" %} ist auch wieder hier, offenbar
 ist er der Zelebrant und steht der Beisetzung vor. Zwei Leute, die wir hier
 nicht unbedingt hätten wiedersehen brauchen. Satiir Thione-Hhune kommt etwas zu
 spät. Sie trägt sich aber noch in das Kondolenzbuch am Eingang ein. Die
 Trauerreden haben wenig tröstliches.
 
-Stattdessen bricht Feuer aus. Thavius Kreeg scheint damit etwas zu tun zu
+Stattdessen bricht Feuer aus. {% include glossary_link.html title="Thavius Kreeg" %} scheint damit etwas zu tun zu
 haben. Er spricht Dinge und lange Tentakel aus Flammen schlagen aus dem offenen
 Grab und ziehen verschiedene Edelleute und City Watch-Wächter hinab, vermutlich
 in eine der Höllen. Thalamra speit Gift und Galle. Einige der Gäste versuchen

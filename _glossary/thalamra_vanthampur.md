@@ -3,7 +3,7 @@ title: Thalamra Vanthampur
 type: Person
 ---
 
-Herzog Thalamra Vanthampur ist die Matriarchin der Vanthampur Familie,
+Herzog {% include glossary_link.html title="Thalamra Vanthampur" %} ist die Matriarchin der Vanthampur Familie,
 scharfsinnig und aggressiv. Mit leeren Händen geboren, verbrachte sie Jahre
 damit, sich in der Dunkelheit zu suhlen und das alte Abwassersystem der Stadt
 zu reparieren und zu renovieren. Eine Beförderung nach der anderen folgte,

@@ -82,7 +82,7 @@ muss.
 
 ## Morgens in {% include glossary_link.html title="Candlekeep" %} -- 25. Flamerule
 
-Beim Frühstück treffen wir Falastar wieder. Er wartet schon auf uns.
+Beim Frühstück treffen wir Falaster wieder. Er wartet schon auf uns.
 {% include glossary_link.html title="Sylvira Savikas" %} wünscht uns so bald wie möglich zu sehen. Er will uns hin
 führen. Nach einigen Umwegen gelingt es ihm, uns zu einem dunklen,
 schwarzen Turm zu führen, der voll ist von infernalen Zeichen und Runen

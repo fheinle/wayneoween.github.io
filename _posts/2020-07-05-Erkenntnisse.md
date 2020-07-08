@@ -81,7 +81,7 @@ wäre denkbar, dass ihre magischen Kräfte den Ursprung in der Abyss hätten.
 Sachen gibts!
 
 <div class="infobox quest">
-    <h3>Quest: Spuk in der Bibliothek</h3>
+    <h3>Spuk in der Bibliothek</h3>
     <p class="reward">Nützliche Informationen für Veil</p>
     <p>Veils Vertrauter <em>Gale</em> braucht unsere Hilfe, einen Geist zu
     bezwingen, den er unabsichtlich herbeigerufen hat. Das wird ein gefährliches

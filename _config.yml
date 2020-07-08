@@ -1,7 +1,7 @@
-title:       'Dnd,aux>'
+title:       'The Descent'
+subtitle:    'DnD AUX'
 text_title:  'D&D AUX'
-email:       msc+dnd@cle.ar.it
-description: Was in Baldur's Gate passiert, bleibt... in Baldur's Gate?
+email:       dnd@cle.ar.it
 baseurl:     "" # the subpath of your site, e.g. /blog
 url:         "https://dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
 author:      heinlef / ichaelus / kratob / wayneoween

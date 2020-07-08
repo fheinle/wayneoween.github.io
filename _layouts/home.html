@@ -12,15 +12,16 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading-barbarian">
+          <div class="page-heading-silent_lips burning">
             <h1>{{ site.title }}</h1>
-            {% if site.description %}
-            <span class="subheading">{{ site.description }}</span>
-            {% endif %}
           </div>
+          {% if site.subtitle %}
+          <div class="page-subheading-silent_lips">
+            <h2>{{ site.subtitle }}</h2>
+          </div>
+          {% endif %}
         </div>
       </div>
-    </div>
   </header>
 
   <div class="container">
@@ -30,7 +31,7 @@ layout: default
         {{ content }}
 
         <!-- Home Post List -->
-        {% for post in site.posts limit : 7 %}
+        {% for post in site.posts limit : 25 %}
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -45,7 +46,6 @@ layout: default
           </p>
         </article>
 
-        <hr>
 
         {% endfor %}
 

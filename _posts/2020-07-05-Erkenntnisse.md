@@ -37,7 +37,7 @@ Gebäude für mich. Ich erfahre einiges über Elturel und {% include glossary_li
     den Companion hat allerdings seinen Preis: Alle Bewohner Elturels mussten
     den Creed Resolute schwören, der sie an die Stadt bindet.</p>
     <p>Für die Rettung Elturels vor den untoten Horden gilt {% include glossary_link.html title="Thavius Kreeg" %} noch
-    heute als Held</p>
+    heute als Held.</p>
 </div>
 
 ## Attentat in der Taverne
@@ -74,14 +74,14 @@ unserem Besitz haben.
     <p>Die Sitzung findet am <em>26. Flamerule</em>, bei Sonnenuntergang, statt.</p>
 </div>
 
-Nach erledigen Kämpfen und wiederbelebten Ogern ist endlich Feierabend. Beim
+Nach erledigten Kämpfen und wiederbelebten Ogern ist endlich Feierabend. Beim
 Abendbrot berichten wir von unseren Recherche-Ergebnissen. Veil erzählt, dass es
 in einem Teil der Bibliothek spuke und dass unsere Hilfe gefragt sei. Außerdem
 wäre denkbar, dass ihre magischen Kräfte den Ursprung in der Abyss hätten.
 Sachen gibts!
 
-<div id="infobox quest">
-    <h3>Spuk in der Bibliothek</h3>
+<div class="infobox quest">
+    <h3>Quest: Spuk in der Bibliothek</h3>
     <p class="reward">Nützliche Informationen für Veil</p>
     <p>Veils Vertrauter <em>Gale</em> braucht unsere Hilfe, einen Geist zu
     bezwingen, den er unabsichtlich herbeigerufen hat. Das wird ein gefährliches
@@ -111,7 +111,7 @@ Und ganz Elturel.
 
 <div class="infobox hint">
     <h3>Thavius's Schwur</h3>
-    <p>Es sei allen bekannt, dass ich, {% include glossary_link.html title="Thavius Kreeg" %}, Hochaufseher von Elturel, meiner Herrin Zariel, der Herrin von Avernus, geschworen habe, die in diesem Eid enthaltenen Vereinbarungen einzuhalten.</p>
+    <p>Es sei allen bekannt, dass ich, {% include glossary_link.html title="Thavius Kreeg" %}, Hocher Aufseher von Elturel, meiner Herrin Zariel, der Herrin von Avernus, geschworen habe, die in diesem Eid enthaltenen Vereinbarungen einzuhalten.</p>
     <p>Hiermit unterwerfe ich mich Zariel in allen Angelegenheiten und für alle Zeit. Ich werde sie über alle Kreaturen, lebende und tote, stellen. Ich werde ihr alle meine Tage und darüber hinaus mit Furcht und Unterwürfigkeit gehorchen.</p>
     <p>Ich erkenne die Dispensation der Vorrichtung an, die als Solar
     Insidiator, im folgenden Gefährte genannt, bezeichnet wird. In meiner Eigenschaft als Hoher Aufseher von Elturel und seinen Vasallengebieten
@@ -123,4 +123,5 @@ Und ganz Elturel.
     an den Eid gebundenen Verteidiger mit sich nehmen, wenn dies Zariels Wunsch
     ist.</p>
     <p>All dies ist mein immerwährendes Versprechen.</p>
+    <p>Thavius Kreeg</p>
 </div>

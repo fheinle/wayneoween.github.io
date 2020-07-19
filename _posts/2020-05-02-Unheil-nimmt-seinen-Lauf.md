@@ -75,19 +75,19 @@ verschiedene Drachenstatuen. Von diesen Erkenntnissen müssen meine - unsere -
 Vorgesetzten erfahren. Unsere Mission war erfolgreich, wenn auch der Erfolg mehr
 zu unserer Beunruhigung beiträgt.
 
-## Elturel brennt
+## {% include glossary_link.html title="Elturel" %} brennt
 
-Wir sind auf dem Weg zurück nach Elturel. Das beschwingte und erleichterte
+Wir sind auf dem Weg zurück nach {% include glossary_link.html title="Elturel" %}. Das beschwingte und erleichterte
 Gefühl von heute Morgen ist längst vergangen. Ich habe einen Schwere in der
 Brust, seit wir von den Vorgängen im Wald erfahren haben. Doch das ist nicht
 alles, ein dumpfes Gefühl bitterer Vorahnung beschleicht mich. Lange muss ich
-mich nicht darüber wundern. Wir sehen aus der Ferne Elturel - wie es in die
+mich nicht darüber wundern. Wir sehen aus der Ferne {% include glossary_link.html title="Elturel" %} - wie es in die
 Hölle gezogen wird. Wir trauen unseren Augen nicht. Aus dem ruhigen Trott
 drängen wir unsere Pferde in den hastigsten Galopp, als könnten wir noch etwas
 ausrichten. Doch wir sind nicht nur zu spät, wir können auch nichts ausrichten.
-Die Hölle scheint sich aufgetan zu haben und Elturel zu verschlingen. Riesige
+Die Hölle scheint sich aufgetan zu haben und {% include glossary_link.html title="Elturel" %} zu verschlingen. Riesige
 Greifer ziehen die Stadt an allen Enden hinab in ein tiefes Loch, das kein Ende
-zu haben scheint. Der Companion regnet Blitze über die Stadt. Elturel ist nicht
+zu haben scheint. Der Companion regnet Blitze über die Stadt. {% include glossary_link.html title="Elturel" %} ist nicht
 mehr. Was bleibt ist ein Abgrund, dessen Boden nicht zu sehen ist. Es wird
 langsam Nacht - und dunkel. Dunkel war es hier schon lange nicht mehr. Das Licht
 des Companion, sonst so hell über der Stadt, ein Wächter des Guten gegen die
@@ -98,7 +98,7 @@ Wir nehmen ein Floß. Das scheint hier niemand mehr zu brauchen. Die Nacht
 vergeht, wir kommen etwas zur Ruhe. Der nächste Morgen graut. Von der
 Leichtigkeit des letzten Morgens ist heute keine Spur. Die Tiefe, die auf unser
 aller Gemüt drückt, ist heute besonders stark. Die halbe Nacht haben uns die
-Geschehnisse in Elturel wach gehalten, doch gen Morgen bekommen wir keine Zeit,
+Geschehnisse in {% include glossary_link.html title="Elturel" %} wach gehalten, doch gen Morgen bekommen wir keine Zeit,
 uns zu lange damit zu beschäftigen. Lange haben wir keinen Verkehr auf dem Fluss
 gesehen. Sonst so voller Boote, Handelsverkehr und Reisender, ist es hier ruhig.
 Zu ruhig.
@@ -129,9 +129,9 @@ Die Gefahr ist fürs Erste gebannt. Auf dem Weg nach {% include glossary_link.ht
 Halt bei der bescheidenen Hütte, die Ketis sein Zuhause nennt. Sonst ein
 willkommener Anlass zur Geselligkeit und von den Sorgen abzulassen, drehen sich
 meine Gedanken nur im Kreis. Gerhards Vision scheint Wirklichkeit geworden zu
-sein. Elturel hat schlimmes Unheil ereilt. Schlimm genug. Doch noch schlimmer
+sein. {% include glossary_link.html title="Elturel" %} hat schlimmes Unheil ereilt. Schlimm genug. Doch noch schlimmer
 ist meine eigene Vision. Die Warnung Tyrs, {% include glossary_link.html title="Baldur's Gate" %} könne das gleiche
-Schicksal ereilen wie Elturel. Was, wenn der Verwundete nicht die Niederlage der
+Schicksal ereilen wie {% include glossary_link.html title="Elturel" %}. Was, wenn der Verwundete nicht die Niederlage der
 Hellriders meinte - was, es das verheerende Unheil war, das gestern Nacht die
 Stadt ereilte, das er vorhergesehen hat?
 
@@ -147,7 +147,7 @@ erstatten und neue Befehle abzuholen. Was wir dort finden ist wesentlich weniger
 hilfreich. Verwirrung überall, niemand scheint mehr zu wissen. Das Schicksal
 Elturels ist hier noch nicht bekannt, nur Gerüchte haben bisher die Stadt
 erreicht. Das Kommando scheint _Captain Zodge_ zu haben, der die Tore verschließen
-lässt. Wir erstatten Bericht über was in Elturel vorgefallen ist und was wir
+lässt. Wir erstatten Bericht über was in {% include glossary_link.html title="Elturel" %} vorgefallen ist und was wir
 über die Kultisten herausgefunden haben. Zodge scheint nicht Herr der Lage zu
 sein. Seine Lösung ist, die Tore der Stadt zu verschließen und die Schuld den
 Hellriders in die Schuhe zu schieben. In schwierigen Zeiten werden immer

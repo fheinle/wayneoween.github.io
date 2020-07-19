@@ -61,14 +61,14 @@ kämpfen wollte ich dort beitreten. Doch nun bin ich außer Dienst. Es fehlt
 also einer wie ich. Dafür habe ich einen neuen Auftrag. Hier kann ich mich
 wirklich einsetzen. Für die, die nichts an dem schrecklichen Schicksal ändern
 können, das ihnen droht. Oder sie schon erfasst hat. {% include glossary_link.html title="Baldur's Gate" %} ist in
-großer Gefahr, aber Elturel ist bereits in den Höllen. Oder einem anderen
+großer Gefahr, aber {% include glossary_link.html title="Elturel" %} ist bereits in den Höllen. Oder einem anderen
 schrecklichen Ort. Beide Städte haben viel Unheil auf sich geladen, aber die
 Fahrt in die Höllen verdient keine von ihnen. Die Drahtzieher sind noch nicht
 ganz klar. Sicher ist, dass {% include glossary_link.html title="Thavius Kreeg" %} einer von ihnen ist. Sicher ist
 auch, dass {% include glossary_link.html title="Thalamra Vanthampur" %} eine von ihnen ist. Zumindest der hohe Aufseher
 Elturels ist nun... was eigentlich? Ein Teufel? Sicher ist, dass wir ihnen das
 Handwerk legen müssen. Und wenn wir dazu in die Höllen selbst hinab steigen
-müssen. Vielleicht gelingt es uns sogar, Elturel zu befreien. Ich verliere
+müssen. Vielleicht gelingt es uns sogar, {% include glossary_link.html title="Elturel" %} zu befreien. Ich verliere
 mich in den Gedanken. Was zu tun ist, ist uns vermutlich schon lange klar. Was
 ich jetzt brauche sind keine Pläne. Die kommen von selbst. Was ich brauche ist
 die Zuversicht, die Gewissheit, dass es an uns liegt, hier etwas auszurichten,
@@ -76,7 +76,7 @@ dass wir stark genug sind, es zu schaffen. Ich suche meine Zuversicht im
 Gebet. Ich bitte Tyr, den Gerechten, um seinen weisen Rat und seine
 Ermutigung. Tyr erhört mein Gebet. Er erscheint mir, in seiner Weisheit. Wir
 haben Gutes getan, {% include glossary_link.html title="Baldur's Gate" %} ist sicherer als zuvor. Für den Moment. Doch
-sicher sind wir alle noch nicht. Elturel ist noch immer in den Höllen. Ich
+sicher sind wir alle noch nicht. {% include glossary_link.html title="Elturel" %} ist noch immer in den Höllen. Ich
 wusste schon, was ich tun sollte, doch nun bin ich mir auch sicher, dass ich
 muss.
 
@@ -92,7 +92,7 @@ geschmacklose Vorhänge... Dafür hat sie einiges zu erzählen, auch über
 {% include glossary_link.html title="Thavius Kreeg" %}. Sie hat ihn schon eine ganze Weile im Blick, konnte aber
 niemanden auf ihre Seite gewinnen. Er muss einen Pakt mit einem Teufel
 eingegangen sein. Doch Thavius gilt allerorten noch immer als der große
-Held von Elturel, der den Companion gebracht hat und die Stadt vor dem
+Held von {% include glossary_link.html title="Elturel" %}, der den Companion gebracht hat und die Stadt vor dem
 Untergang bewahrt hat. Dafür musste die ganze Stadt den *Creed Resolute*
 schwören.
 
@@ -107,6 +107,6 @@ Familie Thione-Hhune, die das Schild lange Jahre bewacht hat. Und jetzt hat es
 Fyron. Und der gibt es nicht her.
 
 Wir bekommen noch eine Liste schlauer Bücher. {% include glossary_link.html title="Sylvira Savikas" %} rät uns, einige
-davon zu lesen, sollten wir nach Elturel aufbrechen wollen. Dann steht
+davon zu lesen, sollten wir nach {% include glossary_link.html title="Elturel" %} aufbrechen wollen. Dann steht
 es also fest -- früher oder später müssen wir in die Höllen hinab
 steigen, um diesem Geschehen auf den Grund zu gehen.

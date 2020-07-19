@@ -96,15 +96,15 @@ Erlaubnis, dem Unheil von Elturel und {% include glossary_link.html title="Baldu
 nichts. Wir tun unseren Unmut kund; die erste Leserin gebietet der Befragung
 Einhalt.
 
-Die Unterhaltung trägt danach wieder mehr Früchte. Wir sprechen über Elturel.
+Die Unterhaltung trägt danach wieder mehr Früchte. Wir sprechen über {% include glossary_link.html title="Elturel" %}.
 Dessen Bewohner sind vielleicht noch am Leben und nun fürchterlichen Qualen
-ausgesetzt, in Avernus. Zariel hat sich Elturel mitsamt seinen Einwohnern
+ausgesetzt, in Avernus. Zariel hat sich {% include glossary_link.html title="Elturel" %} mitsamt seinen Einwohnern
 geholt, wie der Pakt mit {% include glossary_link.html title="Thavius Kreeg" %}
 es ihr erlaubt. Auch {% include glossary_link.html title="Baldur's Gate" %} ist nur fürs Erste sicher. Um dem Treiben
 Einhalt zu gebieten, müssen wir selbst nach Avernus hinabsteigen. Soweit sind
 wir uns einig. Sylvira schlägt vor, den Vertrag zwischen Thavius und Zariel
 zu annullieren. Dazu müsse der Companion zerstört werden. So könne man
-Elturel wieder befreien.
+{% include glossary_link.html title="Elturel" %} wieder befreien.
 
 Man will auch noch über Fyrons Schild sprechen. Sie wollen es uns nicht
 einmal abnehmen. Stattdessen zitieren sie aus einer Prophezeiung Alaundos.

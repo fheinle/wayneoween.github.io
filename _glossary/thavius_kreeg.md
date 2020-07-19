@@ -3,7 +3,7 @@ title: Thavius Kreeg
 type: Person
 ---
 
-Er war Hoher Aufseher, der spirituelle Fuehrer, von Elturel bevor die Stadt
+Er war Hoher Aufseher, der spirituelle Fuehrer, von {% include glossary_link.html title="Elturel" %} bevor die Stadt
 verschwand.
 
 Er ist vor dem Untergang Elturels nach {% include glossary_link.html title="Baldur's Gate" %} geflohen und hat bei

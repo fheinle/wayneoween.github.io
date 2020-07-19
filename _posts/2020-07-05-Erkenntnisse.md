@@ -9,12 +9,12 @@ layout: post
 ---
 
 Wir teilen uns also auf. Sonst keine gute Idee, aber was kann in einer großen
-Bibliothek schon schief gehen? Wir haben einiges zu recherchieren, über Elturel,
+Bibliothek schon schief gehen? Wir haben einiges zu recherchieren, über {% include glossary_link.html title="Elturel" %},
 über Drachen und über das Infernale. Gut, dass wir schon am richtigen Ort sind.
 Dachte ich. Den richtigen Ort zu finden ist hier nicht einfach. Man sollte
 meinen, eine Bibliothek wäre durchsuchbar sortiert. Vielleicht sollte ich ihnen
 meinen Vetter vorstellen - *Dewey Melvilson*. Der ist gut mit Zahlen, im
-Aufräumen und Sortieren. Vielleicht fände ich dann schneller die Elturel-Sektion
+Aufräumen und Sortieren. Vielleicht fände ich dann schneller die {% include glossary_link.html title="Elturel" %}-Sektion
 in den Beständen der Bibliothek. Stattdessen irre ich bis Abends durch die Festung. Mit der Hilfe einer alten Dame finde ich dann doch zum
 richtigen Ort. Die scheint nichts mehr zu suchen. Hat vermutlich in ihrer Jugend
 angefangen und mittlerweile aufgegeben. Immerhin kennt sie den Weg zum richtigen
@@ -22,15 +22,15 @@ Gebäude für mich. Ich erfahre einiges über Elturel und {% include glossary_li
 
 <div class="infobox hint">
     <h3>Elturel unter {% include glossary_link.html title="Thavius Kreeg" %}</h3>
-    <p>Vor etwas mehr als einem Jahrhundert war Elturel von Teufeln bedroht.
+    <p>Vor etwas mehr als einem Jahrhundert war {% include glossary_link.html title="Elturel" %} von Teufeln bedroht.
     Die {% include glossary_link.html title="Hellrider" %} konnten die Bedrohung unter großen Verlusten in Schach
     halten, waren aber auf die Hilfe eines Engels angewiesen. Zariel hat diese
     Hilferufe erhört und die Kavallerie durch das Höllentor geführt, durch das
-    die Teufel in die Welt traten, Elturel zu bedrohen. Die Armee Elturels war
+    die Teufel in die Welt traten, {% include glossary_link.html title="Elturel" %} zu bedrohen. Die Armee Elturels war
     dem Heer der Höllen unterlegen. Geschlagen haben sich die Überreste
     zurückziehen müssen. Auf ihrem Rückweg haben sie das Tor verschlossen und
     damit Zariel in den Höllen zurückgelassen.</p>
-    <p>Einige Jahre später war Elturel wieder bedroht, von Vampiren und anderen
+    <p>Einige Jahre später war {% include glossary_link.html title="Elturel" %} wieder bedroht, von Vampiren und anderen
     Untoten. {% include glossary_link.html title="Thavius Kreeg" %} war als hoher Aufseher der Stadt an der Macht und
     konnte die Unterstützung durch den Companion gewinnen - für fünfzig Jahre.
     Damit war es gelungen, die Bedrohung abermals abzuwenden. Der Schutz durch
@@ -102,24 +102,24 @@ Gedanken wieder, die zu lesen nicht besonders schwierig sind. Sie freut sich,
 als hätte sie etwas *schon lange* gewusst und endlich Recht bekommen.
 
 Es handelt sich um einen Vertrag, den offenbar {% include glossary_link.html title="Thavius Kreeg" %} geschlossen hat. In
-diesem steht geschrieben, was er versprechen musste, um Elturel fünfzig Jahre
+diesem steht geschrieben, was er versprechen musste, um {% include glossary_link.html title="Elturel" %} fünfzig Jahre
 unter dem Schutz des Companions zu kaufen - schreckliche Dinge. Für alle Zeiten
 hat er sich Zariel unterworfen, als Diener und Handlanger. Doch damit nicht
 genug. Die gleiche Vereinbarung gilt auch für alle, die den Eid des Creed
 Resolute geschlossen hat. Die {% include glossary_link.html title="Hellrider" %}.
-Und ganz Elturel.
+Und ganz {% include glossary_link.html title="Elturel" %}.
 
 <div class="infobox hint">
     <h3>Thavius's Schwur</h3>
-    <p>Es sei allen bekannt, dass ich, {% include glossary_link.html title="Thavius Kreeg" %}, Hocher Aufseher von Elturel, meiner Herrin Zariel, der Herrin von Avernus, geschworen habe, die in diesem Eid enthaltenen Vereinbarungen einzuhalten.</p>
+    <p>Es sei allen bekannt, dass ich, {% include glossary_link.html title="Thavius Kreeg" %}, Hocher Aufseher von {% include glossary_link.html title="Elturel" %}, meiner Herrin Zariel, der Herrin von Avernus, geschworen habe, die in diesem Eid enthaltenen Vereinbarungen einzuhalten.</p>
     <p>Hiermit unterwerfe ich mich Zariel in allen Angelegenheiten und für alle Zeit. Ich werde sie über alle Kreaturen, lebende und tote, stellen. Ich werde ihr alle meine Tage und darüber hinaus mit Furcht und Unterwürfigkeit gehorchen.</p>
     <p>Ich erkenne die Dispensation der Vorrichtung an, die als Solar
-    Insidiator, im folgenden Gefährte genannt, bezeichnet wird. In meiner Eigenschaft als Hoher Aufseher von Elturel und seinen Vasallengebieten
+    Insidiator, im folgenden Gefährte genannt, bezeichnet wird. In meiner Eigenschaft als Hoher Aufseher von {% include glossary_link.html title="Elturel" %} und seinen Vasallengebieten
     erkenne ich an, dass alle Länder, die unter das Licht des Gefährten fallen,
     an Zariel verwirkt sind. Alle Personen, die an ihren Eid gebunden sind,
-    Elturel zu verteidigen, gelten ebenfalls als verwirkt. Ich erkenne ferner
+    {% include glossary_link.html title="Elturel" %} zu verteidigen, gelten ebenfalls als verwirkt. Ich erkenne ferner
     an, dass diese Dispensation fünfzig Jahre dauern wird; danach wird der
-    Gefährte dorthin zurückkehren, woher er gekommen ist, und Elturel und seine
+    Gefährte dorthin zurückkehren, woher er gekommen ist, und {% include glossary_link.html title="Elturel" %} und seine
     an den Eid gebundenen Verteidiger mit sich nehmen, wenn dies Zariels Wunsch
     ist.</p>
     <p>All dies ist mein immerwährendes Versprechen.</p>

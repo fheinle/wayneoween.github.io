@@ -131,7 +131,7 @@ etwas im Hintergrund. Fyron erfährt, was er wissen will, hoffe ich.
 <p>Fyron erfährt, wo die Gilde zuletzt die drei Personen gesehen hat, die er
 sucht:</p>
 <ul>
-  <li><em>Yoryth</em> ist vor einigen Wochen nach Elturel gereist, wurde
+  <li><em>Yoryth</em> ist vor einigen Wochen nach {% include glossary_link.html title="Elturel" %} gereist, wurde
   seither nicht mehr gesehen.</li>
   <li>Ein weiblicher Elf ist nach {% include glossary_link.html title="Candlekeep" %} aufgebrochen.</li>
   <li>Ein Dritter ist vor einigen Wochen spurlos verschwunden, nachdem er

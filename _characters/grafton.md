@@ -37,7 +37,7 @@ stoßen bei ihm auf offene Ohren. Er sieht im Gott Tyr und auch in dem ihn
 vertretenden Kleriker Vorbilder, die sicher auch durch die gefärbte Brille
 seiner Wünsche etwas besser davon kommen, als sie es eigentlich verdient
 hätten. Er entscheidet sich, selbst auch dem Glauben des Tyr zu folgen. Der
-Missionar nimmt ihn mit nach Elturel, wo er seine Ausbildung und selbst die
+Missionar nimmt ihn mit nach {% include glossary_link.html title="Elturel" %}, wo er seine Ausbildung und selbst die
 Weihe zum Kleriker des Tyr erfährt. Nach seiner Ausbildung wird er wieder
 zurück gesandt in seine Heimatstadt {% include glossary_link.html title="Baldurs Gate" name="Baldur's Gate" %}, wo nach Ansicht des Tempels
 Männer wie er dringend für den Kampf für mehr Gerechtigkeit gebraucht werden.

@@ -50,12 +50,12 @@ Informationen und Schätze hält sie hier unten. Ich kann sie nicht im Stich
 lassen, also gehen wir vorsichtig weiter durch die Gänge. Wir kommen zu einer
 besonders stabilen Tür. Die bekommen wir nicht auf. Also wieso nicht klopfen?
 Ich bin überrascht - uns wird geöffnet. Von niemand geringerem als *Thavius
-Kreeg*. Dem hohen Aufseher von Elturel. Der tot sein sollte. Der zusammen mit
+Kreeg*. Dem hohen Aufseher von {% include glossary_link.html title="Elturel" %}. Der tot sein sollte. Der zusammen mit
 Elturel in die Hölle gefahren sein sollte. Der in {% include glossary_link.html title="Baldur's Gate" %} auf freiem Fuß
 gesehen wurde. Er hat den Schlüssel zu seinem Versteck hier. Im Glauben, seine
 Freunde oder Thalamra klopfen an die Tür, öffnet er uns. An den haben wir
 zahlreiche Fragen. Doch besser nicht hier, besser nicht jetzt. Wir sind noch
-immer in Gefahr. Das wichtigste muss aber gefragt werden. Hat er Elturel in die
+immer in Gefahr. Das wichtigste muss aber gefragt werden. Hat er {% include glossary_link.html title="Elturel" %} in die
 Hölle geschickt? Was macht er in {% include glossary_link.html title="Baldur's Gate" %}? Was macht er *hier unten*?! Er
 will Elturels Höllenfahrt knapp entkommen sein. Will Zuflucht in {% include glossary_link.html title="Baldur's Gate" %}
 gesucht haben. Will von der Flaming Fist und den Vanthampurs aufgegriffen und
@@ -202,7 +202,7 @@ sprechen.
     <dd>Das war Thavius' Gegenleistung für ein halbes Jahrhundert Schutz
         Elturels durch den Companion</dd>
     <dt>Was war das für ein Tausch?</dt>
-    <dd>Elturel war unter Bedränging einer Horde Vampire. Thavius hat
+    <dd>{% include glossary_link.html title="Elturel" %} war unter Bedränging einer Horde Vampire. Thavius hat
         allernorts um Hilfe gesucht und sie bei bei Zariel gefunden. Die Seelen
         der Stadt wurden getauscht gegen 50 Jahre Schutz.
     </dd>

@@ -40,7 +40,7 @@ im Tempel aufsuchen. Er mahnt mich, ich soll mein Versprechen halten. Er halte
 seines.
 
 <div class="infobox quest">
-  <h3>Graftons Mentor in Elturel aufsuchen</h3>
+  <h3>Graftons Mentor in {% include glossary_link.html title="Elturel" %} aufsuchen</h3>
   <p>Eine Erscheinung Tyrs hat Grafton aufgefordert, seinen Mentor im Tempel
   Torms in Elturel aufzusuchen. {% include glossary_link.html title="Baldur's Gate" %} droht schlimmes Unglück, das es zu
   verhindern gilt.</p>
@@ -74,7 +74,7 @@ gefallenen Torteloni verschonen.
 Bevor ich damit etwas bewirken kann, unterbricht uns eine herbei geeilte
 Ritterin aus der Trutzburg, welche die Brücke überblickt. Sie rettet Torteloni und
 kümmert sich um seine Verletzungen. Der Angriff der Yuan Ti war kein gutes
-Zeichen. Wir sollen unbedingt den hohen Aufseher *Kreeg* in Elturel aufsuchen
+Zeichen. Wir sollen unbedingt den hohen Aufseher *Kreeg* in {% include glossary_link.html title="Elturel" %} aufsuchen
 und ihn über diese Vorkommnisse informieren. Damit uns Glauben geschenkt wird,
 übergibt sie mir ein heiliges Symbol Torms mit den Buchstaben *D* und *W*
 darauf. Ein sehr persönliches Kleinod. Man gibt solche Dinge nicht
@@ -83,7 +83,7 @@ leichtfertig. Ich verwahre es bei meinem eigenen.
 <div class="infobox quest">
   <h3>Aufseher Kreeg aufsuchen</h3>
   <p>Nach einem Angriff der Yuan Ti auf die Boareskyr-Bridge und das Lager dort
-  sollen wir den hohen Aufseher Kreeg in Elturel aufsuchen und ihm von den
+  sollen wir den hohen Aufseher Kreeg in {% include glossary_link.html title="Elturel" %} aufsuchen und ihm von den
   Vorkommnissen berichten. Für unsere Glaubwürdigkeit haben wir ein heiliges
   Symbol einer Ritterin aus der Burg bei der Brücke erhalten.</p>
 </div>
@@ -104,7 +104,7 @@ Speer prangen nun auch Fetzen und eine Gravur.
 
 Das klingt nicht gut. *Zariel*. Tyr hat mich bereits vor dieser Geschichte
 gewarnt. Niemand weiß, was mit Zariel nach dem ersten Angriff auf die Höllen
-geschehen ist. Wir müssen schnell weiter nach Elturel, Rat bei meinem Orden
+geschehen ist. Wir müssen schnell weiter nach {% include glossary_link.html title="Elturel" %}, Rat bei meinem Orden
 suchen. Sie werden wissen, was zu tun ist.
 
 ## Zwei Wochen auf Reisen - 27. Kytorn

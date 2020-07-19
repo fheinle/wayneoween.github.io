@@ -15,7 +15,7 @@ ein Preis ausgesetzt. Auf den Rückhalt in der Flaming Fist können wir uns auch
 nicht mehr verlassen. Dennoch gilt es diese Stadt hier zu retten. Nicht der
 Leute wegen, die hier das Sagen haben. Die waren der Rettung noch nie wert. Die
 haben sich schon immer selbst gerettet. Andere haben es nicht so leicht. Für
-die müssen wir aufhalten, was in Elturel schon passiert ist. Dazu müssen wir
+die müssen wir aufhalten, was in {% include glossary_link.html title="Elturel" %} schon passiert ist. Dazu müssen wir
 nach {% include glossary_link.html title="Candlekeep" %}. Dort hin zu kommen ist nicht einfach. Der Eintritt wird uns
 ein Buch kosten, was dort noch nicht vorrätig ist. Das müssen wir erst mal
 auftreiben. Zumindest *so* lange werden wir noch hier bleiben müssen. Immerhin
@@ -99,8 +99,8 @@ hinab gezogen worden ist in die Höllen - das kann ich gar nicht sagen.
 Wir machen uns auf zurück in unseren Unterschlupf. Reya fällt schwer, zu
 glauben, was wir ihr von Thavius berichten. Doch glauben muss sie uns diesmal.
 Sie hält hier nun auch nichts mehr, sie will sich uns auf dem Weg nach
-{% include glossary_link.html title="Candlekeep" %} anschließen. Sie will Elturel retten. Nun gut. Vielleicht zuerst
-{% include glossary_link.html title="Baldur's Gate" %}. Dann sehen wir, was wir für Elturel noch tun können. Wir sehen
+{% include glossary_link.html title="Candlekeep" %} anschließen. Sie will {% include glossary_link.html title="Elturel" %} retten. Nun gut. Vielleicht zuerst
+{% include glossary_link.html title="Baldur's Gate" %}. Dann sehen wir, was wir für {% include glossary_link.html title="Elturel" %} noch tun können. Wir sehen
 uns noch einmal das Kondolenzbuch der Beerdigung an. Nicht nur stehen hier die
 Namen aller möglicher Besucher, selbst die Wachen sind alle namentlich genannt.
 Auf dem Einband des Buches verbirgt sich auch noch ein weiteres Geheimnis.

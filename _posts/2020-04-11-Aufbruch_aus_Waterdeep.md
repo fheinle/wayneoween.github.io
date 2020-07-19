@@ -205,7 +205,7 @@ der Ferne schon erkennt man die gewaltige Brücke und die noch gewaltigeren
 Figuren zweier Götter, aus der Zeit der Sorgen, zwanzig mal so groß wie ein
 Mann. Kein Mut machender Anblick, doch für uns wartet dort erstmal Zuflucht.
 Von hier an ab wird der Weg wieder etwas sicherer. Wir könnten sogar Halt
-machen in Elturel.
+machen in {% include glossary_link.html title="Elturel" %}.
 
-Elturel. Daran habe ich viele Erinnerungen. Gute Erinnerungen, aber auch schlechte.
+{% include glossary_link.html title="Elturel" %}. Daran habe ich viele Erinnerungen. Gute Erinnerungen, aber auch schlechte.
 Das gilt wohl für die meisten Schulen. Wer weiß, ob wir dort hin finden.

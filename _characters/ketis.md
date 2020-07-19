@@ -10,7 +10,7 @@ background_pos: 50% 40%
 ### Ein Aussteiger aus Brampton
 
 Ketis betreibt als Fischer und Fährmeister eine kleine Einsiedelei am Fluss genau zwischen
-{% include glossary_link.html title="Baldur's Gate" %} und Elturel. Mit dem Leben in der Stadt hat er in seiner Kindheit keine guten
+{% include glossary_link.html title="Baldur's Gate" %} und {% include glossary_link.html title="Elturel" %}. Mit dem Leben in der Stadt hat er in seiner Kindheit keine guten
 Erfahrungen gemacht, daher hält er gerne Abstand zur Gesellschaft.
 
 <!-- more -->

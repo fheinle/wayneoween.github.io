@@ -52,7 +52,7 @@ Kultisten, die hier Leute entführen und schänden. Darunter verdächtig viele
 Patriars, aber bisher nur ein Vanthampur. Die Geschichte geht aber noch
 weiter. Die Matriarchin will Uldar Ravengards Platz als Großherzog einnehmen.
 Damit aber noch nicht genug, sie will auch noch {% include glossary_link.html title="Baldur's Gate" %}
-in das gleiche Schicksal stoßen wie Elturel, in die neun Höllen hinab ziehen!
+in das gleiche Schicksal stoßen wie {% include glossary_link.html title="Elturel" %}, in die neun Höllen hinab ziehen!
 Sie hat ein besonderes Artefakt, einen Schild.
 *Jemand wie Fyron* soll es ihr verkauft haben. Ein *Sasilas*. Das ist
 ziemlich viel Vorhaben für nur eine Frau. Andererseits ist sie die

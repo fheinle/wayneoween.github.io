@@ -123,5 +123,5 @@ Und ganz Elturel.
     an den Eid gebundenen Verteidiger mit sich nehmen, wenn dies Zariels Wunsch
     ist.</p>
     <p>All dies ist mein immerwährendes Versprechen.</p>
-    <p>Thavius Kreeg</p>
+    <p>{% include glossary_link.html title="Thavius Kreeg" %}</p>
 </div>

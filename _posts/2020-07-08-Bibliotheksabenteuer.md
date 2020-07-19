@@ -80,7 +80,7 @@ gewiesen hat. Bei ihr handelt es sich um die erste Leserin von {% include
 glossary_link.html title="Candlekeep" %}. Die anderen Teilnehmer des hier
 tagenden Rats scheinen ebenso wichtig wie illuster.
 
-Wir werden sehr detailliert befragt. Wie viele Kultisten es in Baldur's Gate
+Wir werden sehr detailliert befragt. Wie viele Kultisten es in {% include glossary_link.html title="Baldur's Gate" %}
 gebe. Wieso wir Madame Vanthampur angegriffen hätten. Was wir von den Teufeln zu
 berichten haben. Ob wir Fyrons Schild schon verwendet haben. Was Veil persönlich
 vom Schicksal Elturels halte. Wieso wir unser Leben riskiert hätten, diese
@@ -92,7 +92,7 @@ Darüber hinaus sind wir auch nicht hier, uns in den Dienst der Obrigkeit von
 {% include glossary_link.html title="Candlekeep" %} zu stellen. Die Flaming Fist hat uns
 schon im Stich gelassen, wir sind auf uns gestellt. Wir sind hier, Informationen
 über die Rätselbox zu erhalten. Von Sylvira. Von diesem Verhör und der
-Erlaubnis, dem Unheil von Elturel und Baldur's Gate Einhalt zu gebieten, haben wir
+Erlaubnis, dem Unheil von Elturel und {% include glossary_link.html title="Baldur's Gate" %} Einhalt zu gebieten, haben wir
 nichts. Wir tun unseren Unmut kund; die erste Leserin gebietet der Befragung
 Einhalt.
 
@@ -100,7 +100,7 @@ Die Unterhaltung trägt danach wieder mehr Früchte. Wir sprechen über Elturel.
 Dessen Bewohner sind vielleicht noch am Leben und nun fürchterlichen Qualen
 ausgesetzt, in Avernus. Zariel hat sich Elturel mitsamt seinen Einwohnern
 geholt, wie der Pakt mit {% include glossary_link.html title="Thavius Kreeg" %}
-es ihr erlaubt. Auch Baldur's Gate ist nur fürs Erste sicher. Um dem Treiben
+es ihr erlaubt. Auch {% include glossary_link.html title="Baldur's Gate" %} ist nur fürs Erste sicher. Um dem Treiben
 Einhalt zu gebieten, müssen wir selbst nach Avernus hinabsteigen. Soweit sind
 wir uns einig. Sylvira schlägt vor, den Vertrag zwischen Thavius und Zariel
 zu annullieren. Dazu müsse der Companion zerstört werden. So könne man

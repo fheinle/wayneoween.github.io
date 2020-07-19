@@ -71,22 +71,25 @@ den Statuen, aber mit viel Arbeit vor sich.
 ## Besprechungen
 
 Gegen Abend werden wir dann zum Gespräch gerufen. Nicht wegen der Unordnung in
-der Bibliothekskammer, wegen der Angriffe in {% include glossary_link.html title="Candlekeep" %}. Wird werden von Bruder
-Dougat im Turm Exaltation begrüßt. Sylvira ist schon da. Vor ihr liegt die Rätselbox, samt des Vertrags. Nach und nach treffen noch mehr Leute ein. Alle
-sicherlich mit hohem Ansehen, erste Leserin hiervon oder davon. Auch die nette
-alte Dame von neulich ist dabei, die mir den Weg gewiesen hat. Bei ihr handelt
-es sich um die erste Leserin von {% include glossary_link.html title="Candlekeep" %}. Die anderen Teilnehmer des hier
+der Bibliothekskammer, wegen der Angriffe in {% include glossary_link.html title="Candlekeep" %}.
+Wird werden von Bruder Dougat im Turm Exaltation begrüßt. Sylvira ist schon
+da. Vor ihr liegt die Rätselbox, samt des Vertrags. Nach und nach treffen
+noch mehr Leute ein. Alle sicherlich mit hohem Ansehen, erste Leserin hiervon
+oder davon. Auch die nette alte Dame von neulich ist dabei, die mir den Weg
+gewiesen hat. Bei ihr handelt es sich um die erste Leserin von {% include
+glossary_link.html title="Candlekeep" %}. Die anderen Teilnehmer des hier
 tagenden Rats scheinen ebenso wichtig wie illuster.
 
 Wir werden sehr detailliert befragt. Wie viele Kultisten es in Baldur’s Gate
 gebe. Wieso wir Madame Vanthampur angegriffen hätten. Was wir von den Teufeln zu
 berichten haben. Ob wir Fyrons Schild schon verwendet haben. Was Veil persönlich
 vom Schicksal Elturels halte. Wieso wir unser Leben riskiert hätten, diese
-Informationen und Gefahren nach {% include glossary_link.html title="Candlekeep" %} zu bringen. Sonst erkenne ich gern
-den Sinn einer guten Befragung und eines Berichts an die Vorgesetzten. Doch das
-setzt auch immer Vertrauen voraus. Das hier wirkt mehr wie ein Verhör und eine
-Aufforderung zur Rechtfertigung. Darüber hinaus sind wir auch nicht hier, uns in
-den Dienst der Obrigkeit von {% include glossary_link.html title="Candlekeep" %} zu stellen. Die Flaming Fist hat uns
+Informationen und Gefahren nach {% include glossary_link.html title="Candlekeep" %}
+zu bringen. Sonst erkenne ich gern den Sinn einer guten Befragung und eines
+Berichts an die Vorgesetzten. Doch das setzt auch immer Vertrauen voraus. Das
+hier wirkt mehr wie ein Verhör und eine Aufforderung zur Rechtfertigung.
+Darüber hinaus sind wir auch nicht hier, uns in den Dienst der Obrigkeit von
+{% include glossary_link.html title="Candlekeep" %} zu stellen. Die Flaming Fist hat uns
 schon im Stich gelassen, wir sind auf uns gestellt. Wir sind hier, Informationen
 über die Rätselbox zu erhalten. Von Sylvira. Von diesem Verhör und der
 Erlaubnis, dem Unheil Elturels und Baldur’s Gates Einhalt zu gebieten, haben wir
@@ -96,29 +99,33 @@ Einhalt.
 Die Unterhaltung trägt danach wieder mehr Früchte. Wir sprechen über Elturel.
 Dessen Bewohner sind vielleicht noch am Leben und nun fürchterlichen Qualen
 ausgesetzt, in Avernus. Zariel hat sich Elturel mitsamt seinen Einwohnern
-geholt, wie der Pakt mit {% include glossary_link.html title="Thavius Kreeg" %} es ihr erlaubt. Auch Baldur’s Gate ist
-nur fürs Erste sicher. Um dem Treiben Einhalt zu gebieten, müssen wir selbst
-nach Avernus hinabsteigen. Soweit sind wir uns einig. Sylvira schlägt vor, den
-Vertrag zwischen Thavius und Zariel zu annullieren. Dazu müsse der Companion
-zerstört werden. So könne man Elturel wieder befreien.
+geholt, wie der Pakt mit {% include glossary_link.html title="Thavius Kreeg" %}
+es ihr erlaubt. Auch Baldur’s Gate ist nur fürs Erste sicher. Um dem Treiben
+Einhalt zu gebieten, müssen wir selbst nach Avernus hinabsteigen. Soweit sind
+wir uns einig. Sylvira schlägt vor, den Vertrag zwischen Thavius und Zariel
+zu annullieren. Dazu müsse der Companion zerstört werden. So könne man
+Elturel wieder befreien.
 
-Man will auch noch über Fyrons Schild sprechen. Sie wollen es uns nicht einmal
-abnehmen. Stattdessen zitieren sie aus einer Prophezeiung Alaundos. Die Träger
-des versteckten Herrschers würden in die Hölle fahren und die Stadt aus den
-Fängen der Lady of the Broken Light befreien. Beim versteckten Herrscher handle
-es sich um Fyrons Schild und was darin eingesperrt ist. Die Träger wären wir.
-Die Lady of the Broken Light wäre Zariel. Die Beweislage ist nicht ganz
-wasserdicht. Für eine Prophezeiung ist das allerdings wohl die normale
+Man will auch noch über Fyrons Schild sprechen. Sie wollen es uns nicht
+einmal abnehmen. Stattdessen zitieren sie aus einer Prophezeiung Alaundos.
+Die Träger des versteckten Herrschers würden in die Hölle fahren und die
+Stadt aus den Fängen des gefallenen Engels befreien. Beim versteckten
+Herrscher handle es sich um Fyrons Schild und was darin eingesperrt ist. Die
+Träger wären wir. Der gefallene Engel wäre Zariel. Die Beweislage ist nicht
+ganz wasserdicht. Für eine Prophezeiung ist das allerdings wohl die normale
 Deutlichkeit.
 
-Man will uns doch Unterstützung gewähren. Eine Karte von Avernus, magische
-Fesseln, ein Boot. Und Ratschläge. Die sind hier günstig, davon gibt es hier
-viele. Wir brauchen ein Portal nach Avernus. Die Rede ist von einem Portal, das
-meisterhaft versteckt wurde. Doch selbst in {% include glossary_link.html title="Candlekeep" %} scheint niemand zu
-wissen, wo es sich befindet. Niemand außer Miirym. Als der Name genannt wird,
-werden die sonst recht redseligen Ratsmitglieder allesamt ruhig.
+Man will uns doch Unterstützung gewähren. Eine magische Karte von Avernus,
+magische Fesseln, ein Boot. Und Ratschläge. Die sind hier günstig, davon gibt
+es hier viele. Wir brauchen ein Portal nach Avernus. Die Rede ist von einem
+Portal, das meisterhaft versteckt wurde. Doch selbst in {% include glossary_link.html title="Candlekeep" %}
+scheint niemand zu wissen, wo es sich befindet. Niemand außer {% include glossary_link.html title="Miirym" %}. Als der
+Name genannt wird, werden die sonst recht redseligen Ratsmitglieder allesamt
+ruhig.
 
-Bevor wir unser näher erkundigen können, wer oder was ein Miirym sei, dringt
+Bevor wir unser näher erkundigen können, wer oder was ein {% include glossary_link.html title="Miirym" %} sei, dringt
 jedoch dichter Rauch aus der Rätselbox auf dem Tisch. Aus dem Rauch dringt ein
 langes, schwarzes Horn. Es riecht nach Schwefel, giftigen Gasen und Lava. Es
 erscheinen drei Teufel. Die Weisen ziehen Zauberstäbe, wir zücken die Waffen.
+
+![Gehörnter Teufel](/img/posts/horned_devil.png)

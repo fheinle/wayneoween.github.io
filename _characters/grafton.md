@@ -4,8 +4,8 @@ race: Zwerg
 player: Florian
 player_link: https://twitter.com/heinlef
 layout: character
-background: /img/portraits/grafton_bg.jpg
-background_pos: '50% 25%'
+background: "/img/portraits/grafton_bg.jpg"
+background_pos: 50% 25%
 ---
 
 ### Mitglied der Flaming Fist, Kleriker  des Tyr/Torm
@@ -17,7 +17,7 @@ stellen, um das Leben für die Benachteiligten um ihn herum einfacher zu machen.
 
 <!-- more -->
 
-Grafton ist in einfachen Verhältnissen in der Outer City von Baldur's Gate
+Grafton ist in einfachen Verhältnissen in der Outer City von {% include glossary_link.html title="Baldur's Gate" %}
 aufgewachsen. Seine Eltern leben noch immer dort und führen kein aufregendes
 Leben, abgesehen vom Leben in der Großstadt. Obwohl er nicht in den
 gefährlichsten Gegenden der Outer City hat aufwachsen müssen, hat er doch stets
@@ -39,7 +39,7 @@ seiner Wünsche etwas besser davon kommen, als sie es eigentlich verdient
 hätten. Er entscheidet sich, selbst auch dem Glauben des Tyr zu folgen. Der
 Missionar nimmt ihn mit nach Elturel, wo er seine Ausbildung und selbst die
 Weihe zum Kleriker des Tyr erfährt. Nach seiner Ausbildung wird er wieder
-zurück gesandt in seine Heimatstadt Baldurs Gate, wo nach Ansicht des Tempels
+zurück gesandt in seine Heimatstadt {% include glossary_link.html title="Baldurs Gate" name="Baldur's Gate" %}, wo nach Ansicht des Tempels
 Männer wie er dringend für den Kampf für mehr Gerechtigkeit gebraucht werden.
 
 In den Lehren seines Klerikers findet Grafton auch seinen Weg zur Flaming Fist.

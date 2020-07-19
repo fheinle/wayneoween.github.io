@@ -2,10 +2,9 @@
 title: Fyron
 race: Eladrin
 player: Tobias
-# player_link: /
 layout: character
-background: /img/portraits/fyron_summer.jpg
-background_pos: '50% 23%'
+background: "/img/portraits/fyron_summer.jpg"
+background_pos: 50% 23%
 ---
 
 ### Besucher aus dem Feywild

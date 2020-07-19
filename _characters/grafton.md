@@ -17,7 +17,7 @@ stellen, um das Leben für die Benachteiligten um ihn herum einfacher zu machen.
 
 <!-- more -->
 
-Grafton ist in einfachen Verhältnissen in der Outer City von Baldur’s Gate
+Grafton ist in einfachen Verhältnissen in der Outer City von Baldur's Gate
 aufgewachsen. Seine Eltern leben noch immer dort und führen kein aufregendes
 Leben, abgesehen vom Leben in der Großstadt. Obwohl er nicht in den
 gefährlichsten Gegenden der Outer City hat aufwachsen müssen, hat er doch stets

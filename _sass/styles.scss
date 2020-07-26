@@ -17,8 +17,12 @@
   font-family: 'Silent_Lips';
   font-style: normal;
   font-weight: 300;
-  src: url('/webfonts/Silent_Lips.ttf'); /* IE9 Compat Modes */
-  src: local('Silent_Lips'),
-       url('/webfonts/Silent_Lips.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('/webfonts/Silent_Lips.woff') format('woff'), /* Modern Browsers */
+  src: url('/webfonts/Silent_Lips.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Silent_Lips';
+  font-style: bold;
+  font-weight: 300;
+  src: url('/webfonts/Silent_Lips-Bold.woff') format('woff');
 }

@@ -93,21 +93,32 @@ header.masthead {
     font-family: 'Silent_Lips';
     color: rgb(241, 235, 214);
     font-weight: 900;
-    font-size: 2em;
+    font-size: 3em;
     text-align: center;
   }
   @media only screen and (min-width: 992px) {
+    margin-top: 70px;
+    h1 {
+      font-size: 130px;
+    }
+  }
+  @media only screen and (min-width: 769px) and (max-width: 991px) {
+    margin-top: 20px;
       h1 {
-        font-size: 130px;
+          font-size: 100px;
       }
   }
-  @media only screen and (min-width: 360px) and (max-width: 991px) {
+  @media only screen and (min-width: 375px) and (max-width: 767px) {
+    margin-top: 20px;
       h1 {
-          font-size: 80px;
+          font-size: 60px;
       }
   }
-  @media only screen and (min-width: 768px) {
-    padding: 100px 0 5px;
+  @media only screen and (max-width: 360px) {
+    margin-top: 20px;
+      h1 {
+          font-size: 60px;
+      }
   }
   span {
     font-size: 22px;

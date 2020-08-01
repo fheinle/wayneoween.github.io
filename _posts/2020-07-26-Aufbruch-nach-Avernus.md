@@ -27,7 +27,7 @@ Teufel näher kommt, ist nun eine große, schwere Holztür. Mit einem Schloss. D
 Teufel ist angekommen, Fyron und Toni halten ihn auf, während ich die Tür für
 uns öffne.
 
-![Miirym](/img/posts/myrrim.png)
+![{% include glossary_link.html title="Miirym" %}](/img/posts/myrrim.png)
 
 Eine enge Wendeltreppe führt nach unten. Wir stürzen hinab, der Teufel zwängt
 sich durch die engen Gänge hinterher. Unten ist eine weitere Tür. Dahinter hören
@@ -41,7 +41,7 @@ Nebel. Ein Flüstern kommt durch den Nebel. Eine tiefe, alte Stimme scheint uns
 entdeckt zu haben. Nun ist auch ein gigantischer Drache in der Höhle zu sehen,
 wie er durch den Nebel treibt, selbst fast wie Nebel. Wir erzählen dem Drachen
 vom Chaos über uns, in {% include glossary_link.html title="Candlekeep" %}. Er
-stellt sich als Miirym vor, erzählt von sich. Sie bekommt hier unten offenbar
+stellt sich als {% include glossary_link.html title="Miirym" %} vor, erzählt von sich. Sie bekommt hier unten offenbar
 nicht oft Besuch. Sie ist gefangen und fest gebannt, die Feste vor Angriffen aus
 dem Untergrund zu schützen. Wie die Ratsmitglieder vermutet haben, weiß sie auch
 über {% include glossary_link.html title="Elturel" %} zu berichten und kennt

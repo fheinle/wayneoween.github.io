@@ -1,5 +1,6 @@
 ---
 title: Miirym
+type: drache
 ---
 
 Ein uralter, silberner Drache, der unter {% include glossary_link.html title="Candlekeep" %}

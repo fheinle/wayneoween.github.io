@@ -13,4 +13,4 @@ niemand sie befreien konnte und selbst nach ihrem Tod konnte sie {% include glos
 nicht verlassen.
 
 Sie sehnt sich nichts lieber, als jemandem zum Reden zu haben und ihre
-Freiheit und den Wind unter ihren Fluegeln spüren zu können.
+Freiheit und den Wind unter ihren Flügeln spüren zu können.

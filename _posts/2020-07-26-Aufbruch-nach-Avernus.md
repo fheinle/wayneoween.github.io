@@ -27,7 +27,7 @@ Teufel näher kommt, ist nun eine große, schwere Holztür. Mit einem Schloss. D
 Teufel ist angekommen, Fyron und Toni halten ihn auf, während ich die Tür für
 uns öffne.
 
-![Myrrim](/img/posts/myrrim.png)
+![Miirym](/img/posts/myrrim.png)
 
 Eine enge Wendeltreppe führt nach unten. Wir stürzen hinab, der Teufel zwängt
 sich durch die engen Gänge hinterher. Unten ist eine weitere Tür. Dahinter hören
@@ -41,16 +41,16 @@ Nebel. Ein Flüstern kommt durch den Nebel. Eine tiefe, alte Stimme scheint uns
 entdeckt zu haben. Nun ist auch ein gigantischer Drache in der Höhle zu sehen,
 wie er durch den Nebel treibt, selbst fast wie Nebel. Wir erzählen dem Drachen
 vom Chaos über uns, in {% include glossary_link.html title="Candlekeep" %}. Er
-stellt sich als Myrrim vor, erzählt von sich. Er bekommt hier unten offenbar
-nicht oft Besuch. Er ist gefangen und fest gebannt, die Feste vor Angriffen aus
-dem Untergrund zu schützen. Wie die Ratsmitglieder vermutet haben, weiß er auch
+stellt sich als Miirym vor, erzählt von sich. Sie bekommt hier unten offenbar
+nicht oft Besuch. Sie ist gefangen und fest gebannt, die Feste vor Angriffen aus
+dem Untergrund zu schützen. Wie die Ratsmitglieder vermutet haben, weiß sie auch
 über {% include glossary_link.html title="Elturel" %} zu berichten und kennt
 einen Ort, an dem wir ein Portal finden könnten. Das Portal zu den Höllen konnte
 nicht vernichtet werden, also musste es verborgen werden. Auf den Feldern der
 Toten ist ein fruchtvoller Hain entstanden, nicht ganz natürlich. Dort muss ein
-Baum gefällt werden, ein bestimmter, und die Illusion endet. Er kann uns auch
-direkt dort hin bringen. Doch ihm ist langweilig, er möchte lieber mit uns über
-unsere Geschichte sprechen, sich erzählen lassen. Er hat Glück. Veil hat unsere
+Baum gefällt werden, ein bestimmter, und die Illusion endet. Sie kann uns auch
+direkt dort hin bringen. Doch ihr ist langweilig, uns sie möchte lieber mit uns über
+unsere Geschichte sprechen, sich erzählen lassen. Sie hat Glück. Veil hat unsere
 Geschichte schon aufgeschrieben, in einem Buch. Den Einlass nach
 {% include glossary_link.html title="Candlekeep" %} haben wir uns schon mit dem
 *Lied von Eis und Feuer und Sturm und Wolke und Hügel* erkauft. So können wir
@@ -81,13 +81,13 @@ gefällt werden muss.
 
 Statt der Stimme hören wir nun ein lautes Tröten. Durch das Gebüsch kommt etwas
 schnell auf uns zugeflogen. Ein kleiner, goldener Elefant. *Lulu*. Eigenen
-Angaben nach nicht der Wächter des Hains. Mehr eine Art Vertretung. Er wirkt
-ungefährlich. Er sitzt am Boden, wir setzen uns mit dazu. Seine beste Freundin
-war ein Engel – Zariel. Mit ihr zusammen hat er die Teufel in Avernus bekämpft,
-bis die Schlacht verloren war. Er konnte noch ihr Schwert in Avernus verstecken
+Angaben nach nicht der Wächter des Hains. Mehr eine Art Vertretung. Sie wirkt
+ungefährlich. Sie sitzt am Boden, wir setzen uns mit dazu. Seine beste Freundin
+war ein Engel – Zariel. Mit ihr zusammen hat sie die Teufel in Avernus bekämpft,
+bis die Schlacht verloren war. Sie konnte noch ihr Schwert in Avernus verstecken
 und durch das Portal zurückkehren. Viele andere nicht. Ein weißes Pferd, mit
-einem Horn, hat ihm seither geheißen, den Hain zu bewachen. Es gelingt uns, ihn
-von unserem Plan zu überzeugen. Er will uns mit in die Höllen begleiten, dort
+einem Horn, hat ihr geheißen, den Hain zu bewachen. Es gelingt uns, ihr
+von unserem Plan zu überzeugen. Sie will uns mit in die Höllen begleiten, dort
 weiteres Unheil versuchen abzuwenden. Fyron setzt den Baum in Flammen. Der Hain
 verschwindet. Übrig bleibt ein weites Feld, noch immer mit den Spuren von
 Pferden, Soldaten und Krieg. Und ein Portal, in einer Felsspalte.
@@ -108,7 +108,7 @@ kleine Bande Teufel und ihre Höllenhunde. Wir werden mit ihnen fertig, einer
 entkommt.
 
 Die Frau mit ihren Kindern ist uns für die Rettung dankbar. Sie war auf der
-Suche nach Essen. Auf dem Marktplatz bieten Anhänger Ikajas Vorräte an.
+Suche nach Essen. Auf dem Marktplatz bieten Anhänger Ikaias Vorräte an.
 Ausgerechnet. Die Anhänger des Vampirfürsten, den der Companion vertrieben hat,
 sind nun die Wohltäter in Avernus. Sicherlich kommt die Wohltat hier aber auch
 nicht ohne ihren Preis. Bei einer kurzen Rast suchen wir das Gespräch mit den

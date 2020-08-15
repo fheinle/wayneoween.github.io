@@ -56,12 +56,12 @@ Gasse, bevor wir gesehen werden. Ein Reiter eilt zu einem Kampf in der Nähe.
 Dämonen. Der Kerl traut uns nicht. Wir können es ihm nicht übel nehmen. Hier
 sollte man niemandem trauen. Hier lauern überall gefahren.
 
-Langsam schleichen wir uns zum Eingang der hohen halle voran. Dort angekommen
-finden wir das Tor versperrt. Zwei scharfe Hunde bewachen den Eingang.Tony
+Langsam schleichen wir uns zum Eingang der Hohen Halle voran. Dort angekommen
+finden wir das Tor versperrt. Zwei scharfe Hunde bewachen den Eingang. Tony
 schickt Surina, sich einen Überblick verschaffen. Sie kommt wieder. Irgendwas
-muss passiert sein. Vielleicht ist sie gesehen worden. Das Tot tut sich auf,
+muss passiert sein. Vielleicht ist sie gesehen worden. Das Tor tut sich auf,
 heraus kommen vermummte Gestalten. Sie kommen auf uns zu, hetzen auch die
-Höllenhunde auf uns. Wir ziehen uns zurück. Der Weg zur hohen Halle war zu
+Höllenhunde auf uns. Wir ziehen uns zurück. Der Weg zur Hohen Halle war zu
 anstrengend, wir sind keinem weiteren Kampf gewachsen. Wir verstecken uns in
 den Häusern, suchen etwas Rast. Um ein Haar werden wir gefunden, doch wir
 können den Verfolgern fürs Erste entgehen.
@@ -71,6 +71,6 @@ wir, wie überall hier, eine Spur der Verwüstung. Blutspuren. Leichen der
 Wächter liegen herum. Unmöglich zu sagen, wie lange schon. Die Darstellungen
 Torms sind entweiht. Statt seiner Darstellung ziert nun die eine weibliche
 Fratze die Wände und Statuen. Zariel. Sonst finden wir hier niemanden. Es ist
-still, keine Spur von Uldar oder anderen. Reya sucht den Weg in die Keller. In
-einem Altar Torms entdecken wir eine versteckte Treppe hinab. Dort unten hören
-wir Flüstern.
+still, keine Spur von {% include glossary_link.html title="Ulder Ravengard" %} oder anderen. Reya sucht den Weg in die
+Keller. In einem Altar Torms entdecken wir eine versteckte Treppe hinab. Dort
+unten hören wir Flüstern.

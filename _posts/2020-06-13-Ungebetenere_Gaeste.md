@@ -143,7 +143,7 @@ nur, dass wir sie dazu in {% include glossary_link.html title="Candlekeep" %} au
 
 Mit Satiir Thione-Hhune sprechen wir über die Vanthampurs. Wir glauben, die
 zahlreichen Entführungen unter den Patriars dienen der Einschüchterung vor den
-Wahlen zur Nachfolge Uldar Ravengards unter den Großherzogen. Das sieht den
+Wahlen zur Nachfolge Ulder Ravengards unter den Großherzogen. Das sieht den
 Vanthampurs ähnlich. Nun haben wir jedoch eine Verbündete, oder zumindest die
 Vanthampurs eine Feindin. Beides recht.
 

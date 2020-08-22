@@ -116,7 +116,7 @@ Leuten hier. Viele von ihnen sind bemerkenswert bleich im Gesicht. Einer
 erzählt, der Vampirfürst sei tatsächlich in der Stadt. Um hier Vorräte zu
 bekommen, muss man kein Vampir sein. Um von den beträchtlichen Vorräten der
 Vampirgilde zu bekommen, müsse man ihnen jedoch die Treue schwören. Ein anderer
-erzählt von Uldar. Ravengard hat in der hohen Halle ein Lager aufgeschlagen, als
+erzählt von Ulder Ravengard hat in der hohen Halle ein Lager aufgeschlagen, als
 Stützpunkt. Dort werden auch diejenigen beschützt, deren Häuser schon, wie so
 viele hier, in Schutt und Asche liegen. Doch die Brücken dorthin sind stark
 bewacht von allerlei Unheil und aus der Richtung der hohen Halle ist eine

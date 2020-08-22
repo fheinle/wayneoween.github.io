@@ -85,7 +85,7 @@ Hölle verfallen bin, kann ich ihn nicht einfach erledigen. Aber retten brauche
 ich auch nicht. Ich wende mich unseren Verwundeten zu. Die anderen erledigen
 den Rest.
 
-Wir finden weiteren Streiter der flammenden Faust. Gefangene der Teufel. Ulder
+Wir finden weitere Streiter der flammenden Faust. Gefangene der Teufel. Ulder
 erkennt sie wieder. Mit den vorhin geretteten, zwei Gefallenen und diesen hier
 ist sein Trupp nun vollständig. Wir machen uns zurück auf den Weg zur Krypta.
 Wir sprechen mit Ulder, und mit Pherria. Jetzt ist Zeit, ein paar Dinge zu

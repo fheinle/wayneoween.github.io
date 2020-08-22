@@ -58,7 +58,7 @@ Sie vertrauen uns, als sie Ulder erblicken. Sie mussten sich in diese Kammer
 zurückziehen, als sie von einer hässlichen Metallfigur verfolgt wurden. Dabei
 wurden sie dann hier unten eingesperrt. Wachen einsperren. Nicht, was man von
 Teufeln für Gewöhnlich erwartet. Wir senden die Befreiten zurück, in die Krypta.
-Sich erholen, die Geflohenen schützen. Bereit werden für weitere Kämpfe. 
+Sich erholen, die Geflohenen schützen. Bereit werden für weitere Kämpfe.
 
 ![Merregon](/img/posts/merregon.png)
 
@@ -116,7 +116,7 @@ und Infernale Schrift kommt zum Vorschein.
 
 <div class="infobox hint">
   <h3>Der Verrat Elturels</h3>
-  <p>Im Jahr 1444 DR hat Naya Bellandi, die hohe Aufseherin Elturels ein
+  <p>Im Jahr 1444 DR hat Naja Bellandi, die hohe Aufseherin Elturels ein
   Abkommen mit Zariel, damals schon Anhängerin Asmodeus, geschlossen. Sie war
   es, nicht {% include glossary_link.html title="Thavius Kreeg" %}, die {% include glossary_link.html title="Elturel" %} im Gegenzug für den Schutz des
   Companions nach 50 Jahren Zariel überschrieben hat.</p>
@@ -133,7 +133,7 @@ Kapelle, verbirgt sich ein Artefakt, einen Helm der Visionen Torms erlaubt.
   soll</p>
 </div>
 
-Auch Yorith ist hier gesehen worden! Rastlos ist er längst wieder aufgebrochen,
+Auch Yoryth ist hier gesehen worden! Rastlos ist er längst wieder aufgebrochen,
 auf der Suche nach jemandem will er die Ketten hinab zum Fluss Styx. Seither
 hat ihn hier niemand mehr gesehen.
 

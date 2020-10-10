@@ -81,16 +81,25 @@ zieht es mich direkt in dieses Becken. Bereitwillig für die Eingaben Torms
 folge ich dem mir vorgegebenen Weg und setze abermals den Helm auf. Eine
 weitere Vision wartet auf mich.
 
-Eine Frau in schwerer Rüstung ist zu erkennen, mit einem großen Schwert. Sie
-ist erschöpft, zugerichtet von langen Kämpfen. Hinter ihr ein goldenes,
-fliegendes Wesen mit großen Ohren. Auf die beiden springt ein gewaltiges Wesen
-zu, kleinere Dämonen speiend! Die Kämpferin stößt das Schwert in den Boden,
-eine Welle göttlicher Energie breitet sich in alle Richtungen davon aus. Damit
-drängt sie auch die angreifenden Dämonen zurück. Doch Avernus scheint sich
-gegen die Welle zu wehren. Der Boden tut sich auf und umschließt die Welle,
-bildet eine Kuppel und schließt die Frau ein. Das fliegende Wesen entkommt, im
-letzten Moment. Es flieht, bis es vor zwei vogelartigen Wesen mit merkwürdigen
-Gegenständen landet.
+Eine Frau in schwerer Rüstung ist zu erkennen, mit einem großen, engelhaft
+blau leuchtendem Schwert. Sie ist erschöpft, zugerichtet von langen Kämpfen.
+Hinter ihr ein goldenes, fliegendes Wesen mit großen Ohren.
+
+![Zariels Schwert](/img/posts/zariels_schwert.png)
+
+Auf die beiden springt ein gewaltiges Wesen zu, kleinere Dämonen speiend! Die
+Kämpferin stößt das Schwert in den Boden, eine Welle göttlicher Energie
+breitet sich in alle Richtungen davon aus. Damit drängt sie auch die
+angreifenden Dämonen zurück. Doch Avernus scheint sich gegen die Welle zu
+wehren. Der Boden tut sich auf und umschließt die Welle, bildet eine Kuppel
+und schließt die Frau ein.
+
+![Kathedrale im Schorf von Avernus](/img/posts/schorfkathedrale.png)
+
+Das fliegende Wesen entkommt, im letzten Moment. Es flieht, bis es vor zwei
+vogelartigen Wesen mit merkwürdigen Gegenständen landet.
+
+![Kenku](/img/posts/kenkus.png)
 
 Ich komme wieder zu mir, als meine Freunde mich aus dem Wasser ziehen. Die Frau
 war niemand, den ich kenne. Das Schwert war groß, leuchtete in hellem Blau. Der

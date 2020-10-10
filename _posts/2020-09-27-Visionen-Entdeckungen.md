@@ -47,7 +47,7 @@ Unserem überraschenden und geballten Angriff haben die verbliebenen Kämpfer
 nichts mehr entgegenzusetzen. Auch nicht der Betrachter. Der Kampf ist
 entschieden, die Sieger sind wir. Wir wurden allerdings beobachtet. Aus einem
 Fenster blickt Gideon Lightward. Ich erinnere mich an ihn, ein hoher Priester
-in Elturel.
+in {% include glossary_link.html title="Elturel" %}.
 
 ![Gideon Lightbringer](/img/posts/gideon.png)
 
@@ -71,7 +71,7 @@ Wir irren eine Weile durch die Gewölbe unter dem Tempel und finden tatsächlich
 einen Helm, der sehr dem ähnelt, der auf dem Kunstwerk im Fenster dargestellt
 ist. Das muss er sein! Ketis setzt mir den Helm auf. Wer sonst sollte ihn auch
 tragen? Immerhin ist es ein Helm Torms. Doch nun ist keine Zeit für Stolz und
-Ergebenheit, wir suchen den Helm schließlich im Auftrag, Elturel zu retten.
+Ergebenheit, wir suchen den Helm schließlich im Auftrag, {% include glossary_link.html title="Elturel" %} zu retten.
 Gleich erreicht mich auch eine Vision. Nur eine leichte Eingebung. Bei Weitem
 nicht so mächtig wie die Eingebungen Tyrs, die mich schon erreicht haben.
 Immerhin kenne ich nun aber den weiteren Weg, der uns hier durch den Tempel
@@ -137,7 +137,7 @@ hinfort, weitere Dämonen für Liashandra zu suchen.
 
 Wir sind wieder unter uns. Vielleicht auch noch mit Baphomet, doch für den
 Moment ist er ruhig. Ich erzählt von meinen Visionen und befrage Lulu zu diesem
-Ereignis. Lulu erinnert sich an Yael, eine der Besten der Hellrider. Das
+Ereignis. Lulu erinnert sich an Yael, eine der Besten der {% include glossary_link.html title="Hellrider" %}. Das
 Schwert ist Zariels. Die Vögel heißen Chukka und Klonk, sie leben in Fort
 Knucklebone. Irgendwo unter der fliegenden Stadt Elturels.
 

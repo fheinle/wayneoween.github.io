@@ -127,7 +127,7 @@ ist erfreut, einen direkten Weg gefunden zu haben, mit seinen Dienern hier zu
 sprechen. Er weist seinen Quasiten an, weitere Dämonen zu Liashandra zu
 bringen. Fyron scheint es genug zu sein mit der Unsicherheit, er greift zum
 Rapier und streckt den Quasiten nieder. Ketis greift mich plötzlich an, wohl um
-dem Spuk einhalt zu gebieten, gelangt gaber nicht durch Rüstung und Schild
+dem Spuk einhalt zu gebieten, gelangt aber nicht durch Rüstung und Schild
 hindurch. Ein weiterer Dämon erscheint, diesmal ein gewaltiger Koloss von einem
 Wesen. Er scheint die Vertretung für den erschlagenen Quasiten zu sein. Etwas
 robuster, diesmal. Er nimmt die Aufgabe des Quasiten wahr und macht sich
@@ -137,15 +137,15 @@ hinfort, weitere Dämonen für Liashandra zu suchen.
 
 Wir sind wieder unter uns. Vielleicht auch noch mit Baphomet, doch für den
 Moment ist er ruhig. Ich erzählt von meinen Visionen und befrage Lulu zu diesem
-Ereignis. Lulu erinnert sich an Yael, eine der besten der Hellrider. Das
-Schwert ist Zariels. Die Vögel heißen Chugga und Chonk, sie warten in Fort
-Knucklebone. Unter der Stadt.
+Ereignis. Lulu erinnert sich an Yael, eine der Besten der Hellrider. Das
+Schwert ist Zariels. Die Vögel heißen Chukka und Klonk, sie leben in Fort
+Knucklebone. Irgendwo unter der fliegenden Stadt Elturels.
 
-## Zufucht suchen
+## Zuflucht suchen
 
 Wir machen uns auf den Weg, Zuflucht zu finden. Vielleicht wird es uns auch
 gelingen, den Helm loszuwerden. Es ist ein Heiligtum Torms, doch scheint der
-Dämonenprinz Baphomet darüber Besitz ergriffen zu haben.Wir finden ein Haus,
-das leer zu stehen scheint. Wir öffnen die Tür, es steht nicht lehr. Darin
-scheinen ein paar Grule ihr Dasein zu fristen. Wir machen uns bereit zum Kampf.
-Doch plötzlich wird es wieder laut, grell und heiß. Diesmal ist es zu viel.
+Dämonenprinz Baphomet darüber Besitz ergriffen zu haben. Wir finden ein Haus,
+das leer zu stehen scheint. Wir öffnen die Tür, es steht nicht leer. Darin
+scheinen ein paar Ghule ihr Dasein zu fristen. Wir machen uns bereit zum Kampf.
+Doch plötzlich wird es wieder laut, grell und heiß. Diesmal war es zu viel für mich.

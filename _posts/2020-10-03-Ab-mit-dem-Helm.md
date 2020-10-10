@@ -34,7 +34,7 @@ zurück zur hohen Halle kehren, wenn der Dämonenprinz Baphomet noch immer bei
 uns ist? Wir haben keine andere Wahl. Wir brechen auf, schleichen uns die
 bekannten Wege zurück. Auf dem Weg begegnen wir einem Dämon, der auf einem
 Hausdach sitzt. Er greift nicht an. Wir greifen nicht an. Stattdessen unterhält
-er sich mit Veil. Noch immer kann ihn Veil und den Dämon verstehen. Doch in den
+er sich mit Veil. Noch immer kann ich Veil und den Dämon verstehen. Doch in den
 Gesichtern der anderen steht nur die Verwunderung geschrieben. Und das
 Misstrauen. Spricht Veil die Sprache der Dämonen? Und ich? Der Dämon ist sehr
 redegewandt. Ein Philosoph. Er kann uns nicht mit dem Helm helfen, doch hat er

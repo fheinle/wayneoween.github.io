@@ -117,21 +117,21 @@ gibt sich als Baphoment zu erkennen. Ein Dämonenprinz. Die Stimme spricht auch
 über Veil. Sie sei eine von uns. Wer auch immer uns ist. Baphomet scheint durch
 mich zu sprechen, und ich verstehe seine Sprache. Veil offenkundig auch. Nur
 die anderen nicht. Veil und Baphomet haben sich einige Dinge zu erzählen.
-Liashandra sei hier - sicherzustellen, dass die Gefallenen Elturels auf Seiten
+{% include glossary_link.html title="Liashandra" %} sei hier - sicherzustellen, dass die Gefallenen Elturels auf Seiten
 der Dämonen im Blutkrieg kämpfen. Ein gewisser Koschichi sei auf der 23. Ebene
 der Abyss. Diese Unterhaltung ist mir unheimlich, auch wenn ich sie verstehe.
 Für die anderen muss es noch schwerer sein. Sie verstehen sicherlich überhaupt
 nichts. Bis auf Veil. Ich versuche, den Helm abzunehmen, doch es gelingt mir
 nicht. Baphomet spricht weiter durch mich, weiß offenkundig nichts vom Helm. Er
 ist erfreut, einen direkten Weg gefunden zu haben, mit seinen Dienern hier zu
-sprechen. Er weist seinen Quasiten an, weitere Dämonen zu Liashandra zu
+sprechen. Er weist seinen Quasiten an, weitere Dämonen zu {% include glossary_link.html title="Liashandra" %} zu
 bringen. Fyron scheint es genug zu sein mit der Unsicherheit, er greift zum
 Rapier und streckt den Quasiten nieder. Ketis greift mich plötzlich an, wohl um
 dem Spuk einhalt zu gebieten, gelangt aber nicht durch Rüstung und Schild
 hindurch. Ein weiterer Dämon erscheint, diesmal ein gewaltiger Koloss von einem
 Wesen. Er scheint die Vertretung für den erschlagenen Quasiten zu sein. Etwas
 robuster, diesmal. Er nimmt die Aufgabe des Quasiten wahr und macht sich
-hinfort, weitere Dämonen für Liashandra zu suchen.
+hinfort, weitere Dämonen für {% include glossary_link.html title="Liashandra" %} zu suchen.
 
 ![Yagnoloth](/img/posts/yagnoloth.png)
 

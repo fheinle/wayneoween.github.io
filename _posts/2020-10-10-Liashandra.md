@@ -7,11 +7,11 @@ background_pos: 0% 85%
 layout: post
 ---
 
-Wir stimmen ab. Als nächstes zu Liashandra? Sie soll über die Ketten Bescheid
+Wir stimmen ab. Als nächstes zu {% include glossary_link.html title="Liashandra" %}? Sie soll über die Ketten Bescheid
 wissen. Das Schwert Zariels suchen? Das könnte sich als nützlich erweisen.
 Vorräte bei den Vampiren besorgen? Die Leute hier würden es uns danken.
 
-Die Wahl fällt auf Liashandra. Sie soll sich am anderen Ende der Stadt
+Die Wahl fällt auf {% include glossary_link.html title="Liashandra" %}. Sie soll sich am anderen Ende der Stadt
 aufhalten. Wir brechen auf. Draußen ist die Luft rein. Zunächst. Ein Gnom
 schiebt einen Wagen herum. Außerdem sehen wir wieder diese Gestalten, weiß und
 schwarz, die vielleicht auf der Suche nach Opfern sind, die sie verspeisen
@@ -58,31 +58,31 @@ und Vorräte von der anderen Seite geholt werden können. Der Boden ist von
 feinem, weißen Staub bedeckt - was vom Knochenteufel übrig ist. Die Soldaten
 auf der Brücke halten uns an. Wollen wissen, ob wir Teufel sind. Sind wir
 nicht. Den Knochenteufel haben sie offenbar wirklich besiegen können. Einer
-meint, Fyron zu erkennen. Oder so ähnlich. Er hat so jemanden vor einiger Zeit
-schon gesehen, mit anderer Haarfarbe. Aber mit kaputtem Schwert. Soll die
-Ketten runter geklettert sein. Yoreth? Wir werden nochmal vor dem Ritter auf
-der anderen  Brücke gewarnt. Er sei sehr mächtig, lasse aber andere Dämonen
-passieren. Dämonen machen sich auf den Weg zum anderen Ende der Stadt. Wir
-ahnen, wohin - zu Liashandra. Das könnte unsere Spur sein. Zumindest wissen wir
-nun, wie wir zu Liashandra kommen. Wir folgen, in sicherem Abstand, den
-Dämonen. Doch was, wenn wir dort sind? Wieso sollte sie uns helfen? Das wird
-uns bestimmt etwas kosten.
+meint, Fyron zu erkennen. Oder so ähnlich. Er hat so jemanden vor einiger
+Zeit schon gesehen, mit anderer Haarfarbe. Aber mit kaputtem Schwert. Soll
+die Ketten runter geklettert sein. Yoryth? Wir werden nochmal vor dem Ritter
+auf der anderen Brücke gewarnt. Er sei sehr mächtig, lasse aber andere
+Dämonen passieren, wenn sie ihm überlegen sind. Dämonen machen sich auf den
+Weg zum anderen Ende der Stadt. Wir ahnen, wohin - zu {% include glossary_link.html title="Liashandra" %}. Das könnte
+unsere Spur sein. Zumindest wissen wir nun, wie wir zu {% include glossary_link.html title="Liashandra" %} kommen. Wir
+folgen, in sicherem Abstand, den Dämonen. Doch was, wenn wir dort sind? Wieso
+sollte sie uns helfen? Das wird uns bestimmt etwas kosten.
 
 Wir finden so den Weg zum Stadtmarkt. Ein paar Dämonen halten hier Wache. Veil
-fragt sie nach Liashandra. Wieder in dieser Sprache - der Sprache der Dämonen!
+fragt sie nach {% include glossary_link.html title="Liashandra" %}. Wieder in dieser Sprache - der Sprache der Dämonen!
 Uns wird der Weg gezeigt, wir werden zur Tür durchgelassen, doch aus den Augen
 lässt man uns nicht. Mich beschleicht die Ahnung, dass wir bereits erwartet
 wurden. Wir werden einfach eingelassen. Niemand stellt Fragen, niemand hält uns
 auf. Das geht zu einfach, als dass hier nicht noch mehr im Spiel sein müsste.
 Wir kommen in einen Raum, hier sollen wir warten. Bei einigen Dämonen - und
 einem Triton. Ketis Vater. Unsere Ankunft hier muss wohl Teil einer Abmachung
-gewesen sein. Hier werden wir auch Liashandra vorgestellt. Wir sprechen über
+gewesen sein. Hier werden wir auch {% include glossary_link.html title="Liashandra" %} vorgestellt. Wir sprechen über
 die Ketten. Auch sie scheint sich an den Ketten zu stören. Die Gründe leuchten
 mir nicht ganz ein. Scheint mit Seelen zu tun zu haben und dem Blutkrieg
 zwischen Teufeln und Dämonen. Die Ketten zu lösen wird nicht einfach sein, sie
 sind aus Höllenstahl gefertigt. Doch es gibt vielleicht Wege. Hier kommen die
 Kosten ins Spiel. Für alle weiteren hilfreichen Informationen sollen erst wir
-etwas für Liashandra tun.
+etwas für {% include glossary_link.html title="Liashandra" %} tun.
 
 Eine Art Dämonenschreck, vermutlich ein Gebäude, ist ihr ein Dorn im Auge. Der
 muss Teil der Schutzmaßnahmen der Teufel gegen die Dämonen sein. Wir sollen den
@@ -90,7 +90,7 @@ außer Gefecht setzen. Wir finden den unterhalb der Stadt, auf dem Grund
 Avernus’. Den Weg dort hin zu finden wird nicht einfach sein. Wir müssen immer
 noch irgendwie die Ketten hinab kommen und wo dieser Dämonenschreck steht,
 wissen wir auch nicht. Vielleicht kann uns die Karte von Avernus hilfreich
-sein, die wir in Kerzenburg erhalten haben. Die findet auch Liashandra
+sein, die wir in Kerzenburg erhalten haben. Die findet auch {% include glossary_link.html title="Liashandra" %}
 interessant. Sehr interessant sogar. So interessant, dass sie uns einen Ring
 aufdrängt, mit dessen Hilfe sie im tragischen Fall unseres verfrühten Ablebens
 doch noch die Karte retten könnte. Oder vielleicht zuvor das Ableben sogar

@@ -14,7 +14,7 @@ ertragen.
 
 ![Chasme](/img/posts/chasme.png)
 
-Wir bleiben in großer Höhe. Über uns ist {% include glossary_link.html title="Elturel" %}, doch das lassen wir bald
+Wir bleiben in großer Höhe. Unter uns ist {% include glossary_link.html title="Elturel" %}, doch das lassen wir bald
 hinter uns. Unter uns sehen wir große Regimenter von Teufeln, in geordneter
 Aufstellung.  Ein Schiff legt an. Die Dämonen darauf sind weitaus weniger
 diszipliniert. Eine wilde Horde stürzt auf die Teufel zu. Wir lassen auch diese
@@ -46,14 +46,14 @@ sobald er sich zu etwas entschlossen hat. Wir greifen an. Wir besiegen ihn -
 doch nicht, bevor Ketis eine infernale Wunde davonträgt. Es geht ihm  nicht
 gut. Den anderen gelingt es, die Wunde zu stillen, doch er ist stark
 mitgenommen. Mit der Gnade Torms vermag ich, ihm etwas seine Schmerzen zu
-lindern und ihn zu kräftigen. Nun sind wir in Avernus. So richtig, auf dem
+lindern und ihn zu kräftigen. Nun sind wir also in Avernus. So richtig, auf dem
 Boden. In der Nähe eine Schlacht. Ein seltsames Gefährt hat einen Teufel
 schwachköpfig machen können, mit Wasser aus dem Styx. Um uns herum Teergruben
-und Lavabecken.  Lava. Nun ist vermutlich so eine gute Gelegenheit, den Creed
+und Lavabecken. Lava. Nun ist vermutlich so eine gute Gelegenheit, den Creed
 Resolute zu vernichten, wie sonst auch. Wir werfen das Buch in den Lavasee.
-Doch das Buch verschwindet nicht. Statt zu verbrennen und zu sinken, schwebt es
+Doch das Buch verschwindet nicht. Statt zu verbrennen und zu sinken, schwimmt es
 oben. Die Schriftzeichen auf der Oberfläche beginnen zu leuchten.
-Unverrichteter DInge fischen wir es wieder heraus. Das hat nicht geklappt.
+Unverrichteter Dinge fischen wir es wieder heraus. Das hat nicht geklappt.
 
 ![Redcap](/img/posts/redcap.png)
 
@@ -78,7 +78,7 @@ der Suche nach der Quelle begeben wir uns zu der gewaltigen Hand, die das
 Zentrum dieser Feste darstellt. Die verschiedenen Finger sind groß wie Häuser.
 Hier muss die Quelle sein. Der Teil der Gestalten, der nicht arbeitet, scheint
 auf dem Weg hierher oder von hier weg zu sein. Wir betreten den ersten Finger.
-Hier wird nur ekelhafte suppe serviert, ein freundlicher aber vergesslicher
+Hier wird nur ekelhafte Suppe serviert, ein freundlicher aber vergesslicher
 Flammenschädel hält etwas Konversation. Wir erfahren: In Fort Knucklebone darf
 niemand umgebracht werden. Das Gesetz von Mad Maggie. 
 
@@ -94,15 +94,15 @@ den Vorfahren dieser Vögel das Wort Liebe beigebracht hat. Chukka und Clonk,
 die Vorfahren der meisten Vögel hier, waren auch schon begeisterte Mechaniker.
 So heißen wohl diejenigen, die an den Gefährten arbeiten können.
 
-Wir finden Caroll wieder. Die Fahrerin eines solchen Gefährts, der wir noch
+Wir finden Carol wieder. Die Fahrerin eines solchen Gefährts, der wir noch
 etwas schulden. Wir stellen uns als Lulus Crew vor. Lulu scheint hier beliebt
-zu sein. Offenbar aber hauptsächlich bei den Kenkus. Caroll bleibt uns
+zu sein. Offenbar aber hauptsächlich bei den Kenkus. Carol bleibt uns
 gegenüber kalt. Wir erfahren, dass Mad Maggie diejenige ist, die hier das Sagen
 hat. Sie regiert hier. Ihr Gesetz besagt, dass hier niemand umgebracht werden
 darf. In Fort Knucklebone ist sichere Zuflucht für alle, die solche Gefährte
 fahren und instandhalten müssen - die Warlords. Solche Gefährte erbt man für
 gewöhnlich. Nicht alle, die so ein Gefährt fahren, haben lange etwas davon,
-bevor es an die Erben weitergeht. Caroll weiß nichts über den Ort aus meiner
+bevor es an die Erben weitergeht. Carol weiß nichts über den Ort aus meiner
 Vision, nichts über die Frau oder ihr Schwert. Vielleicht haben wir bei Mad
 Maggie selbst mehr Erfolg. Wir machen uns auf den Weg.
 

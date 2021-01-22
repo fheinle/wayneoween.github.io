@@ -15,7 +15,6 @@ paginate:      7
 paginate_path: "/posts/page:num/"
 excerpt_separator: '<!-- more -->'
 
-
 # Build settings
 markdown: kramdown
 plugins:

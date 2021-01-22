@@ -3,7 +3,7 @@ title: Reparaturen
 excerpt: Zurück im wandernden Emporium
 author: Grafton Clarke
 background: "/img/posts/wandering_emporium.png"
-background_pos: 0% 45%
+background_pos: 0% 20%
 layout: post
 ---
 

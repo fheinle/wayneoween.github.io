@@ -3,7 +3,7 @@ title: Der Dämonenschreck
 excerpt: Wir befreien mehr als uns lieb ist
 author: Grafton Clarke
 background: "/img/posts/demon_zapper.jpg"
-background_pos: 0% 45%
+background_pos: 20% 60%
 layout: post
 ---
 

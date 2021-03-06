@@ -53,7 +53,7 @@ Unsere Freunde sind in Gefahr! Bazelsteen zieht ein paar Hebel an einer Art
 Kontrollpult und lässt die Kette weiter hinab. Die Kette wickelt sich um den
 Dämon, zieht diesen weiter hinab. Als Bazelsteen die Kette wieder verkürzt, ist
 kein Dämon mehr dran. Für einige Minuten ist Ruhe. Das ist aber nicht der
-einzige Dämon. Hinter und ertönt lautes Flügelschlagen. Mehrere große Kreaturen
+einzige Dämon. Hinter uns ertönt lautes Flügelschlagen. Mehrere große Kreaturen
 kommen angeflogen. Sie tragen einen weiteren großen Dämon bei sich. Und sie
 kommen hierher. Die fliegenden Dämonen stoßen schrille Schreie aus. Bevor der
 Lärm unsere Ohren und Sinne betäubt, können wir noch schnell den Hebel umlegen,
@@ -75,7 +75,7 @@ hat den Spiegel des Styx passiert und Fyron schießt mit seinem Bogen, balancier
 auf der wackeligen und glitschigen Oberfläche der Kugel. Zusammen gelingt es
 uns, die Angreifer zu erledigen.
 
-Wir nehmen unsere Freunde wieder an Land. Abselstin holt drei große Kanister aus
+Wir nehmen unsere Freunde wieder an Land. Bazelsteen holt drei große Kanister aus
 der bald ankommenden Sphäre und nimmt einen großen Schluck daraus. Offenbar sehr
 gute Seelen. Er ist zufrieden. Wie versprochen gibt es für alle, die unter den
 Styx getaucht sind, eine Seelenmünze und für Ketis den Bonus für die meisten

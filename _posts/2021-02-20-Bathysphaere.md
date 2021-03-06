@@ -15,7 +15,7 @@ Geschäfte wir uns hier einlassen sollen.
 
 ![Bazelsteen](/img/posts/horned_devil.png)
 
-## Baselstins Lebenswerk: Hinab in den Styx
+## Bazelsteens Lebenswerk: Hinab in den Styx
 
 Ein gehörnter Teufel scheint hier das Sagen zu haben. Auf dieser Anlegestelle
 für Luftschiffe wird offenbar eine Art Kran errichtet. Unten am Kran hängt eine

@@ -87,7 +87,7 @@ Avernus liegen. Sie gleichen denen, die {% include glossary_link.html title="Elt
 {% include glossary_link.html title="Elturel" %} war sicherlich nicht die erste Stadt, die diesem Schicksal anheim
 gefallen ist. Wir kommen dem Fluss näher. Aus der Ferne sehen wir Boote auf dem
 Styx fahren. Zu klein für unser Fahrzeug, aber teils voll von Teufeln, teils
-voll von Dämonen. Auch hier wird gekämpft. Allmählich gleich die Gegend mehr der
+voll von Dämonen. Auch hier wird gekämpft. Allmählich gleicht die Gegend mehr der
 Vision von Lulu. Sie erinnert sich noch immer nicht an viel. Mehr Wachtürme.
 
 ![Chain Devil](/img/posts/chain_devil.png)

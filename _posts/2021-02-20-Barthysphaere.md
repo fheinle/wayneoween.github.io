@@ -1,5 +1,5 @@
 ---
-title: Die Barthyshäre
+title: Die Bathysphäre
 excerpt: und die Reise über den Styx
 author: Grafton Clarke
 background: "/img/posts/styx_crossing.png"
@@ -13,13 +13,14 @@ entweder mit ihnen ins Geschäft kommen können oder ins Gefecht. Es sind zwar
 nicht allzu viele, aber doch mehr als wir. Wir sollten uns anhören, auf was für
 Geschäfte wir uns hier einlassen sollen.
 
-![Baselstin](/img/posts/horned_devil.png)
+![Bazelsteen](/img/posts/horned_devil.png)
+
 ## Baselstins Lebenswerk: Hinab in den Styx
 
 Ein gehörnter Teufel scheint hier das Sagen zu haben. Auf dieser Anlegestelle
 für Luftschiffe wird offenbar eine Art Kran errichtet. Unten am Kran hängt eine
 Kugel, die man über den Styx ablassen zu können scheint. Der Teufel stellt sich
-vor - er ist Baselstin und das ist seine Bathysphäre. Seine eigene Erfindung.
+vor - er ist Bazelsteen und das ist seine Bathysphäre. Seine eigene Erfindung.
 Damit kann man verdammte Seelen aus dem Styx fischen, wenn es fertig ist. Die
 Konstruktion sei einfach. Man lässt die Sphäre hinab in den Styx und mit den
 angebrachten Rohren kann man Seelen einsaugen und mit hoch bringen. Alles was
@@ -35,11 +36,11 @@ nicht schlecht. Damit kann man sicherlich zehn oder fünfzehn Minuten unter
 Wasser tauchen, ehe etwas undicht wird oder die Luft ausgeht. Das könnte schon
 klappen, wenn sich jemand findet, der töricht genug ist, in den Styx zu tauchen.
 Fyron, Ketis und Toni sind töricht genug, unter den Styx zu tauchen und melden
-sich freiwillig, die Maschine zu bedienen. Baselstin verspricht, sie nach zehn
+sich freiwillig, die Maschine zu bedienen. Bazelsteen verspricht, sie nach zehn
 Minuten wieder hochzuziehen oder wenn es Anzeichen von Gefahr gibt. Er ist da
 sehr verantwortungsbewusst. Die drei werden also hinab gelassen. Veil und ich
 bleiben oben, beobachten hier alles und haben ein Auge auf den wackeligen Kran.
-Und auf Baselstin. Baselstin macht sich eifrig Notizen in sein Büchlein.
+Und auf Bazelsteen. Baselstin macht sich eifrig Notizen in sein Büchlein.
 Testversuch 221.
 
 ![Glabrezu und Vrock](/img/posts/glabrezu_vrock.png)
@@ -48,9 +49,9 @@ Testversuch 221.
 Die Sphäre wird also hinab gelassen, an einer Kette in den Styx. Keine
 Luftblasen, als sie untertaucht. So weit, so gut. Bis sich seltsame Flecken auf
 dem Wasser des Styx bilden. Als greife eine Hand nach der Kette. Ein Dämon!
-Unsere Freunde sind in Gefahr! Baselstin zieht ein paar Hebel an einer Art
+Unsere Freunde sind in Gefahr! Bazelsteen zieht ein paar Hebel an einer Art
 Kontrollpult und lässt die Kette weiter hinab. Die Kette wickelt sich um den
-Dämon, zieht diesen weiter hinab. Als Baselstin die Kette wieder verkürzt, ist
+Dämon, zieht diesen weiter hinab. Als Bazelsteen die Kette wieder verkürzt, ist
 kein Dämon mehr dran. Für einige Minuten ist Ruhe. Das ist aber nicht der
 einzige Dämon. Hinter und ertönt lautes Flügelschlagen. Mehrere große Kreaturen
 kommen angeflogen. Sie tragen einen weiteren großen Dämon bei sich. Und sie
@@ -61,11 +62,11 @@ können unsere Freunde nicht dort unten lassen, während wir hier oben gegen
 Dämonen kämpfen. Wir können ihre Unterstützung gebrauchen und sie werden
 jemanden brauchen, der sie wieder hoch zieht, ehe ihnen die Luft ausgeht.
 
-Wir stellen uns also dem Kampf. Veil und ich, Baselstin und seine Mitarbeiter
+Wir stellen uns also dem Kampf. Veil und ich, Bazelsteen und seine Mitarbeiter
 gegen die Vrocks und den Glabrezu. Veil ruft um Hilfe und es erscheint wieder
 dieser geisterhafte Hund. Der Glabrezu greift den Kran an, der schon bedrohlich
 schwankt. Offenbar will er ihn einreißen, das können wir ihm nicht erlauben.
-Baselstin stürmt wütend auf den Dämon, sein Lebenswerk will er nicht zerstört
+Bazelsteen stürmt wütend auf den Dämon, sein Lebenswerk will er nicht zerstört
 sehen! Zwischen mir und dem Glabrezu steht ein Vrock, mein eigener Feind. Veil
 wirft wieder ihre Eis-Explosionen, ehe der Glabrezu versucht sie zu packen. Wir
 kämpfen erbittert, es steht viel auf dem Spiel und wir können unsere Freunde
@@ -82,7 +83,7 @@ Seelen. Einen Bonus für besiegte Dämonen an Land gibt es nicht. Dennoch kann e
 uns aber nun einen Gefallen tun. Er passt hier auf unser Fahrzeug auf, während
 wir den Styx überqueren, um das Schiff am anderen Ufer des Flusses herüber zu
 holen. Wie alle guten Vereinbarungen in der Hölle wird so etwas natürlich mit
-einem Vertrag beschlossen. Auch Baselstin scheint sich gut damit auszukennen und
+einem Vertrag beschlossen. Auch Bazelsteen scheint sich gut damit auszukennen und
 beschwört schnell einen weiteren Teufel, auf dessen bald versteinerten Rücken
 der Vertrag niedergeschrieben wird. Toni unterschreibt. Hoffentlich hat er alles
 gelesen.

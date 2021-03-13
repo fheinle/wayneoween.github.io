@@ -48,7 +48,7 @@ also Stege, die wir hinauffahren können und eine starke Stütze darunter, die
 unser Fahrzeug trägt. Die Stütze kann Toni beschwören, mit seiner
 undurchdringlichen Hütte. Doch woher bekommen wir die Stege? Dafür haben wir
 keine Magie. Var’adok kann uns helfen. Für ein paar Seelenmünzen natürlich.
-Magie ist teuer. Er wirkt für uns einen Zauber und aus dem Boden sprießen fünf
+Magie ist teuer. Er wirkt für uns einen Zauber und aus dem Boden sprießen sechs
 Säulen, wie sie die Medusa schon beschworen hat, um uns in ihrer Höhle zu
 zerquetschen. Mit viel Anstrengung gelingt es uns, die Säulen zu kippen und
 tatsächlich als Rampe für unser Fahrzeug zu positionieren. Viel Spielraum beim
@@ -103,7 +103,7 @@ noch sich selbst, gealtert, gezeichnet vom harten Winter und seinen
 Entbehrungen. Wir weichen zurück. Nur Ketis bleibt stehen, wie angefroren. Er
 reagiert nicht auf unser Zurufen und Rütteln. Er beginnt, seinem Spiegelbild
 ähnlich zu werden, wie festgefroren, ehe eher plötzlich wieder aufzuwachen
-scheint. Er hatte eine Eingebung, eine Stimme hat zu ihm gesprochen. Ein Rigorat
+scheint. Er hatte eine Eingebung, eine Stimme hat zu ihm gesprochen. Ein Rigorath
 wolle uns abholen kommen. Wir bekämen, was wir suchen. Die Stimme wüsste, was
 wir suchen. Plötzlich - ein Klopfen von der anderen Seite des Spiegels. Sieht
 man in den Spiel hinein, erkennt man nun einen Teufel auf der anderen Seite. Dem
@@ -119,7 +119,7 @@ habe uns zu sich gerufen. Gleich würde es *etwas* wärmer. Der Teufel beginnt,
 einen Kreis auf dem Boden zu ziehen und irgendeine Art von Magie zu sprechen. In
 eisiger Kälte fällt das Warten schwer.  Nach einer Ewigkeit im Frost erhellt
 sich der Kreis und wir können hindurch schreiten, in eine gewaltigen Halle.
-Weiter gehen weiter nach oben, von wo das Licht kommt. Wir steigen lange Treppen
+Weiter gehen wir nach oben, von wo das Licht kommt. Wir steigen lange Treppen
 empor. Das muss der Turm sein, den wir schon durch den Spiegel haben sehen
 können.
 
@@ -127,23 +127,23 @@ können.
 
 ## Verhandlungen in Cania
 
-Wir kommen zu einem Thron, ganz aus Eis. Aus dem riesigen Thron sitzt eine noch
+Wir kommen zu einem Thron, ganz aus dunklem Eis. Auf dem riesigen Thron sitzt eine noch
 größere Gestalt mit gewaltigen Hörnern. Ein Teufel, ohne Zweifel. Unsere Eskorte
 verbeugt sich tief vor dem Teufel. Das muss Mephistopheles sein. Auch mir wird
 befohlen, mich zu verbeugen, sogar magisch. Dieser Teufel steht aber nicht in
 meiner Befehlskette, auch nicht nach seiner Vorstellung. Unsere Eskorte,
-Rigorat, verkündert laut polternd und triumphieren sämtliche Titel seines Herrn.
+Rigorath, verkündert laut polternd und triumphieren sämtliche Titel seines Herrn.
 Der Herr über die Zitadelle. Der Herr der Gnadenlosigkeit. Herr des
 Höllenfeuers. Kalter Lord. Erzteufel der Widersprüche. Aha, das dachte ich mir
 schon. Noch ein paar Titel. Der Erzteufel scheint die Ansprache zu genießen, ehe
-er zu uns spricht. Wir hätten da etwas ganz interessantes vor. Unser vorhaben,
+er zu uns spricht. Wir hätten da etwas ganz interessantes vor. Unser Vorhaben,
 Zariel etwas wegzunehmen, spiele ihm natürlich in die Karten. Von unserem
 Bel-Jünger habe er schon viel von unseren Plänen erfahren. Stellt sich heraus -
 Ketis seltsame Fähigkeiten kommen nicht von der Magie, oder dem Glauben an einen
 Gott, sondern weil er sich dem Erzteufel Bel verschieben hat. Jetzt ist aber
 nicht viel Zeit, die Loyalitäten gegenüber Teufeln oder Göttern zu diskutieren,
 nicht zu Hofe des Lord der Acht, des Herrn über Schwefel, des Erzherzogs und
-BArons von Cania, und so weiter. Phlegetorianischen Sand wollen wir und es gebe
+Barons von Cania, und so weiter. Phlegetorianischen Sand wollen wir und es gebe
 hier sogar welchen, meint der Teufel. Wir müssten ihn nur holen. Das käme ihm
 sogar gelegen, denn so heißer Sand passe einfach nicht in seine Eishölle hier.
 Jemand muss diesen Sand unabsichtlich oder gar absichtlich hier her gebracht
@@ -162,10 +162,10 @@ Schließlich erlangen wir unseren Vorteil, den Sand, nur, wenn wir auch die
 Aufgabe, den Sand zu beseitigen, erfüllen. Der Teufel zeigt sich einverstanden.
 Wir dürfen aber niemandem verraten, dass in unserem Vertrag keine Vertragsstrafe
 vorgesehen sei. Sonst könne sein Ruf leiden. Also gibt es eine
-Verschwiegenheitsverpflichtung für uns, sollten wir vor Erfüllung des Vertrags
-irgendjemandem offenbaren, dass wir von einer Vertragsstrafe entbunden wurden.
+Verschwiegenheitsverpflichtung für uns, sollten wir vor Erfüllung oder Nichterfüllungr
+des Vertrags irgendjemandem offenbaren, dass wir von einer Vertragsstrafe entbunden wurden.
 
-Viele Zähe Verhandlungen später werden wir uns einig. Wir machen uns auf den Weg
+Eine lange, zähe Verhandlungen später werden wir uns einig. Wir machen uns auf den Weg
 zurück, unseren Auftrag zu erledigen und in wärmere Gefielde zurückzukehren.
 Zurück durch den Spiegel, zurück in der Wärme und auf dem Weg zurück zu unserem
 Fahrzeug wende ich mich an Ketis. Er hat sich tatsächlich in den Dienst von Bel
@@ -214,7 +214,7 @@ befindet. Er kennt den Weg am besten - zu seinem Herrn. Während der Fahrt wärm
 wir uns in der sengenden Hitze von Avernus auf. In der Ferne erblicken wir bald
 eine Menge kleiner Rauchsäulen aufsteigen. Die üblichen ersten Anzeichen eines
 Armeelagers, gleich nahe gelegen. Das Lager muss riesig sein, mehrere
-Bataillone. , gleich an der Seite des Bergs. Wir fahren weiter auf das Lager zu,
+Bataillone, gleich an der Seite des Bergs. Wir fahren weiter auf das Lager zu,
 sicherlich hat man auch uns bereits bemerkt, auch wenn wir die Späher nicht
 bemerkt haben. Wollen wir zur Schmiede, müssen wir ohnehin dort vorbei und
 ungesehen wird es uns nicht gelingen. So dauert es auch nicht lange, ehe wir von
@@ -229,7 +229,7 @@ wieso wir seine Leiche nie gefunden haben. Da muss ich mich von den in der Höll
 wachsenden Bäumen und Gräsern zu sehr ablenken lassen. Hier auf dieser Seite des
 Berges seien wir jedoch falsch, der Eingang zur Schmiede befinde sich auf der
 anderen Seite des großen Sees, der hier den Weg versperrt und um dorthin zu
-komnen, müssen wir den Berg einmal in der anderen Richtung umrunden.
+kommen, müssen wir den Berg einmal in der anderen Richtung umrunden.
 
 Auf der anderen Seite des Berges stoßen wir auf eine große schwarze Festung,
 eingelassen in seinen Fuß. Das muss der Eingang sein. Abermals werden wir hier

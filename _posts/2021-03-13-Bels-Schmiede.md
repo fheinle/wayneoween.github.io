@@ -38,11 +38,11 @@ darin. Ein geisterhaftes Gesicht ist alles, was noch übrig bleibt, ehe es ganz
 untergetaucht ist. Aus der Lava empor steigt jemand anderes - Gargauth, befreit.
 Die Lage scheint ernst. Bel hat vollkommen das Interesse an uns und den Stäben
 verloren. Die Feuerriesen werden befreit. Er verspricht ihnen die Freiheit, wenn
-sie Bel aufhalten. Gargauth verliert ebenfalls keine Zeit. Er will diese
+sie Gargauth aufhalten. Gargauth verliert ebenfalls keine Zeit. Er will diese
 Schmiede übernehmen. Dazu nutzt er sein Schwert, Bel anzugreifen. Mit unserer
 Magie können wir wenig gegen ihn ausrichten. Tonis magische Geschosse, mein
 heiliges Feuer Torms - nichts zeigt Wirkung gegen Gargauth. Die Riesen stürmen
-auf ihn zu, immerhin ihre kräftigen Hiebe scheinen Bel zu verwunden. Doch wenig
+auf ihn zu, immerhin ihre kräftigen Hiebe scheinen Gargauth zu verwunden. Doch wenig
 später schließen sich die Verletzungen schon wieder. Hier gibt es wenig für uns
 zu holen. Rückzug ist der einzige Weg. Den gleichen Gedanken scheint Bel zu
 haben. Gerade stand er noch neben seinem Thron, im Kampf gegen Gargauth. Nun
@@ -93,7 +93,7 @@ geheimniskrämerisch. Ein paar Gesprächsfetzen schnappen wir auf. Sasilas ist
 wohl nicht mehr tot. Fyron ist hier, Yoryth zu retten. Das ist gelungen. Nun sei
 es an Yoryth, die Heimat wieder aufzubauen. Yoryth scheint sich nicht so sicher,
 ob es noch viel Zuhause gibt. Ohne den Schild gebe es für den das Fey keinen
-Grund, Duranor weiter zu verstecken. Überhaupt sei er auch nur hier, weil er Bel
+Grund, Durannor weiter zu verstecken. Überhaupt sei er auch nur hier, weil er Bel
 versprochen habe, Waffen zu schmieden als Gegenleistung für den Schutz ihres
 Zuhauses. Ich verstehe nicht viel davon. Klar ist, dass Fyron große Risiken
 eingegangen ist und viel Aufwand betrieben hat, Yoryth zu retten. Mit der
@@ -110,7 +110,7 @@ unserem Unterfangen. Bel sei früher in der Konstruktion der Docks für die Stä
 und Luftschiffe beteiligt gewesen. Dafür gab es auch eine Art Kontrollstation in
 der Nähe. Dort könne es am ehesten gelingen, die Ketten zu lösen, die {% include glossary_link.html title="Elturel" %}
 hinabziehen. Außerdem hätten sie ein Sibriex gefangen. Einen Siebrix? Ein
-mächtiges Wesen jedenfalls, ein sehr gefährlicher Dämon, der seine Gestalt
+mächtiges Wesen jedenfalls, ein sehr gefährlicher Dämon, der anderer Leute Gestalt
 wandeln kann. Von ihm könnten wir viel erfahren, er handle mit Informationen.
 Etwa darüber, wo Ketis die verbliebenen Stäbe finden könne. Darüber scheint
 Ketis einen Vertrag mit ihm zu haben. Die Stäbe zu beschaffen.
@@ -158,7 +158,7 @@ Am Floß angekommen lassen wir unser Fahrzeug übersetzen. Ein Knochenteufel
 befehligt eine kleine Schar kleinerer Teufel. Nach etwa einer Stunde haben sie
 uns über die gefährlichen Strömungen des Styx befördert. Wir nutzen die Zeit.
 Veil verbannt Mondfarbe aus dieser Hölle zurück in seine Heimat. Mondfarbe hat
-seine Schuldigkeit hier längst getan. Der Aufenthalt hier behagt ihm nicht, so
-richtig zu erholen scheint er sich nie. Schicken wir ihn lieber zurück nach
-Mount Celestia. Vielleicht kann er dort noch ein gutes Wort für uns einlegen,
+seine Schuldigkeit hier längst getan. Der Aufenthalt hier behagt ihr nicht, so
+richtig zu erholen scheint sie sich nie. So schicken wir sie lieber zurück nach
+Mount Celestia. Vielleicht kann dort noch ein gutes Wort für uns eingelegt werden,
 das Torm und Tyr erreicht.

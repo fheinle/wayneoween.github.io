@@ -11,4 +11,4 @@ RUN apk add --update --no-cache git nodejs
 RUN adduser -D jekyll
 WORKDIR /home/jekyll
 USER jekyll
-CMD ["jekyll", "serve", "-l"]
+CMD ["jekyll", "serve", "-l", "-H", "0.0.0.0"]
